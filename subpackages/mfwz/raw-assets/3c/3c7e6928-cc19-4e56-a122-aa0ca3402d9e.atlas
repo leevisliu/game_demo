@@ -1,0 +1,69 @@
+
+baozhaf1.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 707, 39
+  size: 248, 191
+  orig: 248, 191
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 1401, 42
+  size: 188, 214
+  orig: 188, 214
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1617, 39
+  size: 191, 206
+  orig: 191, 206
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 957, 22
+  size: 208, 227
+  orig: 208, 227
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 239, 11
+  size: 238, 219
+  orig: 238, 219
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 479, 11
+  size: 219, 226
+  orig: 219, 226
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 2
+  size: 235, 228
+  orig: 235, 228
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 1186, 30
+  size: 200, 213
+  orig: 200, 213
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1825, 80
+  size: 208, 150
+  orig: 208, 150
+  offset: 0, 0
+  index: -1

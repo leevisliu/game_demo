@@ -1,0 +1,27 @@
+
+caishen3.png
+size: 264,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 2, 135
+  size: 260, 230
+  orig: 260, 230
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 2, 2
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+xingguang
+  rotate: false
+  xy: 137, 107
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1

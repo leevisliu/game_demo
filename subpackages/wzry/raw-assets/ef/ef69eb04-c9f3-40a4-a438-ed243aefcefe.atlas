@@ -1,0 +1,48 @@
+
+zaici.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l
+  rotate: false
+  xy: 2, 281
+  size: 1282, 215
+  orig: 1282, 215
+  offset: 0, 0
+  index: -1
+vs
+  rotate: false
+  xy: 2, 2
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 1286, 372
+  size: 685, 124
+  orig: 685, 124
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 687, 10
+  size: 274, 269
+  orig: 274, 269
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 2, 125
+  size: 683, 154
+  orig: 683, 154
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 963, 31
+  size: 237, 248
+  orig: 237, 248
+  offset: 0, 0
+  index: -1

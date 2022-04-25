@@ -1,0 +1,139 @@
+
+julebu.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 88
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 1190, 88
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+011
+  rotate: false
+  xy: 1322, 88
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+012
+  rotate: false
+  xy: 1454, 88
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+013
+  rotate: false
+  xy: 1586, 88
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+014
+  rotate: false
+  xy: 1718, 88
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 134, 88
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 266, 88
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 398, 88
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 530, 88
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 662, 88
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 794, 88
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 926, 88
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 1058, 88
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 1850, 93
+  size: 121, 125
+  orig: 121, 125
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 2
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+qizhi
+  rotate: false
+  xy: 1973, 163
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 2, 50
+  size: 84, 36
+  orig: 84, 36
+  offset: 0, 0
+  index: -1
+you
+  rotate: true
+  xy: 88, 71
+  size: 15, 51
+  orig: 15, 51
+  offset: 0, 0
+  index: -1

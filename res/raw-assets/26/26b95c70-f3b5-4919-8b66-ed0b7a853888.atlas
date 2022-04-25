@@ -1,0 +1,118 @@
+
+qiangzhuangniuniu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 468, 166
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 306, 5
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 400, 125
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+cao
+  rotate: false
+  xy: 425, 168
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+cao1
+  rotate: true
+  xy: 490, 217
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+daizi
+  rotate: false
+  xy: 370, 123
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 431, 142
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+lin
+  rotate: false
+  xy: 306, 66
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+piao
+  rotate: true
+  xy: 195, 98
+  size: 57, 130
+  orig: 57, 130
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 188, 2
+  size: 116, 94
+  orig: 116, 94
+  offset: 0, 0
+  index: -1
+q
+  rotate: true
+  xy: 306, 35
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+qigan
+  rotate: true
+  xy: 2, 8
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 425, 195
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 327, 115
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+tai
+  rotate: false
+  xy: 195, 157
+  size: 228, 88
+  orig: 228, 88
+  offset: 0, 0
+  index: -1
+zhuti
+  rotate: false
+  xy: 2, 105
+  size: 191, 140
+  orig: 191, 140
+  offset: 0, 0
+  index: -1

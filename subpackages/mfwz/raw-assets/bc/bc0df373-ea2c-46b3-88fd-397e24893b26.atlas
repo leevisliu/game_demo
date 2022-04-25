@@ -1,0 +1,55 @@
+
+baozhag2.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1479, 24
+  size: 147, 192
+  orig: 147, 192
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 1274, 21
+  size: 195, 203
+  orig: 195, 203
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 260, 25
+  size: 271, 191
+  orig: 271, 191
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 797, 17
+  size: 199, 242
+  orig: 199, 242
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 2, 2
+  size: 214, 256
+  orig: 214, 256
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 533, 24
+  size: 262, 192
+  orig: 262, 192
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 1041, 14
+  size: 202, 231
+  orig: 202, 231
+  offset: 0, 0
+  index: -1

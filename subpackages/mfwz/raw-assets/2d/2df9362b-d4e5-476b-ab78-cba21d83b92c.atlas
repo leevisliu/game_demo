@@ -1,0 +1,104 @@
+
+gandaofu.png
+size: 2460,568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2005, 246
+  size: 373, 317
+  orig: 373, 317
+  offset: 0, 0
+  index: -1
+4_
+  rotate: false
+  xy: 2, 156
+  size: 587, 140
+  orig: 587, 140
+  offset: 0, 0
+  index: -1
+4_4
+  rotate: false
+  xy: 1051, 240
+  size: 608, 85
+  orig: 608, 85
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 298
+  size: 1047, 265
+  orig: 1047, 265
+  offset: 0, 0
+  index: -1
+a1
+  rotate: true
+  xy: 977, 64
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+a2
+  rotate: true
+  xy: 2380, 404
+  size: 159, 70
+  orig: 159, 70
+  offset: 0, 0
+  index: -1
+hh_00
+  rotate: false
+  xy: 2, 15
+  size: 555, 139
+  orig: 555, 139
+  offset: 0, 0
+  index: -1
+ll_00
+  rotate: false
+  xy: 559, 25
+  size: 416, 104
+  orig: 416, 104
+  offset: 0, 0
+  index: -1
+pp_00
+  rotate: false
+  xy: 591, 131
+  size: 433, 165
+  orig: 433, 165
+  offset: 0, 0
+  index: -1
+sd_00
+  rotate: false
+  xy: 1051, 327
+  size: 475, 236
+  orig: 475, 236
+  offset: 0, 0
+  index: -1
+sd_01
+  rotate: false
+  xy: 1528, 327
+  size: 475, 236
+  orig: 475, 236
+  offset: 0, 0
+  index: -1
+sd_02
+  rotate: false
+  xy: 1026, 2
+  size: 475, 236
+  orig: 475, 236
+  offset: 0, 0
+  index: -1
+sd_03
+  rotate: false
+  xy: 1503, 2
+  size: 475, 236
+  orig: 475, 236
+  offset: 0, 0
+  index: -1
+sd_04
+  rotate: false
+  xy: 1980, 8
+  size: 475, 236
+  orig: 475, 236
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+caishen.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caidai
+  rotate: false
+  xy: 694, 750
+  size: 392, 81
+  orig: 392, 81
+  offset: 0, 0
+  index: -1
+caishen
+  rotate: false
+  xy: 2, 334
+  size: 303, 497
+  orig: 303, 497
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 2
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+hongbao
+  rotate: false
+  xy: 307, 648
+  size: 385, 183
+  orig: 385, 183
+  offset: 0, 0
+  index: -1
+qiandao_guangxiao_00
+  rotate: true
+  xy: 834, 346
+  size: 198, 199
+  orig: 198, 199
+  offset: 0, 0
+  index: -1
+qiandao_guangxiao_01
+  rotate: true
+  xy: 1088, 633
+  size: 198, 199
+  orig: 198, 199
+  offset: 0, 0
+  index: -1
+qiandao_guangxiao_02
+  rotate: false
+  xy: 834, 546
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+qiandao_guangxiao_03
+  rotate: false
+  xy: 3861, 1798
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+qiandao_guangxiao_04
+  rotate: false
+  xy: 583, 396
+  size: 249, 250
+  orig: 249, 250
+  offset: 0, 0
+  index: -1
+qiandao_guangxiao_05
+  rotate: false
+  xy: 3304, 1189
+  size: 267, 266
+  orig: 267, 266
+  offset: 0, 0
+  index: -1
+qiandao_guangxiao_06
+  rotate: false
+  xy: 2, 50
+  size: 283, 282
+  orig: 283, 282
+  offset: 0, 0
+  index: -1
+qiandao_guangxiao_07
+  rotate: false
+  xy: 307, 371
+  size: 274, 275
+  orig: 274, 275
+  offset: 0, 0
+  index: -1
+qiandao_guangxiao_08
+  rotate: false
+  xy: 3304, 929
+  size: 259, 258
+  orig: 259, 258
+  offset: 0, 0
+  index: -1
+qiandao_guangxiao_09
+  rotate: false
+  xy: 3304, 1457
+  size: 275, 276
+  orig: 275, 276
+  offset: 0, 0
+  index: -1
+qiandao_guangxiao_10
+  rotate: false
+  xy: 3304, 1735
+  size: 281, 289
+  orig: 281, 289
+  offset: 0, 0
+  index: -1
+qiandao_guangxiao_11
+  rotate: false
+  xy: 3587, 1746
+  size: 272, 278
+  orig: 272, 278
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 3304, 849
+  size: 239, 78
+  orig: 239, 78
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 1289, 758
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+yuanbao
+  rotate: true
+  xy: 2, 833
+  size: 1191, 3300
+  orig: 1191, 3300
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 694, 670
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1

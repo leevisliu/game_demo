@@ -1,0 +1,174 @@
+
+zhongjifang.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dongwu
+  rotate: false
+  xy: 493, 91
+  size: 163, 146
+  orig: 163, 146
+  offset: 0, 0
+  index: -1
+dongwu2
+  rotate: false
+  xy: 658, 141
+  size: 130, 96
+  orig: 130, 96
+  offset: 0, 0
+  index: -1
+huo_00000
+  rotate: false
+  xy: 790, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00001
+  rotate: false
+  xy: 860, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00002
+  rotate: false
+  xy: 930, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00003
+  rotate: false
+  xy: 1000, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00004
+  rotate: false
+  xy: 1070, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00005
+  rotate: false
+  xy: 1140, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00006
+  rotate: false
+  xy: 1210, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00007
+  rotate: false
+  xy: 1280, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00008
+  rotate: false
+  xy: 1350, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00009
+  rotate: false
+  xy: 1420, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00010
+  rotate: false
+  xy: 1490, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00011
+  rotate: false
+  xy: 1560, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00012
+  rotate: false
+  xy: 1630, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00013
+  rotate: false
+  xy: 1700, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00014
+  rotate: false
+  xy: 1770, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00015
+  rotate: false
+  xy: 1840, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00016
+  rotate: false
+  xy: 1910, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00017
+  rotate: true
+  xy: 1980, 169
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+qizhi
+  rotate: true
+  xy: 2, 41
+  size: 196, 298
+  orig: 196, 298
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 493, 52
+  size: 101, 37
+  orig: 101, 37
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 2, 2
+  size: 107, 37
+  orig: 107, 37
+  offset: 0, 0
+  index: -1
+yuanpan
+  rotate: false
+  xy: 302, 52
+  size: 189, 185
+  orig: 189, 185
+  offset: 0, 0
+  index: -1

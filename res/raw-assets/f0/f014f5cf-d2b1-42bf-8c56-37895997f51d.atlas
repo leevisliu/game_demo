@@ -1,0 +1,69 @@
+
+shibai.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: true
+  xy: 169, 12
+  size: 173, 157
+  orig: 173, 157
+  offset: 0, 0
+  index: -1
+diwen
+  rotate: false
+  xy: 2, 187
+  size: 322, 322
+  orig: 322, 322
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 600, 188
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 557, 180
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: false
+  xy: 557, 138
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+shi
+  rotate: false
+  xy: 2, 2
+  size: 165, 183
+  orig: 165, 183
+  offset: 0, 0
+  index: -1
+yun-1
+  rotate: false
+  xy: 326, 224
+  size: 333, 285
+  orig: 333, 285
+  offset: 0, 0
+  index: -1
+yun-2
+  rotate: false
+  xy: 661, 235
+  size: 333, 274
+  orig: 333, 274
+  offset: 0, 0
+  index: -1
+zhaungshi
+  rotate: false
+  xy: 328, 8
+  size: 227, 214
+  orig: 227, 214
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+benchibaoma.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao1
+  rotate: false
+  xy: 485, 164
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+cao2
+  rotate: false
+  xy: 244, 79
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+caodi
+  rotate: false
+  xy: 138, 133
+  size: 200, 44
+  orig: 200, 44
+  offset: 0, 0
+  index: -1
+erduo1
+  rotate: false
+  xy: 315, 200
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+erduo2
+  rotate: true
+  xy: 78, 2
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: true
+  xy: 138, 105
+  size: 26, 70
+  orig: 26, 70
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 485, 186
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+gan
+  rotate: true
+  xy: 138, 179
+  size: 75, 175
+  orig: 75, 175
+  offset: 0, 0
+  index: -1
+houtui1
+  rotate: true
+  xy: 210, 100
+  size: 31, 65
+  orig: 31, 65
+  offset: 0, 0
+  index: -1
+houtui2
+  rotate: true
+  xy: 202, 65
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+maan
+  rotate: true
+  xy: 134, 69
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+mache
+  rotate: false
+  xy: 2, 113
+  size: 134, 141
+  orig: 134, 141
+  offset: 0, 0
+  index: -1
+mayinying
+  rotate: true
+  xy: 456, 217
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+piao1
+  rotate: false
+  xy: 315, 220
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+piao2
+  rotate: false
+  xy: 456, 132
+  size: 27, 83
+  orig: 27, 83
+  offset: 0, 0
+  index: -1
+qiantui2
+  rotate: true
+  xy: 78, 20
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+qizi
+  rotate: true
+  xy: 2, 59
+  size: 52, 130
+  orig: 52, 130
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 340, 135
+  size: 114, 119
+  orig: 114, 119
+  offset: 0, 0
+  index: -1
+shitou
+  rotate: false
+  xy: 2, 17
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 277, 105
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1

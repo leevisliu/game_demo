@@ -1,0 +1,202 @@
+
+he.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/001
+  rotate: false
+  xy: 301, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/di
+  rotate: false
+  xy: 2, 287
+  size: 297, 199
+  orig: 297, 199
+  offset: 0, 0
+  index: -1
+images/he_00000
+  rotate: false
+  xy: 463, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00001
+  rotate: false
+  xy: 625, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00002
+  rotate: false
+  xy: 787, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00003
+  rotate: false
+  xy: 949, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00004
+  rotate: false
+  xy: 1111, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00005
+  rotate: false
+  xy: 1273, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00006
+  rotate: false
+  xy: 1435, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00007
+  rotate: false
+  xy: 1597, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00008
+  rotate: false
+  xy: 1759, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00009
+  rotate: false
+  xy: 164, 125
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00010
+  rotate: false
+  xy: 326, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00011
+  rotate: false
+  xy: 488, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00012
+  rotate: false
+  xy: 650, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00013
+  rotate: false
+  xy: 812, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00014
+  rotate: false
+  xy: 974, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00015
+  rotate: false
+  xy: 1136, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00016
+  rotate: false
+  xy: 1298, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00017
+  rotate: false
+  xy: 1460, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00018
+  rotate: false
+  xy: 1622, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00019
+  rotate: false
+  xy: 1784, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00020
+  rotate: false
+  xy: 326, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00021
+  rotate: false
+  xy: 488, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00022
+  rotate: false
+  xy: 650, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00023
+  rotate: false
+  xy: 812, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00024
+  rotate: false
+  xy: 974, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+images/he_00025
+  rotate: false
+  xy: 2, 125
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1

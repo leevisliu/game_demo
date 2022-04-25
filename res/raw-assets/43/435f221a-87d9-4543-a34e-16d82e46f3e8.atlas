@@ -1,0 +1,62 @@
+
+sihuaniu.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 55
+  size: 231, 67
+  orig: 231, 67
+  offset: 0, 0
+  index: -1
+hu;u
+  rotate: false
+  xy: 154, 27
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 448, 97
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 409, 84
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 2, 16
+  size: 150, 37
+  orig: 150, 37
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 2, 2
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 235, 72
+  size: 105, 50
+  orig: 105, 50
+  offset: 0, 0
+  index: -1
+zy
+  rotate: false
+  xy: 342, 65
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+langren2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 53
+  size: 180, 183
+  orig: 180, 183
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 340, 94
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+xuedi
+  rotate: true
+  xy: 984, 202
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+yuan1
+  rotate: true
+  xy: 893, 148
+  size: 88, 89
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+yuan2
+  rotate: false
+  xy: 703, 145
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+zhe
+  rotate: false
+  xy: 703, 145
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+yuan3
+  rotate: false
+  xy: 184, 79
+  size: 154, 157
+  orig: 154, 157
+  offset: 0, 0
+  index: -1
+zhua1
+  rotate: false
+  xy: 599, 120
+  size: 102, 116
+  orig: 102, 116
+  offset: 0, 0
+  index: -1
+zhua2
+  rotate: true
+  xy: 796, 149
+  size: 87, 95
+  orig: 87, 95
+  offset: 0, 0
+  index: -1
+zhua3
+  rotate: true
+  xy: 184, 2
+  size: 75, 87
+  orig: 75, 87
+  offset: 0, 0
+  index: -1
+zhuazi
+  rotate: false
+  xy: 484, 113
+  size: 113, 123
+  orig: 113, 123
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+kaishi.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 11
+  size: 591, 204
+  orig: 591, 204
+  offset: 0, 0
+  index: -1
+shang
+  rotate: false
+  xy: 2, 2
+  size: 557, 7
+  orig: 557, 7
+  offset: 0, 0
+  index: -1
+xia
+  rotate: false
+  xy: 2, 2
+  size: 557, 7
+  orig: 557, 7
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 595, 16
+  size: 302, 82
+  orig: 302, 82
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 595, 100
+  size: 486, 115
+  orig: 486, 115
+  offset: 0, 0
+  index: -1

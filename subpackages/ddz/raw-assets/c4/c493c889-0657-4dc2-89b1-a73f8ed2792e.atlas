@@ -1,0 +1,27 @@
+
+nongminshengli.png
+size: 584,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piaodai
+  rotate: false
+  xy: 2, 87
+  size: 417, 137
+  orig: 417, 137
+  offset: 0, 0
+  index: -1
+ren
+  rotate: false
+  xy: 421, 2
+  size: 161, 222
+  orig: 161, 222
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 2, 25
+  size: 228, 60
+  orig: 228, 60
+  offset: 0, 0
+  index: -1

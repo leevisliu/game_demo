@@ -1,0 +1,174 @@
+
+xisnhoufang.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dongwu
+  rotate: false
+  xy: 492, 58
+  size: 173, 180
+  orig: 173, 180
+  offset: 0, 0
+  index: -1
+huo_00000
+  rotate: false
+  xy: 667, 172
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00001
+  rotate: false
+  xy: 667, 104
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00002
+  rotate: false
+  xy: 737, 172
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00003
+  rotate: false
+  xy: 737, 104
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00004
+  rotate: false
+  xy: 807, 172
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00005
+  rotate: false
+  xy: 807, 104
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00006
+  rotate: false
+  xy: 877, 172
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00007
+  rotate: false
+  xy: 877, 104
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00008
+  rotate: false
+  xy: 947, 172
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00009
+  rotate: false
+  xy: 947, 104
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00010
+  rotate: false
+  xy: 1017, 172
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00011
+  rotate: false
+  xy: 1017, 104
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00012
+  rotate: false
+  xy: 1087, 172
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00013
+  rotate: false
+  xy: 1087, 104
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00014
+  rotate: false
+  xy: 1157, 172
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00015
+  rotate: false
+  xy: 1157, 104
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00016
+  rotate: false
+  xy: 1227, 172
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00017
+  rotate: false
+  xy: 1227, 104
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+qizhi
+  rotate: true
+  xy: 2, 41
+  size: 197, 297
+  orig: 197, 297
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 2, 2
+  size: 102, 37
+  orig: 102, 37
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 667, 62
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 1297, 189
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+yuanpan
+  rotate: false
+  xy: 301, 53
+  size: 189, 185
+  orig: 189, 185
+  offset: 0, 0
+  index: -1

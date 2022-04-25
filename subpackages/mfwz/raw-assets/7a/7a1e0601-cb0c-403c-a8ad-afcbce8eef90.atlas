@@ -1,0 +1,433 @@
+
+yanlongwang.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon_0
+  rotate: false
+  xy: 3904, 1713
+  size: 127, 75
+  orig: 129, 77
+  offset: 1, 1
+  index: -1
+dragon_1
+  rotate: false
+  xy: 230, 2
+  size: 128, 119
+  orig: 130, 123
+  offset: 1, 1
+  index: -1
+dragon_10
+  rotate: false
+  xy: 1503, 1739
+  size: 538, 307
+  orig: 540, 309
+  offset: 1, 1
+  index: -1
+dragon_12
+  rotate: false
+  xy: 360, 2
+  size: 127, 119
+  orig: 129, 123
+  offset: 1, 1
+  index: -1
+dragon_13
+  rotate: false
+  xy: 2077, 828
+  size: 69, 104
+  orig: 71, 106
+  offset: 1, 1
+  index: -1
+dragon_14
+  rotate: true
+  xy: 1449, 906
+  size: 370, 372
+  orig: 372, 374
+  offset: 1, 1
+  index: -1
+dragon_15
+  rotate: true
+  xy: 3954, 1481
+  size: 111, 98
+  orig: 114, 100
+  offset: 2, 1
+  index: -1
+dragon_16
+  rotate: false
+  xy: 3342, 1538
+  size: 109, 147
+  orig: 111, 150
+  offset: 1, 1
+  index: -1
+dragon_2
+  rotate: false
+  xy: 1949, 1278
+  size: 69, 103
+  orig: 71, 106
+  offset: 1, 2
+  index: -1
+dragon_3
+  rotate: false
+  xy: 2855, 1216
+  size: 180, 137
+  orig: 182, 139
+  offset: 1, 1
+  index: -1
+dragon_5
+  rotate: false
+  xy: 1234, 798
+  size: 198, 131
+  orig: 200, 133
+  offset: 1, 1
+  index: -1
+dragon_6
+  rotate: false
+  xy: 978, 1701
+  size: 523, 345
+  orig: 525, 347
+  offset: 1, 1
+  index: -1
+dragon_7
+  rotate: true
+  xy: 1452, 1556
+  size: 143, 49
+  orig: 145, 51
+  offset: 1, 1
+  index: -1
+dragon_8
+  rotate: true
+  xy: 3950, 1594
+  size: 117, 98
+  orig: 119, 100
+  offset: 1, 1
+  index: -1
+dragon_9
+  rotate: false
+  xy: 1688, 748
+  size: 100, 156
+  orig: 102, 158
+  offset: 1, 1
+  index: -1
+huolong_die_fire_01
+  rotate: true
+  xy: 2329, 1321
+  size: 346, 267
+  orig: 518, 432
+  offset: 43, 26
+  index: -1
+huolong_die_fire_02
+  rotate: false
+  xy: 2598, 1355
+  size: 361, 321
+  orig: 518, 432
+  offset: 48, 26
+  index: -1
+huolong_die_fire_03
+  rotate: false
+  xy: 1823, 934
+  size: 337, 342
+  orig: 518, 432
+  offset: 29, 26
+  index: -1
+huolong_die_fire_04
+  rotate: false
+  xy: 1961, 1383
+  size: 366, 284
+  orig: 518, 432
+  offset: 28, 26
+  index: -1
+huolong_die_fire_05
+  rotate: false
+  xy: 1452, 1278
+  size: 409, 228
+  orig: 518, 432
+  offset: 31, 26
+  index: -1
+huolong_die_fire_06
+  rotate: false
+  xy: 1503, 1508
+  size: 456, 229
+  orig: 518, 432
+  offset: 28, 26
+  index: -1
+huolong_die_fire_07
+  rotate: false
+  xy: 490, 902
+  size: 486, 374
+  orig: 518, 432
+  offset: 16, 24
+  index: -1
+huolong_die_fire_08
+  rotate: false
+  xy: 2, 1663
+  size: 486, 383
+  orig: 518, 432
+  offset: 16, 24
+  index: -1
+huolong_die_fire_09
+  rotate: false
+  xy: 2, 1278
+  size: 486, 383
+  orig: 518, 432
+  offset: 16, 24
+  index: -1
+huolong_die_fire_10
+  rotate: false
+  xy: 490, 1663
+  size: 486, 383
+  orig: 518, 432
+  offset: 16, 24
+  index: -1
+huolong_die_fire_11
+  rotate: false
+  xy: 2, 893
+  size: 486, 383
+  orig: 518, 432
+  offset: 16, 24
+  index: -1
+huolong_die_fire_12
+  rotate: false
+  xy: 490, 1278
+  size: 486, 383
+  orig: 518, 432
+  offset: 16, 24
+  index: -1
+huolong_die_fire_13
+  rotate: false
+  xy: 978, 1316
+  size: 472, 383
+  orig: 518, 432
+  offset: 16, 24
+  index: -1
+huolong_die_fire_14
+  rotate: false
+  xy: 2, 508
+  size: 479, 383
+  orig: 518, 432
+  offset: 16, 24
+  index: -1
+huolong_die_fire_15
+  rotate: false
+  xy: 978, 931
+  size: 469, 383
+  orig: 518, 432
+  offset: 16, 24
+  index: -1
+huolong_die_fire_16
+  rotate: false
+  xy: 2, 123
+  size: 470, 383
+  orig: 518, 432
+  offset: 16, 24
+  index: -1
+huolong_die_fire_17
+  rotate: false
+  xy: 2043, 1669
+  size: 470, 377
+  orig: 518, 432
+  offset: 16, 30
+  index: -1
+huolong_die_fire_18
+  rotate: false
+  xy: 2515, 1678
+  size: 468, 368
+  orig: 518, 432
+  offset: 16, 39
+  index: -1
+huolong_die_fire_19
+  rotate: false
+  xy: 2985, 1687
+  size: 466, 359
+  orig: 518, 432
+  offset: 16, 48
+  index: -1
+huolong_die_fire_20
+  rotate: false
+  xy: 3453, 1700
+  size: 449, 346
+  orig: 518, 432
+  offset: 33, 59
+  index: -1
+long_fire_01
+  rotate: false
+  xy: 3904, 1700
+  size: 11, 11
+  orig: 259, 138
+  offset: 240, 115
+  index: -1
+long_fire_02
+  rotate: false
+  xy: 1961, 1709
+  size: 33, 28
+  orig: 259, 138
+  offset: 218, 102
+  index: -1
+long_fire_03
+  rotate: false
+  xy: 2961, 1364
+  size: 93, 59
+  orig: 259, 138
+  offset: 162, 71
+  index: -1
+long_fire_04
+  rotate: true
+  xy: 1863, 1351
+  size: 155, 84
+  orig: 259, 138
+  offset: 97, 47
+  index: -1
+long_fire_05
+  rotate: false
+  xy: 3697, 1340
+  size: 218, 99
+  orig: 259, 138
+  offset: 36, 33
+  index: -1
+long_fire_06
+  rotate: false
+  xy: 2, 2
+  size: 226, 119
+  orig: 259, 138
+  offset: 26, 11
+  index: -1
+long_fire_07
+  rotate: false
+  xy: 2298, 1187
+  size: 253, 132
+  orig: 259, 138
+  offset: 0, 1
+  index: -1
+long_fire_08
+  rotate: false
+  xy: 2298, 796
+  size: 253, 122
+  orig: 259, 138
+  offset: 0, 12
+  index: -1
+long_fire_09
+  rotate: false
+  xy: 3706, 1569
+  size: 242, 129
+  orig: 259, 138
+  offset: 10, 1
+  index: -1
+long_fire_10
+  rotate: false
+  xy: 3090, 1433
+  size: 249, 125
+  orig: 259, 138
+  offset: 3, 6
+  index: -1
+long_fire_11
+  rotate: false
+  xy: 2298, 1053
+  size: 252, 132
+  orig: 259, 138
+  offset: 1, 1
+  index: -1
+long_fire_12
+  rotate: true
+  xy: 2961, 1425
+  size: 251, 127
+  orig: 259, 138
+  offset: 2, 9
+  index: -1
+long_fire_13
+  rotate: false
+  xy: 1434, 779
+  size: 252, 125
+  orig: 259, 138
+  offset: 1, 13
+  index: -1
+long_fire_14
+  rotate: false
+  xy: 3090, 1560
+  size: 250, 125
+  orig: 259, 138
+  offset: 3, 7
+  index: -1
+long_fire_15
+  rotate: true
+  xy: 2162, 1127
+  size: 254, 134
+  orig: 259, 138
+  offset: 2, 0
+  index: -1
+long_fire_16
+  rotate: false
+  xy: 978, 803
+  size: 254, 126
+  orig: 259, 138
+  offset: 1, 8
+  index: -1
+long_fire_17
+  rotate: false
+  xy: 3453, 1450
+  size: 249, 123
+  orig: 259, 138
+  offset: 2, 9
+  index: -1
+long_fire_18
+  rotate: false
+  xy: 2298, 920
+  size: 253, 131
+  orig: 259, 138
+  offset: 1, 4
+  index: -1
+long_fire_19
+  rotate: false
+  xy: 3704, 1441
+  size: 248, 126
+  orig: 259, 138
+  offset: 4, 6
+  index: -1
+long_fire_20
+  rotate: true
+  xy: 2162, 875
+  size: 250, 134
+  orig: 259, 138
+  offset: 4, 0
+  index: -1
+long_fire_21
+  rotate: false
+  xy: 3453, 1575
+  size: 251, 123
+  orig: 259, 138
+  offset: 1, 10
+  index: -1
+long_fire_22
+  rotate: false
+  xy: 3453, 1320
+  size: 242, 128
+  orig: 259, 138
+  offset: 10, 4
+  index: -1
+long_fire_23
+  rotate: true
+  xy: 3341, 1288
+  size: 248, 110
+  orig: 259, 138
+  offset: 5, 21
+  index: -1
+long_fire_24
+  rotate: false
+  xy: 1823, 811
+  size: 252, 121
+  orig: 259, 138
+  offset: 3, 12
+  index: -1
+long_fire_32
+  rotate: true
+  xy: 3904, 1790
+  size: 256, 137
+  orig: 259, 138
+  offset: 3, 1
+  index: -1
+long_fire_33
+  rotate: false
+  xy: 2598, 1222
+  size: 255, 131
+  orig: 259, 138
+  offset: 4, 6
+  index: -1

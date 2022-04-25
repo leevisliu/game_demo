@@ -1,0 +1,55 @@
+
+jinenggandaofu.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 607, 167
+  size: 471, 161
+  orig: 471, 161
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 495, 171
+  orig: 495, 171
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1103, 328
+  size: 487, 165
+  orig: 487, 165
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1080, 177
+  size: 469, 149
+  orig: 469, 149
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 609, 330
+  size: 492, 163
+  orig: 492, 163
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 331
+  size: 605, 162
+  orig: 605, 162
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 175
+  size: 603, 154
+  orig: 603, 154
+  offset: 0, 0
+  index: -1

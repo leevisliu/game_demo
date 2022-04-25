@@ -1,0 +1,69 @@
+
+gaojichang.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gs-0
+  rotate: false
+  xy: 661, 9
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+gs-1
+  rotate: true
+  xy: 551, 5
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+gs-2
+  rotate: false
+  xy: 394, 2
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1
+gs-3
+  rotate: false
+  xy: 202, 2
+  size: 94, 59
+  orig: 94, 59
+  offset: 0, 0
+  index: -1
+gs-4
+  rotate: false
+  xy: 2, 2
+  size: 98, 59
+  orig: 98, 59
+  offset: 0, 0
+  index: -1
+gs-5
+  rotate: false
+  xy: 102, 5
+  size: 98, 56
+  orig: 98, 56
+  offset: 0, 0
+  index: -1
+gs-6
+  rotate: false
+  xy: 298, 5
+  size: 94, 56
+  orig: 94, 56
+  offset: 0, 0
+  index: -1
+gs-7
+  rotate: false
+  xy: 473, 5
+  size: 76, 56
+  orig: 76, 56
+  offset: 0, 0
+  index: -1
+gs-8
+  rotate: false
+  xy: 611, 5
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1

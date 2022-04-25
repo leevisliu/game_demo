@@ -1,0 +1,139 @@
+
+tianting.png
+size: 2700,2156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tianting_1
+  rotate: true
+  xy: 2, 1290
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_10
+  rotate: false
+  xy: 1734, 1512
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_11
+  rotate: false
+  xy: 1734, 1190
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_12
+  rotate: false
+  xy: 1734, 868
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_13
+  rotate: true
+  xy: 1734, 2
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_14
+  rotate: true
+  xy: 2056, 2
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_15
+  rotate: true
+  xy: 2378, 2
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_16
+  rotate: true
+  xy: 968, 1290
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_17
+  rotate: true
+  xy: 968, 424
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_18
+  rotate: true
+  xy: 1290, 1290
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_19
+  rotate: true
+  xy: 1290, 424
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_2
+  rotate: true
+  xy: 2, 424
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_3
+  rotate: false
+  xy: 2, 102
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_4
+  rotate: true
+  xy: 324, 1290
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_5
+  rotate: true
+  xy: 324, 424
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_6
+  rotate: true
+  xy: 646, 1290
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_7
+  rotate: true
+  xy: 646, 424
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_8
+  rotate: false
+  xy: 868, 102
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1
+tianting_9
+  rotate: false
+  xy: 1734, 1834
+  size: 864, 320
+  orig: 864, 320
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,145 @@
+
+gang.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gang_1
+  rotate: false
+  xy: 2, 1304
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gang_10
+  rotate: false
+  xy: 1304, 1304
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gang_11
+  rotate: false
+  xy: 436, 2
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gang_12
+  rotate: false
+  xy: 870, 436
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gang_13
+  rotate: false
+  xy: 1304, 870
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gang_14
+  rotate: false
+  xy: 870, 2
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gang_15
+  rotate: false
+  xy: 1304, 436
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gang_16
+  rotate: false
+  xy: 1304, 2
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gang_2
+  rotate: false
+  xy: 2, 870
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gang_3
+  rotate: false
+  xy: 436, 1304
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gang_4
+  rotate: false
+  xy: 2, 436
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gang_5
+  rotate: false
+  xy: 436, 870
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gang_6
+  rotate: false
+  xy: 870, 1304
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gang_7
+  rotate: false
+  xy: 2, 2
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gang_8
+  rotate: false
+  xy: 436, 436
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gang_9
+  rotate: false
+  xy: 870, 870
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+
+gang2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gang_17
+  rotate: false
+  xy: 2, 2
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gang_18
+  rotate: false
+  xy: 436, 2
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gang_19
+  rotate: false
+  xy: 870, 2
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1

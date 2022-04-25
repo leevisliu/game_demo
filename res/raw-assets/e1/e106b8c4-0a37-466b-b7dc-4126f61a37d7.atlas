@@ -1,0 +1,111 @@
+
+niuniu.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 41
+  size: 231, 67
+  orig: 231, 67
+  offset: 0, 0
+  index: -1
+niutou- (1)
+  rotate: false
+  xy: 766, 46
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+niutou- (2)
+  rotate: false
+  xy: 836, 46
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+niutou- (3)
+  rotate: false
+  xy: 696, 43
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+niutou- (4)
+  rotate: false
+  xy: 556, 42
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+niutou- (5)
+  rotate: true
+  xy: 310, 40
+  size: 68, 72
+  orig: 68, 72
+  offset: 0, 0
+  index: -1
+niutou- (6)
+  rotate: true
+  xy: 235, 37
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+niutou- (7)
+  rotate: false
+  xy: 485, 41
+  size: 69, 67
+  orig: 69, 67
+  offset: 0, 0
+  index: -1
+niutou- (8)
+  rotate: false
+  xy: 626, 42
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+niutou- (9)
+  rotate: false
+  xy: 906, 46
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+niutou- (10)
+  rotate: false
+  xy: 906, 46
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: true
+  xy: 976, 68
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 2, 2
+  size: 129, 37
+  orig: 129, 37
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 133, 6
+  size: 78, 33
+  orig: 78, 33
+  offset: 0, 0
+  index: -1
+zy
+  rotate: false
+  xy: 384, 68
+  size: 99, 40
+  orig: 99, 40
+  offset: 0, 0
+  index: -1

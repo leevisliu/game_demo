@@ -1,0 +1,111 @@
+
+sanshunzi.png
+size: 2048,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 2
+  size: 243, 55
+  orig: 243, 55
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 1667, 33
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+liuduiban
+  rotate: false
+  xy: 940, 18
+  size: 101, 39
+  orig: 101, 39
+  offset: 0, 0
+  index: -1
+liuduiban1
+  rotate: false
+  xy: 1243, 26
+  size: 97, 31
+  orig: 97, 31
+  offset: 0, 0
+  index: -1
+sanshunzi
+  rotate: false
+  xy: 1043, 19
+  size: 100, 38
+  orig: 100, 38
+  offset: 0, 0
+  index: -1
+sanshunzi1
+  rotate: false
+  xy: 1342, 27
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+sitaosantiao
+  rotate: false
+  xy: 247, 16
+  size: 140, 41
+  orig: 140, 41
+  offset: 0, 0
+  index: -1
+sitaosantiao1
+  rotate: false
+  xy: 532, 24
+  size: 136, 33
+  orig: 136, 33
+  offset: 0, 0
+  index: -1
+wuduisantiao
+  rotate: false
+  xy: 389, 19
+  size: 141, 38
+  orig: 141, 38
+  offset: 0, 0
+  index: -1
+wuduisantiao1
+  rotate: false
+  xy: 670, 27
+  size: 137, 30
+  orig: 137, 30
+  offset: 0, 0
+  index: -1
+yy1
+  rotate: false
+  xy: 809, 6
+  size: 129, 51
+  orig: 129, 51
+  offset: 0, 0
+  index: -1
+yzi1
+  rotate: false
+  xy: 1440, 15
+  size: 86, 42
+  orig: 86, 42
+  offset: 0, 0
+  index: -1
+yzi2
+  rotate: false
+  xy: 1528, 22
+  size: 76, 35
+  orig: 76, 35
+  offset: 0, 0
+  index: -1
+zy1
+  rotate: false
+  xy: 1606, 25
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+zy2
+  rotate: false
+  xy: 1145, 19
+  size: 96, 38
+  orig: 96, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+hongbao2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: false
+  xy: 745, 153
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 2, 43
+  size: 199, 271
+  orig: 199, 271
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 436, 120
+  size: 183, 122
+  orig: 183, 122
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 926, 196
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: false
+  xy: 841, 162
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 2, 2
+  size: 139, 39
+  orig: 139, 39
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 621, 120
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+yuan1
+  rotate: false
+  xy: 275, 84
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+baozhag3.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 2
+  size: 257, 248
+  orig: 257, 248
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 1287, 263
+  size: 240, 242
+  orig: 240, 242
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 790, 262
+  size: 248, 241
+  orig: 248, 241
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 1040, 262
+  size: 241, 245
+  orig: 241, 245
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 1531, 263
+  size: 235, 240
+  orig: 235, 240
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 540, 261
+  size: 242, 248
+  orig: 242, 248
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 1768, 303
+  size: 253, 200
+  orig: 253, 200
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 252
+  size: 265, 251
+  orig: 265, 251
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 269, 256
+  size: 269, 247
+  orig: 269, 247
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 1768, 107
+  size: 194, 217
+  orig: 194, 217
+  offset: 0, 0
+  index: -1

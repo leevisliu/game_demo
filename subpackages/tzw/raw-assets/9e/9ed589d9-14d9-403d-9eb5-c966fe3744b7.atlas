@@ -1,0 +1,27 @@
+
+tishi.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 108
+  size: 706, 138
+  orig: 706, 138
+  offset: 0, 0
+  index: -1
+mai
+  rotate: false
+  xy: 710, 127
+  size: 337, 119
+  orig: 337, 119
+  offset: 0, 0
+  index: -1
+xia
+  rotate: false
+  xy: 2, 2
+  size: 272, 104
+  orig: 272, 104
+  offset: 0, 0
+  index: -1

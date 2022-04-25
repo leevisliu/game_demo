@@ -1,0 +1,160 @@
+
+qiangzhuangpaijiu.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 1439, 20
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 1591, 15
+  size: 150, 147
+  orig: 150, 147
+  offset: 0, 0
+  index: -1
+003
+  rotate: true
+  xy: 1862, 104
+  size: 150, 156
+  orig: 150, 156
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 1267, 88
+  size: 170, 166
+  orig: 170, 166
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 1092, 81
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 369, 77
+  size: 180, 177
+  orig: 180, 177
+  offset: 0, 0
+  index: -1
+007
+  rotate: false
+  xy: 2, 75
+  size: 182, 179
+  orig: 182, 179
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 186, 76
+  size: 181, 178
+  orig: 181, 178
+  offset: 0, 0
+  index: -1
+009
+  rotate: false
+  xy: 551, 77
+  size: 180, 177
+  orig: 180, 177
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 733, 78
+  size: 178, 176
+  orig: 178, 176
+  offset: 0, 0
+  index: -1
+011
+  rotate: false
+  xy: 913, 78
+  size: 177, 176
+  orig: 177, 176
+  offset: 0, 0
+  index: -1
+cao
+  rotate: false
+  xy: 2020, 236
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+cao1
+  rotate: false
+  xy: 1844, 81
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 1439, 166
+  size: 230, 88
+  orig: 230, 88
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 1802, 108
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 99, 33
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+pai1
+  rotate: true
+  xy: 2, 6
+  size: 67, 95
+  orig: 67, 95
+  offset: 0, 0
+  index: -1
+pai2
+  rotate: false
+  xy: 1743, 70
+  size: 57, 92
+  orig: 57, 92
+  offset: 0, 0
+  index: -1
+qiao
+  rotate: true
+  xy: 1671, 164
+  size: 90, 189
+  orig: 90, 189
+  offset: 0, 0
+  index: -1
+shaizi
+  rotate: false
+  xy: 1743, 30
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+yuanbao
+  rotate: false
+  xy: 1802, 78
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+yuanbao1
+  rotate: true
+  xy: 99, 2
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1

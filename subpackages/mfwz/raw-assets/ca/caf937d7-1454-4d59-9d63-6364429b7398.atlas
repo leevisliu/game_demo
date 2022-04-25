@@ -1,0 +1,111 @@
+
+jumo.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+datui01
+  rotate: true
+  xy: 464, 5
+  size: 155, 244
+  orig: 155, 244
+  offset: 0, 0
+  index: -1
+datui02
+  rotate: true
+  xy: 1520, 193
+  size: 163, 183
+  orig: 163, 183
+  offset: 0, 0
+  index: -1
+jiao01
+  rotate: true
+  xy: 1715, 352
+  size: 139, 216
+  orig: 139, 216
+  offset: 0, 0
+  index: -1
+jiao02
+  rotate: false
+  xy: 1705, 200
+  size: 182, 150
+  orig: 182, 150
+  offset: 0, 0
+  index: -1
+qianbi01
+  rotate: false
+  xy: 711, 231
+  size: 188, 260
+  orig: 188, 260
+  offset: 0, 0
+  index: -1
+qianbi02
+  rotate: true
+  xy: 1489, 358
+  size: 133, 224
+  orig: 133, 224
+  offset: 0, 0
+  index: -1
+shangbi01
+  rotate: false
+  xy: 464, 162
+  size: 245, 329
+  orig: 245, 329
+  offset: 0, 0
+  index: -1
+shangbi02
+  rotate: true
+  xy: 1072, 328
+  size: 163, 218
+  orig: 163, 218
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 460, 489
+  orig: 460, 489
+  offset: 0, 0
+  index: -1
+shou01
+  rotate: false
+  xy: 1288, 232
+  size: 230, 85
+  orig: 230, 85
+  offset: 0, 0
+  index: -1
+shou02
+  rotate: false
+  xy: 711, 144
+  size: 177, 85
+  orig: 177, 85
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 901, 276
+  size: 169, 215
+  orig: 169, 215
+  offset: 0, 0
+  index: -1
+xiaotui01
+  rotate: false
+  xy: 1292, 319
+  size: 195, 172
+  orig: 195, 172
+  offset: 0, 0
+  index: -1
+xiaotui02
+  rotate: false
+  xy: 1072, 232
+  size: 214, 94
+  orig: 214, 94
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 710, 26
+  size: 136, 116
+  orig: 136, 116
+  offset: 0, 0
+  index: -1

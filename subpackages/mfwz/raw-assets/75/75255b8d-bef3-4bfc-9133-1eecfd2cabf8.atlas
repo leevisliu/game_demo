@@ -1,0 +1,118 @@
+
+shourenzhanshi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuzi
+  rotate: false
+  xy: 2, 120
+  size: 215, 134
+  orig: 215, 134
+  offset: 0, 0
+  index: -1
+houbai
+  rotate: false
+  xy: 219, 127
+  size: 171, 127
+  orig: 171, 127
+  offset: 0, 0
+  index: -1
+jianjia01
+  rotate: false
+  xy: 548, 106
+  size: 83, 66
+  orig: 83, 66
+  offset: 0, 0
+  index: -1
+jianjia02
+  rotate: false
+  xy: 548, 37
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+qunbai
+  rotate: true
+  xy: 547, 174
+  size: 80, 149
+  orig: 80, 149
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 392, 126
+  size: 128, 153
+  orig: 128, 153
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 312, 45
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 818, 185
+  size: 113, 69
+  orig: 113, 69
+  offset: 0, 0
+  index: -1
+youbi01
+  rotate: true
+  xy: 933, 162
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+youbi02
+  rotate: false
+  xy: 2, 2
+  size: 74, 116
+  orig: 74, 116
+  offset: 0, 0
+  index: -1
+youtui01
+  rotate: true
+  xy: 698, 180
+  size: 74, 118
+  orig: 74, 118
+  offset: 0, 0
+  index: -1
+youtui02
+  rotate: false
+  xy: 78, 4
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+zuobi01
+  rotate: false
+  xy: 230, 25
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+zuobi02
+  rotate: false
+  xy: 483, 32
+  size: 63, 92
+  orig: 63, 92
+  offset: 0, 0
+  index: -1
+zuotui01
+  rotate: false
+  xy: 163, 14
+  size: 65, 104
+  orig: 65, 104
+  offset: 0, 0
+  index: -1
+zuotui02
+  rotate: true
+  xy: 390, 38
+  size: 86, 91
+  orig: 86, 91
+  offset: 0, 0
+  index: -1

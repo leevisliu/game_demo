@@ -1,0 +1,167 @@
+
+zhadanniu.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb_icon_anim_1
+  rotate: false
+  xy: 1032, 64
+  size: 88, 62
+  orig: 88, 62
+  offset: 0, 0
+  index: -1
+bomb_icon_anim_2
+  rotate: false
+  xy: 799, 2
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1
+bomb_icon_anim_3
+  rotate: false
+  xy: 1122, 48
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+bomb_icon_anim_4
+  rotate: true
+  xy: 1212, 45
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+bomb_icon_anim_5
+  rotate: false
+  xy: 1383, 47
+  size: 71, 79
+  orig: 71, 79
+  offset: 0, 0
+  index: -1
+bomb_icon_anim_6
+  rotate: false
+  xy: 1456, 57
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+bomb_icon_anim_7
+  rotate: false
+  xy: 1591, 69
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+bomb_icon_anim_8
+  rotate: false
+  xy: 1526, 64
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+bomb_layer4_00
+  rotate: false
+  xy: 232, 10
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+bomb_layer4_01
+  rotate: false
+  xy: 468, 17
+  size: 115, 109
+  orig: 115, 109
+  offset: 0, 0
+  index: -1
+bomb_layer4_02
+  rotate: true
+  xy: 585, 16
+  size: 110, 111
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
+bomb_layer4_03
+  rotate: false
+  xy: 350, 11
+  size: 116, 115
+  orig: 116, 115
+  offset: 0, 0
+  index: -1
+bomb_layer4_04
+  rotate: false
+  xy: 698, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+bomb_layer4_05
+  rotate: true
+  xy: 1298, 46
+  size: 80, 83
+  orig: 80, 83
+  offset: 0, 0
+  index: -1
+bomb_layer4_06
+  rotate: false
+  xy: 1526, 2
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 59
+  size: 228, 67
+  orig: 228, 67
+  offset: 0, 0
+  index: -1
+hulu
+  rotate: false
+  xy: 136, 31
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 2, 21
+  size: 132, 36
+  orig: 132, 36
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 2, 7
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+yqiu
+  rotate: false
+  xy: 1656, 80
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 925, 76
+  size: 105, 50
+  orig: 105, 50
+  offset: 0, 0
+  index: -1
+zqiu
+  rotate: false
+  xy: 1587, 2
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+zy
+  rotate: false
+  xy: 799, 69
+  size: 124, 57
+  orig: 124, 57
+  offset: 0, 0
+  index: -1

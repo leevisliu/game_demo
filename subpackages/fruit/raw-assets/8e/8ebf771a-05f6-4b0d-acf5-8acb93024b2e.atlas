@@ -1,0 +1,104 @@
+
+paomadeng.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bareffect_06
+  rotate: false
+  xy: 2, 124
+  size: 300, 120
+  orig: 300, 120
+  offset: 0, 0
+  index: -1
+bareffect_07
+  rotate: false
+  xy: 305, 246
+  size: 300, 120
+  orig: 300, 120
+  offset: 0, 0
+  index: -1
+bareffect_08
+  rotate: false
+  xy: 608, 368
+  size: 300, 120
+  orig: 300, 120
+  offset: 0, 0
+  index: -1
+bareffect_09
+  rotate: false
+  xy: 2, 2
+  size: 300, 120
+  orig: 300, 120
+  offset: 0, 0
+  index: -1
+bareffect_10
+  rotate: false
+  xy: 304, 124
+  size: 300, 120
+  orig: 300, 120
+  offset: 0, 0
+  index: -1
+bareffect_11
+  rotate: false
+  xy: 607, 246
+  size: 300, 120
+  orig: 300, 120
+  offset: 0, 0
+  index: -1
+bareffect_12
+  rotate: false
+  xy: 910, 368
+  size: 300, 120
+  orig: 300, 120
+  offset: 0, 0
+  index: -1
+bareffect_13
+  rotate: false
+  xy: 2, 368
+  size: 301, 120
+  orig: 301, 120
+  offset: 0, 0
+  index: -1
+bareffect_14
+  rotate: false
+  xy: 2, 246
+  size: 301, 120
+  orig: 301, 120
+  offset: 0, 0
+  index: -1
+bareffect_15
+  rotate: false
+  xy: 305, 368
+  size: 301, 120
+  orig: 301, 120
+  offset: 0, 0
+  index: -1
+bareffect_16
+  rotate: false
+  xy: 304, 2
+  size: 300, 120
+  orig: 300, 120
+  offset: 0, 0
+  index: -1
+bareffect_17
+  rotate: false
+  xy: 606, 124
+  size: 300, 120
+  orig: 300, 120
+  offset: 0, 0
+  index: -1
+bareffect_18
+  rotate: false
+  xy: 909, 246
+  size: 300, 120
+  orig: 300, 120
+  offset: 0, 0
+  index: -1
+bareffect_19
+  rotate: false
+  xy: 1212, 368
+  size: 300, 120
+  orig: 300, 120
+  offset: 0, 0
+  index: -1

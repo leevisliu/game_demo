@@ -1,0 +1,146 @@
+
+yanzi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 488
+  size: 540, 522
+  orig: 540, 522
+  offset: 0, 0
+  index: -1
+diguang
+  rotate: true
+  xy: 938, 811
+  size: 79, 84
+  orig: 79, 84
+  offset: 0, 0
+  index: -1
+dizuo
+  rotate: false
+  xy: 544, 892
+  size: 423, 118
+  orig: 423, 118
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 87
+  size: 423, 399
+  orig: 423, 399
+  offset: 0, 0
+  index: -1
+pai
+  rotate: false
+  xy: 544, 694
+  size: 196, 84
+  orig: 196, 84
+  offset: 0, 0
+  index: -1
+paiguang
+  rotate: true
+  xy: 427, 263
+  size: 223, 109
+  orig: 223, 109
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 544, 780
+  size: 214, 110
+  orig: 214, 110
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 544, 551
+  size: 132, 141
+  orig: 132, 141
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 427, 85
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 544, 510
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: true
+  xy: 190, 4
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: true
+  xy: 678, 557
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 39
+  size: 242, 46
+  orig: 242, 46
+  offset: 0, 0
+  index: -1
+youchi
+  rotate: true
+  xy: 427, 151
+  size: 110, 85
+  orig: 110, 85
+  offset: 0, 0
+  index: -1
+youchijian
+  rotate: true
+  xy: 760, 828
+  size: 62, 176
+  orig: 62, 176
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 969, 951
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 246, 60
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+zuochi
+  rotate: false
+  xy: 678, 592
+  size: 87, 100
+  orig: 87, 100
+  offset: 0, 0
+  index: -1
+zuochijian
+  rotate: true
+  xy: 2, 2
+  size: 35, 186
+  orig: 35, 186
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 760, 771
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1

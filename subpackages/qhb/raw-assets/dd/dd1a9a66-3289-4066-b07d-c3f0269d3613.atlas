@@ -1,0 +1,153 @@
+
+dingbu.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 1424, 333
+  size: 229, 87
+  orig: 229, 87
+  offset: 0, 0
+  index: -1
+a10
+  rotate: false
+  xy: 1394, 66
+  size: 221, 87
+  orig: 221, 87
+  offset: 0, 0
+  index: -1
+a11
+  rotate: false
+  xy: 1622, 155
+  size: 221, 87
+  orig: 221, 87
+  offset: 0, 0
+  index: -1
+a12
+  rotate: false
+  xy: 1168, 66
+  size: 224, 87
+  orig: 224, 87
+  offset: 0, 0
+  index: -1
+a13
+  rotate: false
+  xy: 1182, 244
+  size: 229, 87
+  orig: 229, 87
+  offset: 0, 0
+  index: -1
+a14
+  rotate: false
+  xy: 1182, 333
+  size: 240, 87
+  orig: 240, 87
+  offset: 0, 0
+  index: -1
+a15
+  rotate: false
+  xy: 1424, 422
+  size: 240, 87
+  orig: 240, 87
+  offset: 0, 0
+  index: -1
+a16
+  rotate: false
+  xy: 1413, 244
+  size: 229, 87
+  orig: 229, 87
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 1666, 422
+  size: 229, 87
+  orig: 229, 87
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 1655, 333
+  size: 229, 87
+  orig: 229, 87
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 706, 2
+  size: 229, 87
+  orig: 229, 87
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 1644, 244
+  size: 227, 87
+  orig: 227, 87
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 1168, 155
+  size: 227, 87
+  orig: 227, 87
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 937, 2
+  size: 229, 87
+  orig: 229, 87
+  offset: 0, 0
+  index: -1
+a8
+  rotate: false
+  xy: 1397, 155
+  size: 223, 87
+  orig: 223, 87
+  offset: 0, 0
+  index: -1
+a9
+  rotate: false
+  xy: 1182, 422
+  size: 240, 87
+  orig: 240, 87
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 706, 91
+  size: 460, 172
+  orig: 460, 172
+  offset: 0, 0
+  index: -1
+liang
+  rotate: false
+  xy: 2, 13
+  size: 702, 496
+  orig: 702, 496
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 1897, 484
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: false
+  xy: 1168, 47
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+zhi
+  rotate: false
+  xy: 706, 265
+  size: 474, 244
+  orig: 474, 244
+  offset: 0, 0
+  index: -1

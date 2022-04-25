@@ -1,0 +1,76 @@
+
+haibaoxia.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi
+  rotate: false
+  xy: 2, 2
+  size: 355, 58
+  orig: 355, 58
+  offset: 0, 0
+  index: -1
+bi1
+  rotate: false
+  xy: 1169, 1197
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+bi2
+  rotate: true
+  xy: 359, 2
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+bi3
+  rotate: false
+  xy: 1822, 1911
+  size: 67, 95
+  orig: 67, 95
+  offset: 0, 0
+  index: -1
+bi4
+  rotate: false
+  xy: 1087, 1095
+  size: 71, 87
+  orig: 71, 87
+  offset: 0, 0
+  index: -1
+bi5
+  rotate: false
+  xy: 1087, 1184
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 1087, 1275
+  size: 733, 731
+  orig: 733, 731
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 62
+  size: 1136, 907
+  orig: 1136, 907
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 971
+  size: 1083, 1035
+  orig: 1083, 1035
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: true
+  xy: 1822, 1840
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1

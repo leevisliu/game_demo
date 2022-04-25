@@ -1,0 +1,13 @@
+
+miaozhun.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+miaozhundian
+  rotate: false
+  xy: 0, 0
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1

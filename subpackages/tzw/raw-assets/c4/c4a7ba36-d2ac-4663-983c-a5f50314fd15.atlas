@@ -1,0 +1,69 @@
+
+kuang.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shangyou
+  rotate: false
+  xy: 300, 2
+  size: 284, 235
+  orig: 284, 235
+  offset: 0, 0
+  index: -1
+shangzuo
+  rotate: false
+  xy: 300, 2
+  size: 284, 235
+  orig: 284, 235
+  offset: 0, 0
+  index: -1
+shangzhong
+  rotate: false
+  xy: 2, 2
+  size: 296, 235
+  orig: 296, 235
+  offset: 0, 0
+  index: -1
+xiayou1
+  rotate: false
+  xy: 911, 88
+  size: 157, 149
+  orig: 157, 149
+  offset: 0, 0
+  index: -1
+xiazuo2
+  rotate: false
+  xy: 911, 88
+  size: 157, 149
+  orig: 157, 149
+  offset: 0, 0
+  index: -1
+xiayou2
+  rotate: false
+  xy: 1070, 88
+  size: 154, 149
+  orig: 154, 149
+  offset: 0, 0
+  index: -1
+xiayou3
+  rotate: false
+  xy: 586, 88
+  size: 161, 149
+  orig: 161, 149
+  offset: 0, 0
+  index: -1
+xiazuo1
+  rotate: false
+  xy: 1226, 88
+  size: 153, 149
+  orig: 153, 149
+  offset: 0, 0
+  index: -1
+xiazuo3
+  rotate: false
+  xy: 749, 88
+  size: 160, 149
+  orig: 160, 149
+  offset: 0, 0
+  index: -1

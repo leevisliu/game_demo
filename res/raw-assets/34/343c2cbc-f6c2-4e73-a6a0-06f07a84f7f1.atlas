@@ -1,0 +1,69 @@
+
+jiazai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fengzhen
+  rotate: false
+  xy: 523, 899
+  size: 248, 105
+  orig: 248, 105
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: false
+  xy: 773, 939
+  size: 91, 65
+  orig: 91, 65
+  offset: 0, 0
+  index: -1
+huzi1
+  rotate: false
+  xy: 308, 373
+  size: 69, 35
+  orig: 69, 35
+  offset: 0, 0
+  index: -1
+puke
+  rotate: false
+  xy: 523, 840
+  size: 191, 57
+  orig: 191, 57
+  offset: 0, 0
+  index: -1
+puke1
+  rotate: false
+  xy: 156, 297
+  size: 150, 111
+  orig: 150, 111
+  offset: 0, 0
+  index: -1
+ren
+  rotate: false
+  xy: 2, 410
+  size: 519, 594
+  orig: 519, 594
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: false
+  xy: 156, 256
+  size: 84, 39
+  orig: 84, 39
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 2, 2
+  size: 143, 142
+  orig: 143, 142
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 2, 146
+  size: 152, 262
+  orig: 152, 262
+  offset: 0, 0
+  index: -1

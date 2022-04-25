@@ -1,0 +1,76 @@
+
+kansanzhangpai.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 2, 7
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 272, 90
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 304, 140
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+cao
+  rotate: false
+  xy: 351, 233
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+cao1
+  rotate: false
+  xy: 37, 23
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 42
+  size: 192, 212
+  orig: 192, 212
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 196, 124
+  size: 106, 130
+  orig: 106, 130
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 196, 48
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 196, 2
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 304, 173
+  size: 45, 81
+  orig: 45, 81
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+tuzi.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 88, 95
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+hudiejia
+  rotate: false
+  xy: 188, 108
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 10
+  size: 84, 116
+  orig: 84, 116
+  offset: 0, 0
+  index: -1
+yanzhuyi1
+  rotate: true
+  xy: 111, 2
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+yanzhuyi2
+  rotate: false
+  xy: 128, 54
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+youer
+  rotate: true
+  xy: 146, 95
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 88, 17
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 128, 70
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 128, 70
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+zuoer
+  rotate: false
+  xy: 88, 53
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 88, 2
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+dizhushibai.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ren
+  rotate: false
+  xy: 2, 93
+  size: 434, 264
+  orig: 434, 264
+  offset: 0, 0
+  index: -1
+x
+  rotate: true
+  xy: 2, 88
+  size: 3, 452
+  orig: 3, 452
+  offset: 0, 0
+  index: -1
+x1
+  rotate: false
+  xy: 2, 83
+  size: 451, 3
+  orig: 451, 3
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 2, 2
+  size: 114, 79
+  orig: 114, 79
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: true
+  xy: 438, 260
+  size: 97, 67
+  orig: 97, 67
+  offset: 0, 0
+  index: -1

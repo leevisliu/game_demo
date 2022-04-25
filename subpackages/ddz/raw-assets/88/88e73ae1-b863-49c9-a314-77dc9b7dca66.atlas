@@ -1,0 +1,34 @@
+
+dizhushengli.png
+size: 424,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piaodai
+  rotate: false
+  xy: 2, 232
+  size: 417, 137
+  orig: 417, 137
+  offset: 0, 0
+  index: -1
+ren
+  rotate: true
+  xy: 2, 5
+  size: 225, 270
+  orig: 225, 270
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: true
+  xy: 274, 2
+  size: 228, 59
+  orig: 228, 59
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 335, 195
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1

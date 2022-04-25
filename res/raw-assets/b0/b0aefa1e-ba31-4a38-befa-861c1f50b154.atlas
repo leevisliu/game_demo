@@ -1,0 +1,139 @@
+
+wuhuaniu.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buhua_1
+  rotate: true
+  xy: 368, 28
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+buhua_10
+  rotate: true
+  xy: 1277, 28
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+buhua_11
+  rotate: false
+  xy: 242, 2
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+buhua_12
+  rotate: false
+  xy: 1485, 67
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+buhua_13
+  rotate: false
+  xy: 308, 18
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+buhua_2
+  rotate: true
+  xy: 469, 28
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+buhua_3
+  rotate: true
+  xy: 570, 28
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+buhua_4
+  rotate: true
+  xy: 671, 28
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+buhua_5
+  rotate: true
+  xy: 772, 28
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+buhua_6
+  rotate: true
+  xy: 873, 28
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+buhua_7
+  rotate: true
+  xy: 974, 28
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+buhua_8
+  rotate: true
+  xy: 1075, 28
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+buhua_9
+  rotate: true
+  xy: 1176, 28
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 59
+  size: 238, 67
+  orig: 238, 67
+  offset: 0, 0
+  index: -1
+hulu
+  rotate: false
+  xy: 156, 31
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 2, 20
+  size: 152, 37
+  orig: 152, 37
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 221, 45
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 1378, 76
+  size: 105, 50
+  orig: 105, 50
+  offset: 0, 0
+  index: -1
+zy
+  rotate: false
+  xy: 242, 69
+  size: 124, 57
+  orig: 124, 57
+  offset: 0, 0
+  index: -1

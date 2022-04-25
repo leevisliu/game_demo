@@ -1,0 +1,132 @@
+
+dingbu.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 1395, 411
+  size: 229, 87
+  orig: 229, 87
+  offset: 0, 0
+  index: -1
+a10
+  rotate: false
+  xy: 1173, 55
+  size: 221, 87
+  orig: 221, 87
+  offset: 0, 0
+  index: -1
+a11
+  rotate: false
+  xy: 1396, 55
+  size: 221, 87
+  orig: 221, 87
+  offset: 0, 0
+  index: -1
+a12
+  rotate: false
+  xy: 1613, 144
+  size: 224, 87
+  orig: 224, 87
+  offset: 0, 0
+  index: -1
+a13
+  rotate: false
+  xy: 1384, 233
+  size: 229, 87
+  orig: 229, 87
+  offset: 0, 0
+  index: -1
+a14
+  rotate: false
+  xy: 1153, 411
+  size: 240, 87
+  orig: 240, 87
+  offset: 0, 0
+  index: -1
+a15
+  rotate: false
+  xy: 1153, 322
+  size: 240, 87
+  orig: 240, 87
+  offset: 0, 0
+  index: -1
+a16
+  rotate: false
+  xy: 1626, 322
+  size: 229, 87
+  orig: 229, 87
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 1153, 233
+  size: 229, 87
+  orig: 229, 87
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 1395, 322
+  size: 229, 87
+  orig: 229, 87
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 1626, 411
+  size: 229, 87
+  orig: 229, 87
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 1384, 144
+  size: 227, 87
+  orig: 227, 87
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 1615, 233
+  size: 227, 87
+  orig: 227, 87
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 1153, 144
+  size: 229, 87
+  orig: 229, 87
+  offset: 0, 0
+  index: -1
+a8
+  rotate: false
+  xy: 948, 54
+  size: 223, 87
+  orig: 223, 87
+  offset: 0, 0
+  index: -1
+a9
+  rotate: false
+  xy: 706, 54
+  size: 240, 87
+  orig: 240, 87
+  offset: 0, 0
+  index: -1
+liang
+  rotate: false
+  xy: 2, 2
+  size: 702, 496
+  orig: 702, 496
+  offset: 0, 0
+  index: -1
+zhi
+  rotate: false
+  xy: 706, 143
+  size: 445, 355
+  orig: 445, 355
+  offset: 0, 0
+  index: -1

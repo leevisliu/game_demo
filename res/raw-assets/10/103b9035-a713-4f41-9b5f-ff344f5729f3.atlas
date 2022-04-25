@@ -1,0 +1,111 @@
+
+hong.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di2
+  rotate: true
+  xy: 2, 76
+  size: 178, 31
+  orig: 178, 31
+  offset: 0, 0
+  index: -1
+g-0
+  rotate: true
+  xy: 54, 6
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+g-1
+  rotate: true
+  xy: 84, 22
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+g-10
+  rotate: false
+  xy: 35, 126
+  size: 83, 24
+  orig: 83, 24
+  offset: 0, 0
+  index: -1
+g-11
+  rotate: false
+  xy: 35, 74
+  size: 77, 24
+  orig: 77, 24
+  offset: 0, 0
+  index: -1
+g-12
+  rotate: false
+  xy: 28, 48
+  size: 54, 24
+  orig: 54, 24
+  offset: 0, 0
+  index: -1
+g-13
+  rotate: true
+  xy: 28, 2
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+g-2
+  rotate: true
+  xy: 2, 14
+  size: 60, 24
+  orig: 60, 24
+  offset: 0, 0
+  index: -1
+g-3
+  rotate: false
+  xy: 35, 100
+  size: 78, 24
+  orig: 78, 24
+  offset: 0, 0
+  index: -1
+g-4
+  rotate: false
+  xy: 35, 152
+  size: 83, 24
+  orig: 83, 24
+  offset: 0, 0
+  index: -1
+g-5
+  rotate: false
+  xy: 35, 178
+  size: 86, 24
+  orig: 86, 24
+  offset: 0, 0
+  index: -1
+g-6
+  rotate: false
+  xy: 35, 230
+  size: 87, 24
+  orig: 87, 24
+  offset: 0, 0
+  index: -1
+g-7
+  rotate: false
+  xy: 35, 230
+  size: 87, 24
+  orig: 87, 24
+  offset: 0, 0
+  index: -1
+g-8
+  rotate: false
+  xy: 35, 230
+  size: 87, 24
+  orig: 87, 24
+  offset: 0, 0
+  index: -1
+g-9
+  rotate: false
+  xy: 35, 204
+  size: 87, 24
+  orig: 87, 24
+  offset: 0, 0
+  index: -1

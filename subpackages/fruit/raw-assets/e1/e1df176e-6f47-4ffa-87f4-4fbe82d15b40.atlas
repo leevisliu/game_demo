@@ -1,0 +1,62 @@
+
+lucky.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lucky
+  rotate: false
+  xy: 195, 2
+  size: 103, 42
+  orig: 103, 42
+  offset: 0, 0
+  index: -1
+lucky-g
+  rotate: false
+  xy: 35, 26
+  size: 133, 9
+  orig: 133, 9
+  offset: 0, 0
+  index: -1
+lucky-g1
+  rotate: false
+  xy: 2, 4
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+lucky-g2
+  rotate: false
+  xy: 2, 4
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+lucky-g3
+  rotate: false
+  xy: 195, 46
+  size: 203, 203
+  orig: 203, 203
+  offset: 0, 0
+  index: -1
+lucky-g4
+  rotate: true
+  xy: 400, 153
+  size: 96, 103
+  orig: 96, 103
+  offset: 0, 0
+  index: -1
+lucky-g5
+  rotate: true
+  xy: 2, 37
+  size: 212, 191
+  orig: 212, 191
+  offset: 0, 0
+  index: -1
+lucky-g6
+  rotate: true
+  xy: 400, 11
+  size: 140, 102
+  orig: 140, 102
+  offset: 0, 0
+  index: -1

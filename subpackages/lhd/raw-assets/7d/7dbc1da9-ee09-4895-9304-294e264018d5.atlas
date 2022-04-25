@@ -1,0 +1,188 @@
+
+zhizunfang.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dongwu
+  rotate: true
+  xy: 495, 93
+  size: 144, 196
+  orig: 144, 196
+  offset: 0, 0
+  index: -1
+huo_00000
+  rotate: false
+  xy: 693, 103
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00001
+  rotate: false
+  xy: 819, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00002
+  rotate: false
+  xy: 763, 103
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00003
+  rotate: false
+  xy: 889, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00004
+  rotate: false
+  xy: 833, 103
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00005
+  rotate: false
+  xy: 959, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00006
+  rotate: false
+  xy: 903, 103
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00007
+  rotate: false
+  xy: 1029, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00008
+  rotate: false
+  xy: 973, 103
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00009
+  rotate: false
+  xy: 1099, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00010
+  rotate: false
+  xy: 1043, 103
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00011
+  rotate: false
+  xy: 1169, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00012
+  rotate: false
+  xy: 1113, 103
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00013
+  rotate: false
+  xy: 1239, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00014
+  rotate: false
+  xy: 1183, 103
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00015
+  rotate: false
+  xy: 1309, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00016
+  rotate: false
+  xy: 1253, 103
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huo_00017
+  rotate: false
+  xy: 1379, 171
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+huzi1
+  rotate: true
+  xy: 1449, 196
+  size: 41, 67
+  orig: 41, 67
+  offset: 0, 0
+  index: -1
+huzi2
+  rotate: false
+  xy: 693, 171
+  size: 124, 66
+  orig: 124, 66
+  offset: 0, 0
+  index: -1
+longhudazhan4_yanjing1
+  rotate: false
+  xy: 1323, 121
+  size: 67, 48
+  orig: 67, 48
+  offset: 0, 0
+  index: -1
+longzhua
+  rotate: true
+  xy: 495, 57
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+qizhi
+  rotate: true
+  xy: 2, 41
+  size: 196, 298
+  orig: 196, 298
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 2, 2
+  size: 101, 37
+  orig: 101, 37
+  offset: 0, 0
+  index: -1
+yuanpan
+  rotate: false
+  xy: 302, 52
+  size: 191, 185
+  orig: 191, 185
+  offset: 0, 0
+  index: -1

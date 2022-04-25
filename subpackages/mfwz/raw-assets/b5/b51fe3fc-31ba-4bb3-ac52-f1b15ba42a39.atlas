@@ -1,0 +1,55 @@
+
+lan.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 120, 12
+  size: 107, 206
+  orig: 107, 206
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 116, 216
+  orig: 116, 216
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 229, 12
+  size: 107, 206
+  orig: 107, 206
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 338, 13
+  size: 107, 205
+  orig: 107, 205
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 447, 112
+  size: 106, 206
+  orig: 106, 206
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 655, 111
+  size: 107, 197
+  orig: 107, 197
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 447, 10
+  size: 100, 197
+  orig: 100, 197
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+fashi1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+datui01
+  rotate: true
+  xy: 204, 12
+  size: 62, 116
+  orig: 62, 116
+  offset: 0, 0
+  index: -1
+datui02
+  rotate: false
+  xy: 204, 76
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+jiao01
+  rotate: true
+  xy: 78, 11
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+jiao02
+  rotate: true
+  xy: 379, 45
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 459, 115
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+neiku
+  rotate: false
+  xy: 459, 67
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+piaodai1
+  rotate: false
+  xy: 204, 158
+  size: 146, 94
+  orig: 146, 94
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: false
+  xy: 82, 127
+  size: 120, 125
+  orig: 120, 125
+  offset: 0, 0
+  index: -1
+qianbi1
+  rotate: false
+  xy: 141, 4
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+qianbi2
+  rotate: true
+  xy: 318, 97
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+qunbai02
+  rotate: true
+  xy: 352, 164
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+qunbai2
+  rotate: false
+  xy: 2, 67
+  size: 78, 185
+  orig: 78, 185
+  offset: 0, 0
+  index: -1
+shangbi1
+  rotate: false
+  xy: 322, 45
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+shangbi2
+  rotate: false
+  xy: 379, 2
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 352, 87
+  size: 75, 105
+  orig: 75, 105
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 458, 48
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 435, 49
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 322, 10
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 2, 17
+  size: 74, 48
+  orig: 74, 48
+  offset: 0, 0
+  index: -1
+xiaotui01
+  rotate: false
+  xy: 466, 162
+  size: 35, 90
+  orig: 35, 90
+  offset: 0, 0
+  index: -1
+xiaotui02
+  rotate: true
+  xy: 82, 46
+  size: 79, 120
+  orig: 79, 120
+  offset: 0, 0
+  index: -1

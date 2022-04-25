@@ -1,0 +1,139 @@
+
+shirenduizhang.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lion_0
+  rotate: true
+  xy: 822, 2
+  size: 88, 145
+  orig: 88, 145
+  offset: 0, 0
+  index: -1
+lion_1
+  rotate: true
+  xy: 1702, 142
+  size: 112, 123
+  orig: 112, 123
+  offset: 0, 0
+  index: -1
+lion_10
+  rotate: true
+  xy: 389, 93
+  size: 161, 250
+  orig: 161, 250
+  offset: 0, 0
+  index: -1
+lion_11
+  rotate: true
+  xy: 1385, 154
+  size: 100, 157
+  orig: 100, 157
+  offset: 0, 0
+  index: -1
+lion_12
+  rotate: true
+  xy: 1096, 2
+  size: 126, 98
+  orig: 126, 98
+  offset: 0, 0
+  index: -1
+lion_13
+  rotate: false
+  xy: 1196, 11
+  size: 117, 107
+  orig: 117, 107
+  offset: 0, 0
+  index: -1
+lion_14
+  rotate: true
+  xy: 1096, 130
+  size: 124, 149
+  orig: 124, 149
+  offset: 0, 0
+  index: -1
+lion_15
+  rotate: true
+  xy: 389, 14
+  size: 77, 125
+  orig: 77, 125
+  offset: 0, 0
+  index: -1
+lion_16
+  rotate: false
+  xy: 969, 9
+  size: 125, 98
+  orig: 125, 98
+  offset: 0, 0
+  index: -1
+lion_17
+  rotate: false
+  xy: 822, 92
+  size: 134, 162
+  orig: 134, 162
+  offset: 0, 0
+  index: -1
+lion_18
+  rotate: true
+  xy: 641, 83
+  size: 171, 179
+  orig: 171, 179
+  offset: 0, 0
+  index: -1
+lion_19
+  rotate: false
+  xy: 1247, 120
+  size: 136, 134
+  orig: 136, 134
+  offset: 0, 0
+  index: -1
+lion_2
+  rotate: true
+  xy: 1948, 143
+  size: 111, 96
+  orig: 111, 96
+  offset: 0, 0
+  index: -1
+lion_4
+  rotate: true
+  xy: 516, 12
+  size: 79, 94
+  orig: 79, 94
+  offset: 0, 0
+  index: -1
+lion_5
+  rotate: false
+  xy: 958, 109
+  size: 136, 145
+  orig: 136, 145
+  offset: 0, 0
+  index: -1
+lion_6
+  rotate: false
+  xy: 1315, 24
+  size: 118, 94
+  orig: 118, 94
+  offset: 0, 0
+  index: -1
+lion_7
+  rotate: false
+  xy: 2, 43
+  size: 385, 211
+  orig: 385, 211
+  offset: 0, 0
+  index: -1
+lion_8
+  rotate: false
+  xy: 1827, 147
+  size: 119, 107
+  orig: 119, 107
+  offset: 0, 0
+  index: -1
+lion_9
+  rotate: true
+  xy: 1544, 168
+  size: 86, 156
+  orig: 86, 156
+  offset: 0, 0
+  index: -1

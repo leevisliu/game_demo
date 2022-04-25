@@ -1,0 +1,170 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_00000
+  rotate: false
+  xy: 2, 709
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+a_00001
+  rotate: false
+  xy: 2, 2
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+a_00002
+  rotate: false
+  xy: 753, 709
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+a_00003
+  rotate: false
+  xy: 753, 2
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_00004
+  rotate: false
+  xy: 2, 709
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+a_00005
+  rotate: false
+  xy: 2, 2
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+a_00006
+  rotate: false
+  xy: 753, 709
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+a_00007
+  rotate: false
+  xy: 753, 2
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_00008
+  rotate: false
+  xy: 2, 709
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+a_00009
+  rotate: false
+  xy: 2, 2
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+a_00010
+  rotate: false
+  xy: 753, 709
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+a_00011
+  rotate: false
+  xy: 753, 2
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+
+skeleton4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_00012
+  rotate: false
+  xy: 2, 709
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+a_00013
+  rotate: false
+  xy: 2, 2
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+a_00014
+  rotate: false
+  xy: 753, 709
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+a_00015
+  rotate: false
+  xy: 753, 2
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+
+skeleton5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_00016
+  rotate: false
+  xy: 2, 709
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+a_00017
+  rotate: false
+  xy: 2, 2
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+a_00018
+  rotate: false
+  xy: 753, 709
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1
+a_00019
+  rotate: false
+  xy: 753, 2
+  size: 749, 705
+  orig: 749, 705
+  offset: 0, 0
+  index: -1

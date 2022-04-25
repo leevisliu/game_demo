@@ -1,0 +1,146 @@
+
+bingdong.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1821, 459
+  size: 261, 215
+  orig: 261, 215
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 1839, 722
+  size: 300, 201
+  orig: 300, 201
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1522, 831
+  size: 315, 191
+  orig: 315, 191
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1522, 638
+  size: 297, 191
+  orig: 297, 191
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 785, 207
+  size: 295, 172
+  orig: 295, 172
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 614, 41
+  size: 300, 169
+  orig: 300, 169
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 785, 36
+  size: 280, 169
+  orig: 280, 169
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 959, 221
+  size: 281, 166
+  orig: 281, 166
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 348, 567
+  size: 342, 231
+  orig: 342, 231
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 348, 343
+  size: 348, 222
+  orig: 348, 222
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1203, 795
+  size: 317, 227
+  orig: 317, 227
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 413, 36
+  size: 305, 199
+  orig: 305, 199
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 2, 2
+  size: 305, 217
+  orig: 305, 217
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 348, 800
+  size: 402, 222
+  orig: 402, 222
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 752, 702
+  size: 306, 196
+  orig: 306, 196
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 221, 24
+  size: 308, 190
+  orig: 308, 190
+  offset: 0, 0
+  index: -1
+xia
+  rotate: false
+  xy: 698, 504
+  size: 287, 196
+  orig: 287, 196
+  offset: 0, 0
+  index: -1
+xue1
+  rotate: false
+  xy: 2, 309
+  size: 172, 713
+  orig: 172, 713
+  offset: 0, 0
+  index: -1
+xue2
+  rotate: false
+  xy: 176, 334
+  size: 170, 688
+  orig: 170, 688
+  offset: 0, 0
+  index: -1
+xue3
+  rotate: false
+  xy: 752, 900
+  size: 449, 122
+  orig: 449, 122
+  offset: 0, 0
+  index: -1

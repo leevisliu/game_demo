@@ -1,0 +1,55 @@
+
+38.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish08_01
+  rotate: false
+  xy: 2, 3
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+fish08_02
+  rotate: false
+  xy: 114, 3
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+fish08_03
+  rotate: false
+  xy: 336, 2
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+fish08_04
+  rotate: false
+  xy: 281, 4
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+fish08_05
+  rotate: false
+  xy: 169, 4
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+fish08_06
+  rotate: false
+  xy: 225, 4
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+fish08_07
+  rotate: false
+  xy: 58, 3
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1

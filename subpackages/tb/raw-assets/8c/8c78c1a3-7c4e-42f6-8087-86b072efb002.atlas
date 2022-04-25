@@ -1,0 +1,111 @@
+
+ren.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tu0
+  rotate: true
+  xy: 2, 21
+  size: 35, 123
+  orig: 35, 123
+  offset: 0, 0
+  index: -1
+tu1
+  rotate: false
+  xy: 1688, 296
+  size: 70, 210
+  orig: 70, 210
+  offset: 0, 0
+  index: -1
+tu10
+  rotate: true
+  xy: 2, 58
+  size: 448, 816
+  orig: 448, 816
+  offset: 0, 0
+  index: -1
+tu11
+  rotate: true
+  xy: 1688, 210
+  size: 84, 132
+  orig: 84, 132
+  offset: 0, 0
+  index: -1
+tu12
+  rotate: false
+  xy: 820, 5
+  size: 315, 501
+  orig: 315, 501
+  offset: 0, 0
+  index: -1
+tu13
+  rotate: false
+  xy: 1137, 41
+  size: 272, 465
+  orig: 272, 465
+  offset: 0, 0
+  index: -1
+tu14
+  rotate: true
+  xy: 1411, 204
+  size: 302, 275
+  orig: 302, 275
+  offset: 0, 0
+  index: -1
+tu2
+  rotate: false
+  xy: 1411, 19
+  size: 153, 183
+  orig: 153, 183
+  offset: 0, 0
+  index: -1
+tu3
+  rotate: true
+  xy: 127, 21
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+tu4
+  rotate: true
+  xy: 160, 21
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+tu5
+  rotate: false
+  xy: 1566, 48
+  size: 131, 154
+  orig: 131, 154
+  offset: 0, 0
+  index: -1
+tu6
+  rotate: false
+  xy: 25, 4
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+tu7
+  rotate: false
+  xy: 16, 3
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+tu8
+  rotate: false
+  xy: 34, 6
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+tu9
+  rotate: false
+  xy: 2, 2
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1

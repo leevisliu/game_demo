@@ -1,0 +1,55 @@
+
+niu7.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 2
+  size: 239, 56
+  orig: 239, 56
+  offset: 0, 0
+  index: -1
+niu7
+  rotate: false
+  xy: 243, 21
+  size: 127, 37
+  orig: 127, 37
+  offset: 0, 0
+  index: -1
+niu8
+  rotate: false
+  xy: 372, 21
+  size: 127, 37
+  orig: 127, 37
+  offset: 0, 0
+  index: -1
+niu9
+  rotate: false
+  xy: 501, 21
+  size: 127, 37
+  orig: 127, 37
+  offset: 0, 0
+  index: -1
+shan
+  rotate: false
+  xy: 691, 10
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+shan1
+  rotate: false
+  xy: 630, 7
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 747, 40
+  size: 59, 18
+  orig: 59, 18
+  offset: 0, 0
+  index: -1

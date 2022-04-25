@@ -1,0 +1,118 @@
+
+yuanbao.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 68, 8
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 342, 22
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 468, 30
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 468, 30
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 468, 30
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 468, 30
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 468, 30
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 427, 27
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 238, 28
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 128, 8
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 128, 8
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 128, 8
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 290, 29
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 188, 17
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 2
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 385, 24
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1

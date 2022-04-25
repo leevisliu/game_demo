@@ -1,0 +1,76 @@
+
+lion.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 125, 90
+  size: 52, 27
+  orig: 52, 27
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 2
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+yanzhuyi1
+  rotate: false
+  xy: 164, 75
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+yanzhuyi2
+  rotate: false
+  xy: 179, 80
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+youer
+  rotate: false
+  xy: 125, 26
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 125, 49
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 203, 98
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+zuoer
+  rotate: false
+  xy: 179, 96
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 147, 29
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 125, 5
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1

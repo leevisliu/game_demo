@@ -1,0 +1,104 @@
+
+gerenzhongxin.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 2, 137
+  size: 86, 425
+  orig: 86, 425
+  offset: 0, 0
+  index: -1
+grzx_icon_aqm
+  rotate: false
+  xy: 949, 153
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+grzx_icon_aqm1
+  rotate: false
+  xy: 949, 81
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+grzx_icon_mm
+  rotate: false
+  xy: 403, 23
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+grzx_icon_mm1
+  rotate: false
+  xy: 475, 23
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+grzx_icon_sj
+  rotate: false
+  xy: 547, 23
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+grzx_icon_sj1
+  rotate: false
+  xy: 619, 23
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+tutorial 00262
+  rotate: false
+  xy: 143, 7
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00263
+  rotate: false
+  xy: 273, 7
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00264
+  rotate: false
+  xy: 429, 95
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00265
+  rotate: false
+  xy: 559, 95
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00266
+  rotate: false
+  xy: 689, 95
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00267
+  rotate: false
+  xy: 819, 95
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xuanzhong
+  rotate: false
+  xy: 2, 2
+  size: 139, 133
+  orig: 139, 133
+  offset: 0, 0
+  index: -1

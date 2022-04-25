@@ -1,0 +1,104 @@
+
+zhadan.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 2, 2
+  size: 247, 248
+  orig: 247, 248
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 506, 255
+  size: 244, 245
+  orig: 244, 245
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 1254, 285
+  size: 215, 250
+  orig: 215, 250
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 752, 262
+  size: 250, 238
+  orig: 250, 238
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 1506, 287
+  size: 213, 250
+  orig: 213, 250
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 1758, 315
+  size: 73, 71
+  orig: 73, 71
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 254, 255
+  size: 250, 245
+  orig: 250, 245
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 252
+  size: 250, 248
+  orig: 250, 248
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 1004, 260
+  size: 240, 248
+  orig: 240, 248
+  offset: 0, 0
+  index: -1
+huo
+  rotate: false
+  xy: 1852, 400
+  size: 88, 100
+  orig: 88, 100
+  offset: 0, 0
+  index: -1
+huo1
+  rotate: false
+  xy: 1942, 429
+  size: 47, 71
+  orig: 47, 71
+  offset: 0, 0
+  index: -1
+huo2
+  rotate: false
+  xy: 1991, 465
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 1254, 270
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+zhadan
+  rotate: false
+  xy: 1758, 388
+  size: 92, 112
+  orig: 92, 112
+  offset: 0, 0
+  index: -1

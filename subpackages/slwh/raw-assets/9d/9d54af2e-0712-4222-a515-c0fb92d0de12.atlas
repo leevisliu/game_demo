@@ -1,0 +1,69 @@
+
+zhongjichang.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zs-0
+  rotate: false
+  xy: 652, 6
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+zs-1
+  rotate: false
+  xy: 474, 2
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+zs-2
+  rotate: false
+  xy: 387, 2
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+zs-3
+  rotate: false
+  xy: 103, 2
+  size: 96, 58
+  orig: 96, 58
+  offset: 0, 0
+  index: -1
+zs-4
+  rotate: false
+  xy: 2, 3
+  size: 99, 57
+  orig: 99, 57
+  offset: 0, 0
+  index: -1
+zs-5
+  rotate: false
+  xy: 201, 4
+  size: 95, 56
+  orig: 95, 56
+  offset: 0, 0
+  index: -1
+zs-6
+  rotate: false
+  xy: 298, 4
+  size: 87, 56
+  orig: 87, 56
+  offset: 0, 0
+  index: -1
+zs-7
+  rotate: false
+  xy: 541, 4
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+zs-8
+  rotate: false
+  xy: 609, 4
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+huanhongbao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongbao
+  rotate: false
+  xy: 2, 2
+  size: 269, 365
+  orig: 269, 365
+  offset: 0, 0
+  index: -1

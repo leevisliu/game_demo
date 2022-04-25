@@ -1,0 +1,181 @@
+
+chujifang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi1
+  rotate: true
+  xy: 475, 398
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+bi2
+  rotate: false
+  xy: 264, 181
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+cai
+  rotate: false
+  xy: 426, 335
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 242
+  size: 265, 261
+  orig: 265, 261
+  offset: 0, 0
+  index: -1
+guangdian1
+  rotate: false
+  xy: 139, 169
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 2, 108
+  size: 135, 132
+  orig: 135, 132
+  offset: 0, 0
+  index: -1
+ma
+  rotate: true
+  xy: 2, 2
+  size: 104, 113
+  orig: 104, 113
+  offset: 0, 0
+  index: -1
+sg-1
+  rotate: true
+  xy: 161, 10
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+sg-10
+  rotate: false
+  xy: 269, 339
+  size: 78, 47
+  orig: 78, 47
+  offset: 0, 0
+  index: -1
+sg-11
+  rotate: false
+  xy: 139, 114
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+sg-12
+  rotate: true
+  xy: 452, 440
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+sg-13
+  rotate: true
+  xy: 424, 293
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+sg-14
+  rotate: false
+  xy: 327, 188
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+sg-2
+  rotate: false
+  xy: 427, 388
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+sg-3
+  rotate: true
+  xy: 161, 51
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+sg-4
+  rotate: true
+  xy: 212, 173
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+sg-5
+  rotate: false
+  xy: 269, 242
+  size: 71, 46
+  orig: 71, 46
+  offset: 0, 0
+  index: -1
+sg-6
+  rotate: false
+  xy: 346, 292
+  size: 76, 45
+  orig: 76, 45
+  offset: 0, 0
+  index: -1
+sg-7
+  rotate: true
+  xy: 117, 32
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+sg-8
+  rotate: false
+  xy: 269, 290
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+sg-9
+  rotate: false
+  xy: 349, 339
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+shaizi1
+  rotate: true
+  xy: 264, 140
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+shaizi2
+  rotate: true
+  xy: 117, 2
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 269, 388
+  size: 156, 68
+  orig: 156, 68
+  offset: 0, 0
+  index: -1
+wenzidi
+  rotate: false
+  xy: 269, 458
+  size: 181, 45
+  orig: 181, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+jinbi.png
+size: 316,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kyby_common_gold_1
+  rotate: false
+  xy: 2, 2
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+kyby_common_gold_2
+  rotate: false
+  xy: 63, 2
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+kyby_common_gold_3
+  rotate: false
+  xy: 124, 2
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+kyby_common_gold_4
+  rotate: false
+  xy: 185, 2
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+kyby_common_gold_5
+  rotate: true
+  xy: 246, 11
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1

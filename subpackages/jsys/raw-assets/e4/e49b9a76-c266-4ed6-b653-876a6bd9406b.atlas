@@ -1,0 +1,76 @@
+
+weiba.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 214, 18
+  size: 193, 63
+  orig: 193, 63
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 610, 2
+  size: 185, 86
+  orig: 185, 86
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 216, 164
+  size: 215, 88
+  orig: 215, 88
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 416, 65
+  size: 192, 86
+  orig: 192, 86
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 639, 173
+  size: 211, 79
+  orig: 211, 79
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 433, 153
+  size: 204, 99
+  orig: 204, 99
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 156
+  size: 212, 96
+  orig: 212, 96
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 57
+  size: 210, 97
+  orig: 210, 97
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 216, 83
+  size: 198, 79
+  orig: 198, 79
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 639, 90
+  size: 203, 81
+  orig: 203, 81
+  offset: 0, 0
+  index: -1

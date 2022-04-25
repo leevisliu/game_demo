@@ -1,0 +1,125 @@
+
+eff_people.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+datui01
+  rotate: true
+  xy: 471, 149
+  size: 105, 203
+  orig: 107, 205
+  offset: 1, 1
+  index: -1
+datui02
+  rotate: true
+  xy: 204, 15
+  size: 102, 197
+  orig: 104, 199
+  offset: 1, 1
+  index: -1
+jian
+  rotate: true
+  xy: 2, 119
+  size: 135, 467
+  orig: 139, 474
+  offset: 1, 1
+  index: -1
+jianjia01
+  rotate: false
+  xy: 692, 70
+  size: 89, 84
+  orig: 91, 86
+  offset: 1, 1
+  index: -1
+jianjia02
+  rotate: false
+  xy: 541, 50
+  size: 89, 97
+  orig: 91, 99
+  offset: 1, 1
+  index: -1
+jiao01
+  rotate: true
+  xy: 692, 5
+  size: 63, 76
+  orig: 65, 78
+  offset: 1, 1
+  index: -1
+jiao02
+  rotate: true
+  xy: 403, 12
+  size: 105, 69
+  orig: 107, 71
+  offset: 1, 1
+  index: -1
+qianbi
+  rotate: false
+  xy: 632, 36
+  size: 58, 111
+  orig: 60, 113
+  offset: 1, 1
+  index: -1
+qianbi02
+  rotate: false
+  xy: 783, 79
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+shangb02
+  rotate: false
+  xy: 968, 185
+  size: 54, 69
+  orig: 56, 71
+  offset: 1, 1
+  index: -1
+shangbi01
+  rotate: false
+  xy: 860, 110
+  size: 72, 69
+  orig: 74, 71
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 7
+  size: 110, 200
+  orig: 112, 202
+  offset: 1, 1
+  index: -1
+shou01
+  rotate: false
+  xy: 934, 115
+  size: 47, 64
+  orig: 49, 66
+  offset: 1, 1
+  index: -1
+shou02
+  rotate: true
+  xy: 541, 2
+  size: 46, 43
+  orig: 48, 45
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 676, 156
+  size: 98, 138
+  orig: 100, 140
+  offset: 1, 1
+  index: -1
+xiaotui01
+  rotate: true
+  xy: 816, 181
+  size: 73, 150
+  orig: 75, 152
+  offset: 1, 1
+  index: -1
+xiaotui02
+  rotate: false
+  xy: 474, 24
+  size: 65, 123
+  orig: 67, 124
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+tab.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 55
+  size: 120, 71
+  orig: 120, 71
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 124, 72
+  size: 120, 54
+  orig: 120, 54
+  offset: 0, 0
+  index: -1
+bairen
+  rotate: false
+  xy: 422, 102
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1
+bairen1
+  rotate: false
+  xy: 246, 68
+  size: 55, 22
+  orig: 55, 22
+  offset: 0, 0
+  index: -1
+buyu
+  rotate: false
+  xy: 306, 96
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+buyu1
+  rotate: false
+  xy: 365, 98
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+dianzi
+  rotate: false
+  xy: 89, 23
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+dianzi1
+  rotate: false
+  xy: 139, 42
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+piao
+  rotate: true
+  xy: 89, 2
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+quanbu
+  rotate: false
+  xy: 246, 92
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+quanbu1
+  rotate: false
+  xy: 31, 21
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+remen
+  rotate: true
+  xy: 481, 73
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+remen1
+  rotate: true
+  xy: 2, 2
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1

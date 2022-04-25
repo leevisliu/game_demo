@@ -1,0 +1,90 @@
+
+23.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boom_fish
+  rotate: true
+  xy: 2, 2
+  size: 188, 228
+  orig: 188, 228
+  offset: 0, 0
+  index: -1
+guang_00
+  rotate: false
+  xy: 2, 192
+  size: 298, 308
+  orig: 298, 308
+  offset: 0, 0
+  index: -1
+yx_00
+  rotate: false
+  xy: 302, 360
+  size: 158, 140
+  orig: 158, 140
+  offset: 0, 0
+  index: -1
+yx_01
+  rotate: false
+  xy: 302, 218
+  size: 158, 140
+  orig: 158, 140
+  offset: 0, 0
+  index: -1
+yx_02
+  rotate: false
+  xy: 462, 360
+  size: 158, 140
+  orig: 158, 140
+  offset: 0, 0
+  index: -1
+yx_03
+  rotate: false
+  xy: 462, 218
+  size: 158, 140
+  orig: 158, 140
+  offset: 0, 0
+  index: -1
+yx_04
+  rotate: false
+  xy: 622, 360
+  size: 158, 140
+  orig: 158, 140
+  offset: 0, 0
+  index: -1
+yx_05
+  rotate: false
+  xy: 622, 218
+  size: 158, 140
+  orig: 158, 140
+  offset: 0, 0
+  index: -1
+yx_06
+  rotate: false
+  xy: 782, 360
+  size: 158, 140
+  orig: 158, 140
+  offset: 0, 0
+  index: -1
+yx_07
+  rotate: false
+  xy: 782, 218
+  size: 158, 140
+  orig: 158, 140
+  offset: 0, 0
+  index: -1
+yx_08
+  rotate: true
+  xy: 232, 32
+  size: 158, 140
+  orig: 158, 140
+  offset: 0, 0
+  index: -1
+yx_09
+  rotate: false
+  xy: 374, 76
+  size: 158, 140
+  orig: 158, 140
+  offset: 0, 0
+  index: -1

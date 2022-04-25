@@ -1,0 +1,153 @@
+
+putongpai.png
+size: 2048,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 2
+  size: 249, 60
+  orig: 249, 60
+  offset: 0, 0
+  index: -1
+duizi
+  rotate: false
+  xy: 908, 22
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+duizi1
+  rotate: false
+  xy: 1187, 26
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 1626, 31
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+hulu
+  rotate: false
+  xy: 1323, 19
+  size: 64, 43
+  orig: 64, 43
+  offset: 0, 0
+  index: -1
+hulu1
+  rotate: false
+  xy: 1389, 23
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+liangdui
+  rotate: false
+  xy: 609, 22
+  size: 71, 40
+  orig: 71, 40
+  offset: 0, 0
+  index: -1
+liangdui1
+  rotate: false
+  xy: 1116, 26
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+santiao
+  rotate: false
+  xy: 535, 21
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+santiao1
+  rotate: false
+  xy: 836, 25
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+shunzi
+  rotate: false
+  xy: 1048, 22
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+shunzi1
+  rotate: false
+  xy: 1453, 26
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+tiezhi
+  rotate: false
+  xy: 459, 19
+  size: 74, 43
+  orig: 74, 43
+  offset: 0, 0
+  index: -1
+tiezhi1
+  rotate: false
+  xy: 682, 23
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+tonghua
+  rotate: false
+  xy: 978, 21
+  size: 68, 41
+  orig: 68, 41
+  offset: 0, 0
+  index: -1
+tonghua1
+  rotate: false
+  xy: 1255, 25
+  size: 66, 37
+  orig: 66, 37
+  offset: 0, 0
+  index: -1
+yy1
+  rotate: false
+  xy: 1574, 31
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+yy2
+  rotate: false
+  xy: 359, 16
+  size: 98, 46
+  orig: 98, 46
+  offset: 0, 0
+  index: -1
+yy3
+  rotate: false
+  xy: 756, 30
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1
+zy1
+  rotate: false
+  xy: 1519, 28
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+zy2
+  rotate: false
+  xy: 253, 14
+  size: 104, 48
+  orig: 104, 48
+  offset: 0, 0
+  index: -1

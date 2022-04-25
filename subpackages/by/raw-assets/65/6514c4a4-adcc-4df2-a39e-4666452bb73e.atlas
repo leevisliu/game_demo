@@ -1,0 +1,173 @@
+
+bossyu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_guang
+  rotate: true
+  xy: 1927, 1207
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+biaoti
+  rotate: false
+  xy: 1284, 643
+  size: 675, 299
+  orig: 675, 299
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 1302
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+dibushexian
+  rotate: false
+  xy: 1284, 1307
+  size: 727, 715
+  orig: 727, 715
+  offset: 0, 0
+  index: -1
+heisezhezhao
+  rotate: false
+  xy: 1284, 944
+  size: 641, 361
+  orig: 641, 361
+  offset: 0, 0
+  index: -1
+jinbi3
+  rotate: false
+  xy: 1072, 58
+  size: 124, 103
+  orig: 124, 103
+  offset: 0, 0
+  index: -1
+jinbi_01
+  rotate: false
+  xy: 705, 163
+  size: 575, 415
+  orig: 575, 415
+  offset: 0, 0
+  index: -1
+jinbi_02
+  rotate: false
+  xy: 2, 163
+  size: 701, 415
+  orig: 701, 415
+  offset: 0, 0
+  index: -1
+jinbi_4
+  rotate: true
+  xy: 1966, 372
+  size: 117, 80
+  orig: 117, 80
+  offset: 0, 0
+  index: -1
+jinbi_5
+  rotate: false
+  xy: 1927, 1117
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+jinbidui
+  rotate: false
+  xy: 2, 2
+  size: 615, 159
+  orig: 615, 159
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 580
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+shuzikuang
+  rotate: false
+  xy: 619, 45
+  size: 451, 116
+  orig: 451, 116
+  offset: 0, 0
+  index: -1
+xl_00001
+  rotate: false
+  xy: 1284, 491
+  size: 340, 150
+  orig: 340, 150
+  offset: 0, 0
+  index: -1
+xl_00002
+  rotate: false
+  xy: 1282, 339
+  size: 340, 150
+  orig: 340, 150
+  offset: 0, 0
+  index: -1
+xl_00003
+  rotate: false
+  xy: 1282, 187
+  size: 340, 150
+  orig: 340, 150
+  offset: 0, 0
+  index: -1
+xl_00004
+  rotate: false
+  xy: 1626, 491
+  size: 340, 150
+  orig: 340, 150
+  offset: 0, 0
+  index: -1
+xl_00005
+  rotate: false
+  xy: 1624, 339
+  size: 340, 150
+  orig: 340, 150
+  offset: 0, 0
+  index: -1
+xl_00006
+  rotate: false
+  xy: 1624, 187
+  size: 340, 150
+  orig: 340, 150
+  offset: 0, 0
+  index: -1
+xl_00007
+  rotate: false
+  xy: 1282, 35
+  size: 340, 150
+  orig: 340, 150
+  offset: 0, 0
+  index: -1
+xl_00008
+  rotate: false
+  xy: 1624, 35
+  size: 340, 150
+  orig: 340, 150
+  offset: 0, 0
+  index: -1
+
+bossyu2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xl_00009
+  rotate: false
+  xy: 2, 2
+  size: 340, 150
+  orig: 340, 150
+  offset: 0, 0
+  index: -1
+xl_00010
+  rotate: false
+  xy: 344, 2
+  size: 340, 150
+  orig: 340, 150
+  offset: 0, 0
+  index: -1

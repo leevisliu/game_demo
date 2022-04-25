@@ -1,0 +1,118 @@
+
+paihangbang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 137
+  size: 89, 525
+  orig: 89, 525
+  offset: 0, 0
+  index: -1
+daili
+  rotate: false
+  xy: 533, 26
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+daili1
+  rotate: false
+  xy: 923, 156
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+dashen
+  rotate: false
+  xy: 595, 26
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+dashen1
+  rotate: false
+  xy: 657, 26
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+lianying
+  rotate: false
+  xy: 719, 26
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+lianying1
+  rotate: false
+  xy: 781, 26
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+tuhao
+  rotate: false
+  xy: 843, 26
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+tuhao1
+  rotate: false
+  xy: 923, 84
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+tutorial 00262
+  rotate: false
+  xy: 143, 7
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00263
+  rotate: false
+  xy: 273, 7
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00264
+  rotate: false
+  xy: 403, 7
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00265
+  rotate: false
+  xy: 533, 98
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00266
+  rotate: false
+  xy: 663, 98
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00267
+  rotate: false
+  xy: 793, 98
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xuanzhong
+  rotate: false
+  xy: 2, 2
+  size: 139, 133
+  orig: 139, 133
+  offset: 0, 0
+  index: -1

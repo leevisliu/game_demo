@@ -1,0 +1,230 @@
+
+yitiaolong.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: true
+  xy: 986, 99
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+002
+  rotate: true
+  xy: 986, 70
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 737, 9
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+004
+  rotate: true
+  xy: 940, 27
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 910, 2
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+006
+  rotate: true
+  xy: 223, 10
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 69
+  size: 245, 57
+  orig: 245, 57
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 223, 43
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+shanzi1
+  rotate: false
+  xy: 159, 14
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+shanzi2
+  rotate: true
+  xy: 782, 13
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+spark_1
+  rotate: false
+  xy: 948, 5
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+spark_10
+  rotate: false
+  xy: 397, 76
+  size: 145, 50
+  orig: 145, 50
+  offset: 0, 0
+  index: -1
+spark_11
+  rotate: false
+  xy: 544, 78
+  size: 146, 48
+  orig: 146, 48
+  offset: 0, 0
+  index: -1
+spark_12
+  rotate: false
+  xy: 249, 76
+  size: 146, 50
+  orig: 146, 50
+  offset: 0, 0
+  index: -1
+spark_13
+  rotate: false
+  xy: 839, 63
+  size: 129, 15
+  orig: 129, 15
+  offset: 0, 0
+  index: -1
+spark_14
+  rotate: false
+  xy: 2, 3
+  size: 98, 12
+  orig: 98, 12
+  offset: 0, 0
+  index: -1
+spark_15
+  rotate: false
+  xy: 772, 3
+  size: 59, 8
+  orig: 59, 8
+  offset: 0, 0
+  index: -1
+spark_16
+  rotate: false
+  xy: 102, 9
+  size: 35, 6
+  orig: 35, 6
+  offset: 0, 0
+  index: -1
+spark_17
+  rotate: true
+  xy: 530, 58
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+spark_2
+  rotate: false
+  xy: 246, 11
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+spark_3
+  rotate: false
+  xy: 833, 3
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+spark_4
+  rotate: false
+  xy: 833, 28
+  size: 105, 33
+  orig: 105, 33
+  offset: 0, 0
+  index: -1
+spark_5
+  rotate: false
+  xy: 544, 44
+  size: 133, 32
+  orig: 133, 32
+  offset: 0, 0
+  index: -1
+spark_6
+  rotate: false
+  xy: 249, 34
+  size: 146, 40
+  orig: 146, 40
+  offset: 0, 0
+  index: -1
+spark_7
+  rotate: false
+  xy: 2, 17
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+spark_8
+  rotate: false
+  xy: 692, 78
+  size: 145, 48
+  orig: 145, 48
+  offset: 0, 0
+  index: -1
+spark_9
+  rotate: false
+  xy: 839, 80
+  size: 145, 46
+  orig: 145, 46
+  offset: 0, 0
+  index: -1
+yitiaolong
+  rotate: false
+  xy: 530, 2
+  size: 105, 40
+  orig: 105, 40
+  offset: 0, 0
+  index: -1
+yitiaolong1
+  rotate: false
+  xy: 679, 44
+  size: 101, 32
+  orig: 101, 32
+  offset: 0, 0
+  index: -1
+yy1
+  rotate: true
+  xy: 971, 7
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+yy2
+  rotate: false
+  xy: 637, 2
+  size: 98, 40
+  orig: 98, 40
+  offset: 0, 0
+  index: -1
+zy1
+  rotate: false
+  xy: 397, 21
+  size: 131, 53
+  orig: 131, 53
+  offset: 0, 0
+  index: -1

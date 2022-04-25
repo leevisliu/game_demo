@@ -1,0 +1,118 @@
+
+ren.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 785, 342
+  size: 166, 171
+  orig: 166, 171
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 190, 180
+  size: 166, 171
+  orig: 166, 171
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 192, 7
+  size: 166, 171
+  orig: 166, 171
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 363, 175
+  size: 166, 171
+  orig: 166, 171
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 360, 7
+  size: 166, 171
+  orig: 166, 171
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 533, 2
+  size: 166, 171
+  orig: 166, 171
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 701, 5
+  size: 166, 171
+  orig: 166, 171
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 610, 338
+  size: 173, 170
+  orig: 173, 170
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 2, 7
+  size: 188, 168
+  orig: 188, 168
+  offset: 0, 0
+  index: -1
+h3
+  rotate: false
+  xy: 239, 348
+  size: 185, 160
+  orig: 185, 160
+  offset: 0, 0
+  index: -1
+h4
+  rotate: false
+  xy: 2, 364
+  size: 235, 144
+  orig: 235, 144
+  offset: 0, 0
+  index: -1
+z1
+  rotate: true
+  xy: 699, 178
+  size: 158, 138
+  orig: 158, 138
+  offset: 0, 0
+  index: -1
+z2
+  rotate: true
+  xy: 839, 186
+  size: 154, 125
+  orig: 154, 125
+  offset: 0, 0
+  index: -1
+z3
+  rotate: false
+  xy: 531, 175
+  size: 166, 161
+  orig: 166, 161
+  offset: 0, 0
+  index: -1
+z4
+  rotate: false
+  xy: 426, 350
+  size: 182, 158
+  orig: 182, 158
+  offset: 0, 0
+  index: -1
+z5
+  rotate: false
+  xy: 2, 177
+  size: 186, 185
+  orig: 186, 185
+  offset: 0, 0
+  index: -1

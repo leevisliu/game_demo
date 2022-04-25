@@ -1,0 +1,83 @@
+
+hu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huguang
+  rotate: false
+  xy: 532, 113
+  size: 154, 125
+  orig: 154, 125
+  offset: 0, 0
+  index: -1
+longhudazhan4_hu
+  rotate: false
+  xy: 310, 45
+  size: 184, 105
+  orig: 184, 105
+  offset: 0, 0
+  index: -1
+longhudazhan4_hubi
+  rotate: false
+  xy: 624, 11
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+longhudazhan4_huoxing
+  rotate: true
+  xy: 2, 2
+  size: 32, 128
+  orig: 32, 128
+  offset: 0, 0
+  index: -1
+longhudazhan4_hushen
+  rotate: false
+  xy: 2, 36
+  size: 306, 202
+  orig: 306, 202
+  offset: 0, 0
+  index: -1
+longhudazhan4_hutou
+  rotate: true
+  xy: 496, 11
+  size: 100, 126
+  orig: 100, 126
+  offset: 0, 0
+  index: -1
+longhudazhan4_huwei
+  rotate: false
+  xy: 688, 117
+  size: 131, 121
+  orig: 131, 121
+  offset: 0, 0
+  index: -1
+longhudazhan4_huyan
+  rotate: false
+  xy: 696, 74
+  size: 107, 41
+  orig: 107, 41
+  offset: 0, 0
+  index: -1
+longhudazhan4_huzhua
+  rotate: false
+  xy: 821, 145
+  size: 151, 93
+  orig: 151, 93
+  offset: 0, 0
+  index: -1
+longhudazhan4_xiangyun1
+  rotate: false
+  xy: 821, 87
+  size: 149, 56
+  orig: 149, 56
+  offset: 0, 0
+  index: -1
+longhudazhan4_xiangyun2
+  rotate: false
+  xy: 310, 152
+  size: 220, 86
+  orig: 220, 86
+  offset: 0, 0
+  index: -1

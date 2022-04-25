@@ -1,0 +1,62 @@
+
+xiazhu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanbi
+  rotate: true
+  xy: 279, 213
+  size: 41, 207
+  orig: 41, 207
+  offset: 0, 0
+  index: -1
+tengman
+  rotate: true
+  xy: 2, 132
+  size: 122, 275
+  orig: 122, 275
+  offset: 0, 0
+  index: -1
+tutorial 00262
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00263
+  rotate: false
+  xy: 132, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00264
+  rotate: false
+  xy: 262, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00265
+  rotate: false
+  xy: 488, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00266
+  rotate: false
+  xy: 618, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00267
+  rotate: false
+  xy: 748, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+caishen2.png
+size: 292,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 205, 46
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 205, 108
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 262, 138
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+ren
+  rotate: true
+  xy: 2, 2
+  size: 167, 201
+  orig: 167, 201
+  offset: 0, 0
+  index: -1
+you
+  rotate: true
+  xy: 246, 40
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 205, 6
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1

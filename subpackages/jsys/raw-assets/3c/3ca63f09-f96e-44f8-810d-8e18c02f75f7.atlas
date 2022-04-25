@@ -1,0 +1,181 @@
+
+xiongmao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 500
+  size: 540, 522
+  orig: 540, 522
+  offset: 0, 0
+  index: -1
+diguang
+  rotate: false
+  xy: 427, 189
+  size: 79, 84
+  orig: 79, 84
+  offset: 0, 0
+  index: -1
+dizuo
+  rotate: false
+  xy: 544, 904
+  size: 423, 118
+  orig: 423, 118
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 99
+  size: 423, 399
+  orig: 423, 399
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 56, 16
+  size: 58, 33
+  orig: 58, 33
+  offset: 0, 0
+  index: -1
+pai
+  rotate: true
+  xy: 938, 706
+  size: 196, 84
+  orig: 196, 84
+  offset: 0, 0
+  index: -1
+paiguang
+  rotate: true
+  xy: 427, 275
+  size: 223, 109
+  orig: 223, 109
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 544, 618
+  size: 234, 284
+  orig: 234, 284
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 780, 772
+  size: 156, 130
+  orig: 156, 130
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: true
+  xy: 969, 947
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: true
+  xy: 328, 64
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: false
+  xy: 706, 518
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 51
+  size: 242, 46
+  orig: 242, 46
+  offset: 0, 0
+  index: -1
+youer
+  rotate: false
+  xy: 427, 114
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 246, 56
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 706, 571
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+youshouyifu
+  rotate: true
+  xy: 544, 518
+  size: 98, 160
+  orig: 98, 160
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 116, 22
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: true
+  xy: 911, 747
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: false
+  xy: 2, 2
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+zuoer
+  rotate: false
+  xy: 969, 910
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 427, 151
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 780, 636
+  size: 129, 134
+  orig: 129, 134
+  offset: 0, 0
+  index: -1
+zuoshouzhi
+  rotate: false
+  xy: 508, 234
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 381, 70
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1

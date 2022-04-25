@@ -1,0 +1,97 @@
+
+youjian.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+000
+  rotate: false
+  xy: 2, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 156
+  size: 87, 329
+  orig: 87, 329
+  offset: 0, 0
+  index: -1
+tutorial 00262
+  rotate: false
+  xy: 143, 26
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00263
+  rotate: false
+  xy: 333, 115
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00264
+  rotate: false
+  xy: 463, 115
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00265
+  rotate: false
+  xy: 593, 115
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00266
+  rotate: false
+  xy: 723, 115
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00267
+  rotate: false
+  xy: 853, 115
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xuanzhong
+  rotate: false
+  xy: 2, 21
+  size: 139, 133
+  orig: 139, 133
+  offset: 0, 0
+  index: -1
+yj_icon_xtyj
+  rotate: false
+  xy: 437, 51
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+yj_icon_xtyj_1
+  rotate: false
+  xy: 517, 51
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+yj_icon_yxgg
+  rotate: false
+  xy: 273, 43
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+yj_icon_yxgg_1
+  rotate: false
+  xy: 355, 43
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1

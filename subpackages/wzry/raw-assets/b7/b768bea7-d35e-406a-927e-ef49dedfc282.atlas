@@ -1,0 +1,111 @@
+
+baokai.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coins1
+  rotate: false
+  xy: 504, 67
+  size: 121, 123
+  orig: 121, 123
+  offset: 0, 0
+  index: -1
+coins2
+  rotate: false
+  xy: 1552, 379
+  size: 121, 123
+  orig: 121, 123
+  offset: 0, 0
+  index: -1
+coins3
+  rotate: false
+  xy: 627, 67
+  size: 121, 123
+  orig: 121, 123
+  offset: 0, 0
+  index: -1
+coins4
+  rotate: false
+  xy: 1675, 379
+  size: 121, 123
+  orig: 121, 123
+  offset: 0, 0
+  index: -1
+coins5
+  rotate: false
+  xy: 1798, 379
+  size: 121, 123
+  orig: 121, 123
+  offset: 0, 0
+  index: -1
+coins6
+  rotate: false
+  xy: 1921, 379
+  size: 121, 123
+  orig: 121, 123
+  offset: 0, 0
+  index: -1
+fsg1
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fsg2
+  rotate: true
+  xy: 1552, 258
+  size: 119, 122
+  orig: 119, 122
+  offset: 0, 0
+  index: -1
+gq
+  rotate: false
+  xy: 1070, 256
+  size: 246, 246
+  orig: 246, 246
+  offset: 0, 0
+  index: -1
+guangdian1
+  rotate: false
+  xy: 504, 20
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+guanghuan1
+  rotate: false
+  xy: 1318, 270
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+guangqiu
+  rotate: false
+  xy: 504, 192
+  size: 310, 310
+  orig: 310, 310
+  offset: 0, 0
+  index: -1
+julongguang
+  rotate: false
+  xy: 816, 249
+  size: 252, 253
+  orig: 252, 253
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 1676, 273
+  size: 112, 104
+  orig: 112, 104
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 816, 199
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1

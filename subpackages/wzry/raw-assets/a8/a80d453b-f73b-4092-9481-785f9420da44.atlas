@@ -1,0 +1,167 @@
+
+shuijin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_00000
+  rotate: false
+  xy: 993, 499
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+a_00001
+  rotate: false
+  xy: 574, 80
+  size: 104, 103
+  orig: 104, 103
+  offset: 0, 0
+  index: -1
+a_00002
+  rotate: false
+  xy: 680, 81
+  size: 102, 106
+  orig: 102, 106
+  offset: 0, 0
+  index: -1
+a_00003
+  rotate: false
+  xy: 314, 77
+  size: 125, 108
+  orig: 125, 108
+  offset: 0, 0
+  index: -1
+a_00004
+  rotate: true
+  xy: 329, 187
+  size: 149, 144
+  orig: 149, 144
+  offset: 0, 0
+  index: -1
+a_00005
+  rotate: true
+  xy: 475, 185
+  size: 155, 145
+  orig: 155, 145
+  offset: 0, 0
+  index: -1
+a_00006
+  rotate: true
+  xy: 622, 194
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+a_00007
+  rotate: false
+  xy: 768, 198
+  size: 145, 148
+  orig: 145, 148
+  offset: 0, 0
+  index: -1
+a_00008
+  rotate: false
+  xy: 173, 189
+  size: 154, 147
+  orig: 154, 147
+  offset: 0, 0
+  index: -1
+a_00009
+  rotate: false
+  xy: 840, 354
+  size: 151, 153
+  orig: 151, 153
+  offset: 0, 0
+  index: -1
+a_00010
+  rotate: false
+  xy: 691, 348
+  size: 147, 159
+  orig: 147, 159
+  offset: 0, 0
+  index: -1
+a_00011
+  rotate: false
+  xy: 536, 346
+  size: 153, 161
+  orig: 153, 161
+  offset: 0, 0
+  index: -1
+a_00012
+  rotate: false
+  xy: 2, 7
+  size: 158, 159
+  orig: 158, 159
+  offset: 0, 0
+  index: -1
+a_00013
+  rotate: false
+  xy: 2, 168
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+a_00014
+  rotate: true
+  xy: 187, 338
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+a_00015
+  rotate: false
+  xy: 364, 342
+  size: 170, 165
+  orig: 170, 165
+  offset: 0, 0
+  index: -1
+a_00016
+  rotate: false
+  xy: 2, 345
+  size: 183, 162
+  orig: 183, 162
+  offset: 0, 0
+  index: -1
+a_00017
+  rotate: false
+  xy: 915, 218
+  size: 103, 134
+  orig: 103, 134
+  offset: 0, 0
+  index: -1
+a_00018
+  rotate: true
+  xy: 441, 83
+  size: 100, 131
+  orig: 100, 131
+  offset: 0, 0
+  index: -1
+a_00019
+  rotate: true
+  xy: 784, 101
+  size: 86, 60
+  orig: 86, 60
+  offset: 0, 0
+  index: -1
+shuijin
+  rotate: true
+  xy: 173, 53
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 2, 2
+  size: 232, 3
+  orig: 232, 3
+  offset: 0, 0
+  index: -1
+x1
+  rotate: true
+  xy: 622, 189
+  size: 3, 232
+  orig: 3, 232
+  offset: 0, 0
+  index: -1

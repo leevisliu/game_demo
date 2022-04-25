@@ -1,0 +1,69 @@
+
+chujichang.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cs-0
+  rotate: false
+  xy: 663, 3
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+cs-1
+  rotate: false
+  xy: 548, 2
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+cs-2
+  rotate: false
+  xy: 388, 2
+  size: 83, 57
+  orig: 83, 57
+  offset: 0, 0
+  index: -1
+cs-3
+  rotate: false
+  xy: 100, 2
+  size: 94, 57
+  orig: 94, 57
+  offset: 0, 0
+  index: -1
+cs-4
+  rotate: false
+  xy: 196, 3
+  size: 95, 56
+  orig: 95, 56
+  offset: 0, 0
+  index: -1
+cs-5
+  rotate: false
+  xy: 2, 2
+  size: 96, 57
+  orig: 96, 57
+  offset: 0, 0
+  index: -1
+cs-6
+  rotate: false
+  xy: 293, 3
+  size: 93, 56
+  orig: 93, 56
+  offset: 0, 0
+  index: -1
+cs-7
+  rotate: false
+  xy: 473, 3
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+cs-8
+  rotate: false
+  xy: 614, 3
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1

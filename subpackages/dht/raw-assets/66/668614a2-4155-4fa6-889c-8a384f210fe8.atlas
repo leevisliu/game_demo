@@ -1,0 +1,132 @@
+
+jiaotou.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g
+  rotate: false
+  xy: 2, 218
+  size: 290, 36
+  orig: 290, 36
+  offset: 0, 0
+  index: -1
+g-0
+  rotate: false
+  xy: 249, 87
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+g-1
+  rotate: true
+  xy: 462, 152
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+g-10
+  rotate: true
+  xy: 372, 104
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+g-11
+  rotate: false
+  xy: 419, 122
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+g-2
+  rotate: false
+  xy: 297, 114
+  size: 73, 47
+  orig: 73, 47
+  offset: 0, 0
+  index: -1
+g-3
+  rotate: false
+  xy: 297, 163
+  size: 81, 47
+  orig: 81, 47
+  offset: 0, 0
+  index: -1
+g-4
+  rotate: true
+  xy: 249, 127
+  size: 89, 46
+  orig: 89, 46
+  offset: 0, 0
+  index: -1
+g-5
+  rotate: true
+  xy: 202, 123
+  size: 93, 45
+  orig: 93, 45
+  offset: 0, 0
+  index: -1
+g-6
+  rotate: false
+  xy: 388, 216
+  size: 89, 38
+  orig: 89, 38
+  offset: 0, 0
+  index: -1
+g-7
+  rotate: true
+  xy: 179, 2
+  size: 87, 41
+  orig: 87, 41
+  offset: 0, 0
+  index: -1
+g-8
+  rotate: false
+  xy: 297, 212
+  size: 89, 42
+  orig: 89, 42
+  offset: 0, 0
+  index: -1
+g-9
+  rotate: false
+  xy: 388, 169
+  size: 72, 45
+  orig: 72, 45
+  offset: 0, 0
+  index: -1
+gg
+  rotate: false
+  xy: 2, 91
+  size: 198, 125
+  orig: 198, 125
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: true
+  xy: 2, 2
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: true
+  xy: 2, 2
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: true
+  xy: 455, 113
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 2, 30
+  size: 175, 59
+  orig: 175, 59
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+32.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4suimu_00000
+  rotate: false
+  xy: 2, 2
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+4suimu_00001
+  rotate: false
+  xy: 88, 2
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+4suimu_00002
+  rotate: false
+  xy: 174, 2
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+4suimu_00003
+  rotate: false
+  xy: 260, 2
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+4suimu_00004
+  rotate: false
+  xy: 346, 2
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+4suimu_00005
+  rotate: false
+  xy: 432, 2
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+4suimu_00006
+  rotate: false
+  xy: 518, 2
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+4suimu_00007
+  rotate: false
+  xy: 604, 2
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+4suimu_00008
+  rotate: false
+  xy: 690, 2
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+4suimu_00009
+  rotate: false
+  xy: 776, 2
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+4suimu_00010
+  rotate: false
+  xy: 862, 2
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+4suimu_00011
+  rotate: false
+  xy: 948, 2
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1

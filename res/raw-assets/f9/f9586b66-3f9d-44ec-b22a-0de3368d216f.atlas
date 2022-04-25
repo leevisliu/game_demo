@@ -1,0 +1,118 @@
+
+dianpao.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dp_1
+  rotate: false
+  xy: 2, 758
+  size: 380, 250
+  orig: 380, 250
+  offset: 0, 0
+  index: -1
+dp_10
+  rotate: false
+  xy: 1148, 758
+  size: 380, 250
+  orig: 380, 250
+  offset: 0, 0
+  index: -1
+dp_11
+  rotate: false
+  xy: 384, 2
+  size: 380, 250
+  orig: 380, 250
+  offset: 0, 0
+  index: -1
+dp_12
+  rotate: false
+  xy: 766, 254
+  size: 380, 250
+  orig: 380, 250
+  offset: 0, 0
+  index: -1
+dp_13
+  rotate: false
+  xy: 1148, 506
+  size: 380, 250
+  orig: 380, 250
+  offset: 0, 0
+  index: -1
+dp_14
+  rotate: false
+  xy: 1530, 758
+  size: 380, 250
+  orig: 380, 250
+  offset: 0, 0
+  index: -1
+dp_15
+  rotate: false
+  xy: 766, 2
+  size: 380, 250
+  orig: 380, 250
+  offset: 0, 0
+  index: -1
+dp_16
+  rotate: false
+  xy: 1148, 254
+  size: 380, 250
+  orig: 380, 250
+  offset: 0, 0
+  index: -1
+dp_2
+  rotate: false
+  xy: 2, 506
+  size: 380, 250
+  orig: 380, 250
+  offset: 0, 0
+  index: -1
+dp_3
+  rotate: false
+  xy: 384, 758
+  size: 380, 250
+  orig: 380, 250
+  offset: 0, 0
+  index: -1
+dp_4
+  rotate: false
+  xy: 2, 254
+  size: 380, 250
+  orig: 380, 250
+  offset: 0, 0
+  index: -1
+dp_5
+  rotate: false
+  xy: 384, 506
+  size: 380, 250
+  orig: 380, 250
+  offset: 0, 0
+  index: -1
+dp_6
+  rotate: false
+  xy: 766, 758
+  size: 380, 250
+  orig: 380, 250
+  offset: 0, 0
+  index: -1
+dp_7
+  rotate: false
+  xy: 2, 2
+  size: 380, 250
+  orig: 380, 250
+  offset: 0, 0
+  index: -1
+dp_8
+  rotate: false
+  xy: 384, 254
+  size: 380, 250
+  orig: 380, 250
+  offset: 0, 0
+  index: -1
+dp_9
+  rotate: false
+  xy: 766, 506
+  size: 380, 250
+  orig: 380, 250
+  offset: 0, 0
+  index: -1

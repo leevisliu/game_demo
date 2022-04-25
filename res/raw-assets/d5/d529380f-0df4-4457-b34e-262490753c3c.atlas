@@ -1,0 +1,55 @@
+
+tab_club.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 153, 9
+  size: 146, 53
+  orig: 146, 53
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 149, 60
+  orig: 149, 60
+  offset: 0, 0
+  index: -1
+jlb_font_jlbfj
+  rotate: false
+  xy: 301, 34
+  size: 118, 28
+  orig: 118, 28
+  offset: 0, 0
+  index: -1
+jlb_font_jlbfj_1
+  rotate: false
+  xy: 421, 34
+  size: 118, 28
+  orig: 118, 28
+  offset: 0, 0
+  index: -1
+jlb_font_lmfj
+  rotate: false
+  xy: 541, 34
+  size: 118, 28
+  orig: 118, 28
+  offset: 0, 0
+  index: -1
+jlb_font_lmfj_1
+  rotate: false
+  xy: 661, 34
+  size: 118, 28
+  orig: 118, 28
+  offset: 0, 0
+  index: -1
+piao
+  rotate: true
+  xy: 301, 13
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1

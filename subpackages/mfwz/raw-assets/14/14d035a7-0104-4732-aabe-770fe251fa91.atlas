@@ -1,0 +1,111 @@
+
+qiu3.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2 1
+  rotate: false
+  xy: 2, 372
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+2 10
+  rotate: false
+  xy: 2, 76
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+2 11
+  rotate: false
+  xy: 76, 77
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+2 12
+  rotate: false
+  xy: 150, 151
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+2 13
+  rotate: false
+  xy: 76, 150
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+2 14
+  rotate: false
+  xy: 150, 224
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+2 15
+  rotate: false
+  xy: 2, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+2 2
+  rotate: false
+  xy: 2, 298
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+2 3
+  rotate: false
+  xy: 76, 372
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+2 4
+  rotate: false
+  xy: 2, 224
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+2 5
+  rotate: false
+  xy: 76, 298
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+2 6
+  rotate: false
+  xy: 150, 372
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+2 7
+  rotate: false
+  xy: 2, 150
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+2 8
+  rotate: false
+  xy: 76, 224
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+2 9
+  rotate: false
+  xy: 150, 298
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1

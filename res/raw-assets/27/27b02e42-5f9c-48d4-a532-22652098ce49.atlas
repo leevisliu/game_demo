@@ -1,0 +1,153 @@
+
+jinshayinsha.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao1
+  rotate: true
+  xy: 298, 61
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+cao2
+  rotate: false
+  xy: 200, 31
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+cao3
+  rotate: true
+  xy: 264, 59
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+cao4
+  rotate: false
+  xy: 264, 99
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+jin
+  rotate: false
+  xy: 298, 115
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 185, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+jindizuo
+  rotate: true
+  xy: 151, 27
+  size: 92, 47
+  orig: 92, 47
+  offset: 0, 0
+  index: -1
+jinsha
+  rotate: true
+  xy: 2, 16
+  size: 103, 147
+  orig: 103, 147
+  offset: 0, 0
+  index: -1
+jinyinying
+  rotate: false
+  xy: 200, 54
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+jinyoushou
+  rotate: true
+  xy: 151, 2
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+jinzuoshou
+  rotate: false
+  xy: 298, 83
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+liang
+  rotate: false
+  xy: 236, 36
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+qiao
+  rotate: false
+  xy: 2, 121
+  size: 195, 133
+  orig: 195, 133
+  offset: 0, 0
+  index: -1
+sha
+  rotate: true
+  xy: 361, 121
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+sha1
+  rotate: false
+  xy: 210, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 413, 184
+  size: 78, 70
+  orig: 78, 70
+  offset: 0, 0
+  index: -1
+shitou
+  rotate: true
+  xy: 199, 145
+  size: 109, 212
+  orig: 109, 212
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 200, 76
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+yin
+  rotate: false
+  xy: 330, 116
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+yindizuo
+  rotate: false
+  xy: 413, 146
+  size: 71, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+yinyinying
+  rotate: true
+  xy: 493, 216
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1

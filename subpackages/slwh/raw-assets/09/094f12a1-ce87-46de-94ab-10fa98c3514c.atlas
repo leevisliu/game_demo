@@ -1,0 +1,160 @@
+
+tuzi1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixin
+  rotate: true
+  xy: 972, 174
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+er1
+  rotate: true
+  xy: 686, 162
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+er2
+  rotate: false
+  xy: 570, 148
+  size: 114, 91
+  orig: 114, 91
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 275, 62
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 407, 61
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+koushui
+  rotate: true
+  xy: 342, 62
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+luobo1
+  rotate: true
+  xy: 785, 161
+  size: 78, 94
+  orig: 78, 94
+  offset: 0, 0
+  index: -1
+luobo2
+  rotate: false
+  xy: 407, 101
+  size: 161, 138
+  orig: 161, 138
+  offset: 0, 0
+  index: -1
+luobo3
+  rotate: true
+  xy: 2, 3
+  size: 57, 96
+  orig: 57, 96
+  offset: 0, 0
+  index: -1
+luobo31
+  rotate: false
+  xy: 681, 125
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+luobo32
+  rotate: true
+  xy: 686, 148
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 881, 161
+  size: 78, 89
+  orig: 78, 89
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 62
+  size: 182, 177
+  orig: 182, 177
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 186, 60
+  size: 87, 53
+  orig: 87, 53
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 100, 2
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 636, 102
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+ye1
+  rotate: false
+  xy: 454, 75
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: false
+  xy: 559, 69
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+ye3
+  rotate: false
+  xy: 513, 64
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+ye4
+  rotate: true
+  xy: 601, 71
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: false
+  xy: 186, 115
+  size: 219, 124
+  orig: 219, 124
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 570, 95
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+xinshoufang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 85
+  size: 234, 169
+  orig: 234, 169
+  offset: 0, 0
+  index: -1
+g-0
+  rotate: true
+  xy: 806, 73
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+g-1
+  rotate: false
+  xy: 584, 28
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1
+g-10
+  rotate: false
+  xy: 945, 54
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+g-11
+  rotate: true
+  xy: 645, 60
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+g-2
+  rotate: false
+  xy: 372, 86
+  size: 91, 69
+  orig: 91, 69
+  offset: 0, 0
+  index: -1
+g-3
+  rotate: false
+  xy: 2, 14
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1
+g-4
+  rotate: false
+  xy: 372, 19
+  size: 90, 65
+  orig: 90, 65
+  offset: 0, 0
+  index: -1
+g-5
+  rotate: false
+  xy: 99, 21
+  size: 94, 62
+  orig: 94, 62
+  offset: 0, 0
+  index: -1
+g-6
+  rotate: true
+  xy: 465, 2
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+g-7
+  rotate: false
+  xy: 645, 104
+  size: 90, 63
+  orig: 90, 63
+  offset: 0, 0
+  index: -1
+g-8
+  rotate: false
+  xy: 465, 87
+  size: 88, 68
+  orig: 88, 68
+  offset: 0, 0
+  index: -1
+g-9
+  rotate: false
+  xy: 555, 99
+  size: 88, 68
+  orig: 88, 68
+  offset: 0, 0
+  index: -1
+juanzhou
+  rotate: false
+  xy: 238, 157
+  size: 296, 97
+  orig: 296, 97
+  offset: 0, 0
+  index: -1
+shanzi1_01
+  rotate: false
+  xy: 814, 122
+  size: 172, 132
+  orig: 172, 132
+  offset: 0, 0
+  index: -1
+tiyasnfang
+  rotate: false
+  xy: 536, 169
+  size: 276, 85
+  orig: 276, 85
+  offset: 0, 0
+  index: -1
+yezi01
+  rotate: true
+  xy: 988, 190
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+yezi02
+  rotate: true
+  xy: 530, 7
+  size: 78, 52
+  orig: 78, 52
+  offset: 0, 0
+  index: -1
+yezi03
+  rotate: false
+  xy: 642, 2
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+yezi04
+  rotate: false
+  xy: 877, 64
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+yezi05
+  rotate: false
+  xy: 737, 91
+  size: 67, 76
+  orig: 67, 76
+  offset: 0, 0
+  index: -1
+yezi06
+  rotate: false
+  xy: 238, 23
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+yezi07
+  rotate: true
+  xy: 696, 2
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+yezi08
+  rotate: false
+  xy: 1013, 209
+  size: 9, 45
+  orig: 9, 45
+  offset: 0, 0
+  index: -1
+yezi09
+  rotate: false
+  xy: 195, 52
+  size: 8, 31
+  orig: 8, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+gunzi.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gan
+  rotate: true
+  xy: 54, 9
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 2, 9
+  size: 15, 50
+  orig: 15, 50
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 91, 2
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1

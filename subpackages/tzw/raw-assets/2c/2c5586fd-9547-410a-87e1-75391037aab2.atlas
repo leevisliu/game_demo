@@ -1,0 +1,104 @@
+
+touxiangguang.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image 1
+  rotate: false
+  xy: 2, 2
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+image 10
+  rotate: false
+  xy: 992, 2
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+image 11
+  rotate: false
+  xy: 1102, 2
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+image 12
+  rotate: false
+  xy: 1212, 2
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+image 13
+  rotate: false
+  xy: 1322, 2
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+image 14
+  rotate: false
+  xy: 1432, 2
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+image 2
+  rotate: false
+  xy: 112, 2
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+image 3
+  rotate: false
+  xy: 222, 2
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+image 4
+  rotate: false
+  xy: 332, 2
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+image 5
+  rotate: false
+  xy: 442, 2
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+image 6
+  rotate: false
+  xy: 552, 2
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+image 7
+  rotate: false
+  xy: 662, 2
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+image 8
+  rotate: false
+  xy: 772, 2
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+image 9
+  rotate: false
+  xy: 882, 2
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1

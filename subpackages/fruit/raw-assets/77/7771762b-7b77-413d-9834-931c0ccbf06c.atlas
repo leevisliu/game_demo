@@ -1,0 +1,76 @@
+
+cai-2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbi111
+  rotate: false
+  xy: 2, 100
+  size: 85, 24
+  orig: 85, 24
+  offset: 0, 0
+  index: -1
+jinbi_effect_000
+  rotate: false
+  xy: 133, 206
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+jinbi_effect_002
+  rotate: false
+  xy: 2, 51
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+jinbi_effect_004
+  rotate: false
+  xy: 182, 206
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+jinbi_effect_006
+  rotate: false
+  xy: 179, 156
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+jinbi_effect_008
+  rotate: false
+  xy: 38, 2
+  size: 12, 47
+  orig: 12, 47
+  offset: 0, 0
+  index: -1
+jinbi_effect_010
+  rotate: true
+  xy: 133, 134
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+jinbi_effect_012
+  rotate: false
+  xy: 2, 2
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+jinbi_effect_014
+  rotate: false
+  xy: 133, 156
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+xinyuan
+  rotate: false
+  xy: 2, 126
+  size: 129, 128
+  orig: 129, 128
+  offset: 0, 0
+  index: -1

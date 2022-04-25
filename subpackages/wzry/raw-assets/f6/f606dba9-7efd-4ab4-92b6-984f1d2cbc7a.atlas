@@ -1,0 +1,69 @@
+
+pk.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 310, 107
+  orig: 310, 107
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1402, 299
+  size: 310, 107
+  orig: 310, 107
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 314, 2
+  size: 310, 107
+  orig: 310, 107
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1402, 190
+  size: 310, 107
+  orig: 310, 107
+  offset: 0, 0
+  index: -1
+vs
+  rotate: false
+  xy: 1174, 137
+  size: 226, 269
+  orig: 226, 269
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 2, 111
+  size: 594, 295
+  orig: 594, 295
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 1714, 206
+  size: 150, 200
+  orig: 150, 200
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 598, 111
+  size: 574, 295
+  orig: 574, 295
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 1866, 206
+  size: 150, 200
+  orig: 150, 200
+  offset: 0, 0
+  index: -1

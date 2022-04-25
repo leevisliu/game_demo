@@ -1,0 +1,153 @@
+
+shengli.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1373, 510
+  size: 144, 164
+  orig: 144, 164
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 827, 5
+  size: 225, 158
+  orig: 225, 158
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1170, 117
+  size: 356, 189
+  orig: 356, 189
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 899, 480
+  size: 472, 194
+  orig: 472, 194
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 899, 676
+  size: 578, 182
+  orig: 578, 182
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 899, 860
+  size: 695, 149
+  orig: 695, 149
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 364
+  size: 767, 143
+  orig: 767, 143
+  offset: 0, 0
+  index: -1
+chi1
+  rotate: false
+  xy: 484, 54
+  size: 341, 308
+  orig: 341, 308
+  offset: 0, 0
+  index: -1
+chi2
+  rotate: false
+  xy: 827, 165
+  size: 341, 308
+  orig: 341, 308
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 61
+  size: 480, 301
+  orig: 480, 301
+  offset: 0, 0
+  index: -1
+diliang
+  rotate: false
+  xy: 2, 509
+  size: 895, 505
+  orig: 895, 505
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 1361, 88
+  size: 98, 85
+  orig: 98, 85
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 1461, 101
+  size: 97, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: false
+  xy: 1479, 740
+  size: 96, 118
+  orig: 96, 118
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 1054, 43
+  size: 97, 120
+  orig: 97, 120
+  offset: 0, 0
+  index: -1
+toushang
+  rotate: true
+  xy: 2, 2
+  size: 57, 107
+  orig: 57, 107
+  offset: 0, 0
+  index: -1
+touyun
+  rotate: false
+  xy: 1898, 760
+  size: 145, 254
+  orig: 145, 254
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 899, 1011
+  size: 982, 3
+  orig: 982, 3
+  offset: 0, 0
+  index: -1
+x1
+  rotate: true
+  xy: 827, 475
+  size: 3, 536
+  orig: 3, 536
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: false
+  xy: 1596, 719
+  size: 300, 290
+  orig: 300, 290
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: true
+  xy: 1361, 175
+  size: 298, 290
+  orig: 298, 290
+  offset: 0, 0
+  index: -1

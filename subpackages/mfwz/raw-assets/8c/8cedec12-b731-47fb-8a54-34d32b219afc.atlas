@@ -1,0 +1,132 @@
+
+qml.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qimeila_0
+  rotate: true
+  xy: 1560, 203
+  size: 99, 71
+  orig: 99, 71
+  offset: 0, 0
+  index: -1
+qimeila_1
+  rotate: true
+  xy: 775, 2
+  size: 125, 68
+  orig: 125, 68
+  offset: 0, 0
+  index: -1
+qimeila_10
+  rotate: false
+  xy: 930, 267
+  size: 407, 243
+  orig: 407, 243
+  offset: 0, 0
+  index: -1
+qimeila_11
+  rotate: true
+  xy: 845, 2
+  size: 125, 68
+  orig: 125, 68
+  offset: 0, 0
+  index: -1
+qimeila_12
+  rotate: true
+  xy: 1872, 290
+  size: 109, 174
+  orig: 109, 174
+  offset: 0, 0
+  index: -1
+qimeila_13
+  rotate: true
+  xy: 930, 144
+  size: 121, 172
+  orig: 121, 172
+  offset: 0, 0
+  index: -1
+qimeila_14
+  rotate: false
+  xy: 2, 28
+  size: 427, 482
+  orig: 427, 482
+  offset: 0, 0
+  index: -1
+qimeila_15
+  rotate: false
+  xy: 1393, 118
+  size: 99, 70
+  orig: 99, 70
+  offset: 0, 0
+  index: -1
+qimeila_16
+  rotate: true
+  xy: 431, 25
+  size: 102, 177
+  orig: 102, 177
+  offset: 0, 0
+  index: -1
+qimeila_17
+  rotate: false
+  xy: 1480, 190
+  size: 78, 112
+  orig: 78, 112
+  offset: 0, 0
+  index: -1
+qimeila_18
+  rotate: false
+  xy: 1339, 304
+  size: 280, 206
+  orig: 280, 206
+  offset: 0, 0
+  index: -1
+qimeila_2
+  rotate: true
+  xy: 1872, 401
+  size: 109, 174
+  orig: 109, 174
+  offset: 0, 0
+  index: -1
+qimeila_3
+  rotate: true
+  xy: 1104, 144
+  size: 121, 171
+  orig: 121, 171
+  offset: 0, 0
+  index: -1
+qimeila_4
+  rotate: false
+  xy: 431, 129
+  size: 497, 381
+  orig: 497, 381
+  offset: 0, 0
+  index: -1
+qimeila_5
+  rotate: true
+  xy: 610, 10
+  size: 117, 163
+  orig: 117, 163
+  offset: 0, 0
+  index: -1
+qimeila_6
+  rotate: false
+  xy: 1393, 190
+  size: 85, 112
+  orig: 85, 112
+  offset: 0, 0
+  index: -1
+qimeila_7
+  rotate: true
+  xy: 1621, 343
+  size: 167, 249
+  orig: 167, 249
+  offset: 0, 0
+  index: -1
+qimeila_8
+  rotate: false
+  xy: 1277, 131
+  size: 114, 134
+  orig: 114, 134
+  offset: 0, 0
+  index: -1

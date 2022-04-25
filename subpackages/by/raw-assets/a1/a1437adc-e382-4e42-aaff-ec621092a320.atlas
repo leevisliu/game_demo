@@ -1,0 +1,104 @@
+
+yibanyu.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbi_effect_000
+  rotate: false
+  xy: 1269, 245
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jinbi_effect_002
+  rotate: false
+  xy: 1581, 342
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jinbi_effect_004
+  rotate: false
+  xy: 1864, 429
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jinbi_effect_006
+  rotate: false
+  xy: 1019, 109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jinbi_effect_008
+  rotate: false
+  xy: 1335, 245
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jinbi_effect_010
+  rotate: false
+  xy: 1647, 342
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jinbi_effect_012
+  rotate: false
+  xy: 1930, 429
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jinbi_effect_014
+  rotate: false
+  xy: 1019, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+光暈
+  rotate: false
+  xy: 526, 2
+  size: 491, 491
+  orig: 491, 491
+  offset: 0, 0
+  index: -1
+光束
+  rotate: true
+  xy: 2, 5
+  size: 488, 522
+  orig: 488, 522
+  offset: 0, 0
+  index: -1
+緞帶
+  rotate: false
+  xy: 1581, 408
+  size: 281, 85
+  orig: 281, 85
+  offset: 0, 0
+  index: -1
+金圈
+  rotate: false
+  xy: 1019, 243
+  size: 248, 250
+  orig: 248, 250
+  offset: 0, 0
+  index: -1
+金幣前
+  rotate: false
+  xy: 1269, 311
+  size: 310, 182
+  orig: 310, 182
+  offset: 0, 0
+  index: -1
+金幣堆疊
+  rotate: false
+  xy: 1019, 175
+  size: 238, 66
+  orig: 238, 66
+  offset: 0, 0
+  index: -1

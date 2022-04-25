@@ -1,0 +1,104 @@
+
+jinsha.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 492
+  size: 540, 522
+  orig: 540, 522
+  offset: 0, 0
+  index: -1
+diguang
+  rotate: false
+  xy: 841, 705
+  size: 79, 84
+  orig: 79, 84
+  offset: 0, 0
+  index: -1
+dizuo
+  rotate: true
+  xy: 427, 67
+  size: 423, 118
+  orig: 423, 118
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 91
+  size: 423, 399
+  orig: 423, 399
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 2, 2
+  size: 203, 87
+  orig: 203, 87
+  offset: 0, 0
+  index: -1
+pai
+  rotate: false
+  xy: 207, 5
+  size: 196, 84
+  orig: 196, 84
+  offset: 0, 0
+  index: -1
+paiguang
+  rotate: true
+  xy: 841, 791
+  size: 223, 109
+  orig: 223, 109
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: true
+  xy: 952, 939
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 405, 77
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 544, 562
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: true
+  xy: 788, 628
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 544, 615
+  size: 242, 46
+  orig: 242, 46
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 544, 663
+  size: 295, 351
+  orig: 295, 351
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 841, 678
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1

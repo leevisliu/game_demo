@@ -1,0 +1,76 @@
+
+yaoqianshu.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 20
+  size: 109, 40
+  orig: 109, 40
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 113, 33
+  size: 92, 27
+  orig: 92, 27
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 207, 19
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: true
+  xy: 429, 26
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+qiqiushang16
+  rotate: false
+  xy: 331, 18
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+shu-1
+  rotate: false
+  xy: 469, 25
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+shu-2
+  rotate: false
+  xy: 271, 14
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+shu-3
+  rotate: true
+  xy: 149, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+shugan
+  rotate: false
+  xy: 379, 30
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+sidai
+  rotate: false
+  xy: 113, 8
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1

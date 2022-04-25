@@ -1,0 +1,174 @@
+
+gaojifang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 266, 390
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 114
+  size: 102, 125
+  orig: 102, 125
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 241
+  size: 262, 269
+  orig: 262, 269
+  offset: 0, 0
+  index: -1
+guangdian1
+  rotate: false
+  xy: 266, 317
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+guangdian2
+  rotate: false
+  xy: 266, 317
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+sg-0
+  rotate: false
+  xy: 410, 375
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+sg-1
+  rotate: true
+  xy: 266, 203
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+sg-10
+  rotate: false
+  xy: 339, 364
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+sg-11
+  rotate: false
+  xy: 317, 260
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+sg-12
+  rotate: false
+  xy: 387, 261
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+sg-13
+  rotate: true
+  xy: 260, 101
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+sg-2
+  rotate: false
+  xy: 449, 461
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+sg-3
+  rotate: true
+  xy: 260, 138
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+sg-4
+  rotate: false
+  xy: 187, 120
+  size: 71, 49
+  orig: 71, 49
+  offset: 0, 0
+  index: -1
+sg-5
+  rotate: true
+  xy: 266, 242
+  size: 73, 49
+  orig: 73, 49
+  offset: 0, 0
+  index: -1
+sg-6
+  rotate: false
+  xy: 339, 418
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+sg-7
+  rotate: false
+  xy: 317, 211
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+sg-8
+  rotate: false
+  xy: 339, 315
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+sg-9
+  rotate: false
+  xy: 106, 122
+  size: 79, 47
+  orig: 79, 47
+  offset: 0, 0
+  index: -1
+shaizi1
+  rotate: true
+  xy: 420, 418
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+shaizi2
+  rotate: false
+  xy: 2, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 106, 171
+  size: 152, 68
+  orig: 152, 68
+  offset: 0, 0
+  index: -1
+wenzidi
+  rotate: false
+  xy: 266, 465
+  size: 181, 45
+  orig: 181, 45
+  offset: 0, 0
+  index: -1
+yuanbao
+  rotate: false
+  xy: 2, 37
+  size: 95, 75
+  orig: 95, 75
+  offset: 0, 0
+  index: -1

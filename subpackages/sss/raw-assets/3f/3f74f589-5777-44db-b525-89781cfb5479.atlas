@@ -1,0 +1,69 @@
+
+santonghua.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 2
+  size: 243, 55
+  orig: 243, 55
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 792, 33
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: true
+  xy: 749, 17
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: true
+  xy: 749, 17
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 378, 18
+  size: 104, 39
+  orig: 104, 39
+  offset: 0, 0
+  index: -1
+wenzi1
+  rotate: false
+  xy: 484, 22
+  size: 104, 35
+  orig: 104, 35
+  offset: 0, 0
+  index: -1
+yy1
+  rotate: false
+  xy: 247, 6
+  size: 129, 51
+  orig: 129, 51
+  offset: 0, 0
+  index: -1
+zy1
+  rotate: false
+  xy: 688, 25
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+zy2
+  rotate: false
+  xy: 590, 19
+  size: 96, 38
+  orig: 96, 38
+  offset: 0, 0
+  index: -1

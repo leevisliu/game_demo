@@ -1,0 +1,48 @@
+
+nvwujiuzhi1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 61
+  size: 584, 129
+  orig: 584, 129
+  offset: 0, 0
+  index: -1
+duye
+  rotate: false
+  xy: 2, 192
+  size: 598, 519
+  orig: 598, 519
+  offset: 0, 0
+  index: -1
+kuluo
+  rotate: false
+  xy: 602, 463
+  size: 254, 248
+  orig: 254, 248
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 2, 2
+  size: 232, 57
+  orig: 232, 57
+  offset: 0, 0
+  index: -1
+yaodi
+  rotate: false
+  xy: 858, 661
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+yaoping
+  rotate: false
+  xy: 602, 339
+  size: 114, 122
+  orig: 114, 122
+  offset: 0, 0
+  index: -1

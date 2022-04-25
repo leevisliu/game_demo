@@ -1,0 +1,62 @@
+
+tanchuang.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chongzhi
+  rotate: true
+  xy: 262, 2
+  size: 35, 74
+  orig: 35, 74
+  offset: 0, 0
+  index: -1
+gerenzhongxin
+  rotate: true
+  xy: 408, 81
+  size: 38, 138
+  orig: 38, 138
+  offset: 0, 0
+  index: -1
+haoyouyueju
+  rotate: true
+  xy: 2, 2
+  size: 35, 144
+  orig: 35, 144
+  offset: 0, 0
+  index: -1
+pai
+  rotate: true
+  xy: 2, 39
+  size: 80, 404
+  orig: 80, 404
+  offset: 0, 0
+  index: -1
+paihangbang
+  rotate: true
+  xy: 148, 3
+  size: 34, 112
+  orig: 34, 112
+  offset: 0, 0
+  index: -1
+tuiguang
+  rotate: true
+  xy: 629, 85
+  size: 34, 74
+  orig: 34, 74
+  offset: 0, 0
+  index: -1
+yinhang
+  rotate: true
+  xy: 408, 41
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+youjian
+  rotate: true
+  xy: 548, 86
+  size: 33, 79
+  orig: 33, 79
+  offset: 0, 0
+  index: -1

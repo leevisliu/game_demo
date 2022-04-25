@@ -1,0 +1,27 @@
+
+paokou.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pk1_01
+  rotate: false
+  xy: 487, 24
+  size: 181, 189
+  orig: 181, 189
+  offset: 0, 0
+  index: -1
+pk2_01
+  rotate: false
+  xy: 257, 21
+  size: 230, 192
+  orig: 230, 192
+  offset: 0, 0
+  index: -1
+pk3_01
+  rotate: false
+  xy: 0, 0
+  size: 257, 213
+  orig: 257, 213
+  offset: 0, 0
+  index: -1

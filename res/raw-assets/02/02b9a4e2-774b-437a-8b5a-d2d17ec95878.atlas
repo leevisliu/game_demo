@@ -1,0 +1,188 @@
+
+bairenniuniu.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 299, 42
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1263, 112
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 826, 17
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1116, 70
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 88, 6
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 340, 42
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 1030, 67
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 2, 3
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 256, 39
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 1220, 109
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 826, 33
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 1073, 67
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 45, 3
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+denglong
+  rotate: true
+  xy: 1030, 86
+  size: 40, 135
+  orig: 40, 135
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 207, 58
+  size: 221, 68
+  orig: 221, 68
+  offset: 0, 0
+  index: -1
+gan
+  rotate: true
+  xy: 430, 58
+  size: 68, 175
+  orig: 68, 175
+  offset: 0, 0
+  index: -1
+nanhai
+  rotate: true
+  xy: 896, 63
+  size: 63, 132
+  orig: 63, 132
+  offset: 0, 0
+  index: -1
+nvren
+  rotate: true
+  xy: 753, 52
+  size: 74, 141
+  orig: 74, 141
+  offset: 0, 0
+  index: -1
+pai
+  rotate: false
+  xy: 1304, 109
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+pai1
+  rotate: false
+  xy: 1167, 99
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1
+pai2
+  rotate: false
+  xy: 869, 29
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 797, 16
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+xiaomeimei
+  rotate: true
+  xy: 607, 24
+  size: 102, 144
+  orig: 102, 144
+  offset: 0, 0
+  index: -1
+yijiao1
+  rotate: true
+  xy: 207, 24
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+yjiao
+  rotate: false
+  xy: 753, 2
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+zhuozi
+  rotate: false
+  xy: 2, 22
+  size: 203, 104
+  orig: 203, 104
+  offset: 0, 0
+  index: -1

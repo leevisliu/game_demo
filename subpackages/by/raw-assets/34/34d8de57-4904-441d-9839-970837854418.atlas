@@ -1,0 +1,41 @@
+
+hailang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0012
+  rotate: false
+  xy: 364, 2
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 644
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 644, 364
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 2
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+paopao
+  rotate: false
+  xy: 364, 622
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

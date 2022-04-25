@@ -1,0 +1,41 @@
+
+wuniu.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 2
+  size: 235, 56
+  orig: 235, 56
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 239, 12
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+niao
+  rotate: false
+  xy: 367, 19
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 239, 21
+  size: 126, 37
+  orig: 126, 37
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 433, 31
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1

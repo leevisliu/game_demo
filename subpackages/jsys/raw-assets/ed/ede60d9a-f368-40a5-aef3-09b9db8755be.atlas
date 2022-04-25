@@ -1,0 +1,181 @@
+
+kongque.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 2, 32
+  size: 218, 415
+  orig: 218, 415
+  offset: 0, 0
+  index: -1
+bu1
+  rotate: false
+  xy: 1769, 230
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+bu2
+  rotate: true
+  xy: 2, 2
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 612, 34
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+c2
+  rotate: true
+  xy: 1573, 202
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 1245, 138
+  size: 72, 46
+  orig: 72, 46
+  offset: 0, 0
+  index: -1
+chi
+  rotate: true
+  xy: 963, 155
+  size: 95, 155
+  orig: 95, 155
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: false
+  xy: 1120, 130
+  size: 123, 120
+  orig: 123, 120
+  offset: 0, 0
+  index: -1
+j1
+  rotate: false
+  xy: 41, 14
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+j2
+  rotate: false
+  xy: 1325, 198
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+j3
+  rotate: true
+  xy: 1633, 205
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+j4
+  rotate: false
+  xy: 680, 102
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+sg-0
+  rotate: false
+  xy: 1729, 215
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+sg-1
+  rotate: false
+  xy: 1633, 215
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+sg-2
+  rotate: false
+  xy: 1496, 215
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+sg-3
+  rotate: false
+  xy: 1410, 215
+  size: 84, 35
+  orig: 84, 35
+  offset: 0, 0
+  index: -1
+sg-4
+  rotate: false
+  xy: 523, 45
+  size: 87, 36
+  orig: 87, 36
+  offset: 0, 0
+  index: -1
+sg-5
+  rotate: false
+  xy: 963, 118
+  size: 87, 35
+  orig: 87, 35
+  offset: 0, 0
+  index: -1
+sg-6
+  rotate: false
+  xy: 1325, 213
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1
+sg-7
+  rotate: false
+  xy: 419, 41
+  size: 102, 40
+  orig: 102, 40
+  offset: 0, 0
+  index: -1
+sg-8
+  rotate: false
+  xy: 1052, 116
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+sg-9
+  rotate: false
+  xy: 1687, 213
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 680, 118
+  size: 132, 281
+  orig: 132, 281
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1245, 186
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 419, 83
+  size: 167, 259
+  orig: 167, 259
+  offset: 0, 0
+  index: -1

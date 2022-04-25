@@ -1,0 +1,34 @@
+
+xiaoyu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caideng
+  rotate: false
+  xy: 397, 194
+  size: 200, 201
+  orig: 200, 201
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 2, 2
+  size: 393, 393
+  orig: 393, 393
+  offset: 0, 0
+  index: -1
+lun1
+  rotate: false
+  xy: 801, 195
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lun2
+  rotate: false
+  xy: 599, 195
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

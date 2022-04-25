@@ -1,0 +1,76 @@
+
+kai.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gai
+  rotate: true
+  xy: 445, 54
+  size: 221, 318
+  orig: 221, 318
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 172
+  size: 441, 338
+  orig: 441, 338
+  offset: 0, 0
+  index: -1
+img_11
+  rotate: false
+  xy: 194, 69
+  size: 93, 101
+  orig: 93, 101
+  offset: 0, 0
+  index: -1
+img_21
+  rotate: false
+  xy: 845, 409
+  size: 94, 101
+  orig: 94, 101
+  offset: 0, 0
+  index: -1
+img_31
+  rotate: false
+  xy: 2, 69
+  size: 94, 101
+  orig: 94, 101
+  offset: 0, 0
+  index: -1
+img_41
+  rotate: false
+  xy: 289, 69
+  size: 93, 101
+  orig: 93, 101
+  offset: 0, 0
+  index: -1
+img_51
+  rotate: false
+  xy: 845, 306
+  size: 94, 101
+  orig: 94, 101
+  offset: 0, 0
+  index: -1
+img_61
+  rotate: false
+  xy: 98, 69
+  size: 94, 101
+  orig: 94, 101
+  offset: 0, 0
+  index: -1
+pan
+  rotate: false
+  xy: 445, 277
+  size: 398, 233
+  orig: 398, 233
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

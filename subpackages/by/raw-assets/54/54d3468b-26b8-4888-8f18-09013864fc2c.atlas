@@ -1,0 +1,76 @@
+
+jinbibengchu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+by_eff_cicle_00001
+  rotate: false
+  xy: 364, 233
+  size: 273, 275
+  orig: 273, 275
+  offset: 0, 0
+  index: -1
+by_eff_jb1
+  rotate: false
+  xy: 866, 385
+  size: 121, 123
+  orig: 121, 123
+  offset: 0, 0
+  index: -1
+by_eff_jb2
+  rotate: false
+  xy: 2, 2
+  size: 121, 123
+  orig: 121, 123
+  offset: 0, 0
+  index: -1
+by_eff_jb3
+  rotate: false
+  xy: 125, 2
+  size: 121, 123
+  orig: 121, 123
+  offset: 0, 0
+  index: -1
+by_eff_jb4
+  rotate: false
+  xy: 866, 260
+  size: 121, 123
+  orig: 121, 123
+  offset: 0, 0
+  index: -1
+by_eff_jb5
+  rotate: false
+  xy: 758, 135
+  size: 121, 123
+  orig: 121, 123
+  offset: 0, 0
+  index: -1
+by_eff_jb7
+  rotate: false
+  xy: 881, 135
+  size: 121, 123
+  orig: 121, 123
+  offset: 0, 0
+  index: -1
+by_eff_jbbaod_00000
+  rotate: false
+  xy: 2, 127
+  size: 360, 381
+  orig: 360, 381
+  offset: 0, 0
+  index: -1
+by_eff_jbglow_line
+  rotate: true
+  xy: 364, 77
+  size: 154, 392
+  orig: 154, 392
+  offset: 0, 0
+  index: -1
+by_eff_lizi_00003
+  rotate: false
+  xy: 639, 285
+  size: 225, 223
+  orig: 225, 223
+  offset: 0, 0
+  index: -1

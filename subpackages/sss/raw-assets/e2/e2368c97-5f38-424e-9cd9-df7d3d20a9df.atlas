@@ -1,0 +1,146 @@
+
+kaishi.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 326
+  size: 525, 162
+  orig: 525, 162
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 529, 211
+  size: 281, 277
+  orig: 281, 277
+  offset: 0, 0
+  index: -1
+scanlight_00
+  rotate: true
+  xy: 1224, 336
+  size: 22, 99
+  orig: 22, 99
+  offset: 0, 0
+  index: -1
+scanlight_01
+  rotate: true
+  xy: 1630, 417
+  size: 71, 171
+  orig: 71, 171
+  offset: 0, 0
+  index: -1
+scanlight_02
+  rotate: false
+  xy: 983, 311
+  size: 125, 177
+  orig: 125, 177
+  offset: 0, 0
+  index: -1
+scanlight_03
+  rotate: false
+  xy: 812, 311
+  size: 169, 177
+  orig: 169, 177
+  offset: 0, 0
+  index: -1
+scanlight_04
+  rotate: true
+  xy: 2, 2
+  size: 138, 177
+  orig: 138, 177
+  offset: 0, 0
+  index: -1
+scanlight_05
+  rotate: true
+  xy: 812, 212
+  size: 97, 177
+  orig: 97, 177
+  offset: 0, 0
+  index: -1
+scanlight_06
+  rotate: true
+  xy: 1803, 427
+  size: 61, 161
+  orig: 61, 161
+  offset: 0, 0
+  index: -1
+scanlight_07
+  rotate: true
+  xy: 1110, 331
+  size: 27, 112
+  orig: 27, 112
+  offset: 0, 0
+  index: -1
+tutorial 00262
+  rotate: false
+  xy: 181, 12
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00263
+  rotate: false
+  xy: 1110, 360
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00264
+  rotate: false
+  xy: 311, 12
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00265
+  rotate: false
+  xy: 1240, 360
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00266
+  rotate: false
+  xy: 1370, 360
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00267
+  rotate: false
+  xy: 1500, 360
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 991, 220
+  size: 119, 89
+  orig: 119, 89
+  offset: 0, 0
+  index: -1
+yh
+  rotate: true
+  xy: 441, 34
+  size: 106, 52
+  orig: 106, 52
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 2, 142
+  size: 503, 182
+  orig: 503, 182
+  offset: 0, 0
+  index: -1
+zh
+  rotate: false
+  xy: 1630, 370
+  size: 106, 45
+  orig: 106, 45
+  offset: 0, 0
+  index: -1

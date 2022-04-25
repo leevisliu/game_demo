@@ -1,0 +1,146 @@
+
+yinhang.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 429, 171
+  size: 83, 229
+  orig: 83, 229
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 168
+  size: 86, 425
+  orig: 86, 425
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 79
+  size: 87, 329
+  orig: 87, 329
+  offset: 0, 0
+  index: -1
+i-baoxianxiang
+  rotate: false
+  xy: 132, 31
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+i-baoxianxiang1
+  rotate: false
+  xy: 74, 28
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+i-tixian
+  rotate: false
+  xy: 1581, 167
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+i-tixian1
+  rotate: false
+  xy: 1581, 210
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+tutorial 00262
+  rotate: false
+  xy: 801, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00263
+  rotate: false
+  xy: 931, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00264
+  rotate: false
+  xy: 1061, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00265
+  rotate: false
+  xy: 1191, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00266
+  rotate: false
+  xy: 1321, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00267
+  rotate: false
+  xy: 1451, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+w-baoxianxiang
+  rotate: false
+  xy: 132, 2
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+w-baoxianxiang1
+  rotate: false
+  xy: 1645, 227
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+w-tixian
+  rotate: false
+  xy: 1581, 139
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+w-tixian1
+  rotate: false
+  xy: 188, 51
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+xuanzhong
+  rotate: false
+  xy: 660, 121
+  size: 139, 133
+  orig: 139, 133
+  offset: 0, 0
+  index: -1
+yh_icon_dh
+  rotate: false
+  xy: 2, 7
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+yh_icon_dh_1
+  rotate: false
+  xy: 333, 96
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1

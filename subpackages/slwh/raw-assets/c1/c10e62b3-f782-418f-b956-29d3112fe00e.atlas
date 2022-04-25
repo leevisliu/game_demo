@@ -1,0 +1,76 @@
+
+houzi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+er1
+  rotate: true
+  xy: 681, 37
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+er2
+  rotate: true
+  xy: 2, 12
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+hai
+  rotate: false
+  xy: 2, 54
+  size: 301, 200
+  orig: 301, 200
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 305, 32
+  size: 248, 222
+  orig: 248, 222
+  offset: 0, 0
+  index: -1
+shuidi1
+  rotate: false
+  xy: 830, 113
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 681, 100
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+xiangjiao
+  rotate: false
+  xy: 555, 57
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: -1
+yanj
+  rotate: true
+  xy: 555, 2
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: false
+  xy: 830, 143
+  size: 110, 111
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
+yixiu
+  rotate: false
+  xy: 942, 178
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1

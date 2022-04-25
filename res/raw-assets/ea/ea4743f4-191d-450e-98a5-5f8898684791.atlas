@@ -1,0 +1,27 @@
+
+caishen1.png
+size: 148,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+06
+  rotate: false
+  xy: 130, 62
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 130, 82
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+ren
+  rotate: false
+  xy: 2, 2
+  size: 126, 101
+  orig: 126, 101
+  offset: 0, 0
+  index: -1

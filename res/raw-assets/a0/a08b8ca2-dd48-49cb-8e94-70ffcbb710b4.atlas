@@ -1,0 +1,90 @@
+
+pipei.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bu
+  rotate: false
+  xy: 2, 116
+  size: 328, 284
+  orig: 328, 284
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 48, 68
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+dian1
+  rotate: true
+  xy: 1012, 385
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+niao
+  rotate: false
+  xy: 2, 36
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+pei
+  rotate: false
+  xy: 627, 319
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+pi
+  rotate: false
+  xy: 2, 2
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+xia
+  rotate: false
+  xy: 627, 384
+  size: 383, 16
+  orig: 383, 16
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 2, 77
+  size: 166, 37
+  orig: 166, 37
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 332, 108
+  size: 293, 292
+  orig: 293, 292
+  offset: 0, 0
+  index: -1
+zai
+  rotate: false
+  xy: 170, 79
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+zheng
+  rotate: false
+  xy: 758, 353
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 627, 353
+  size: 129, 29
+  orig: 129, 29
+  offset: 0, 0
+  index: -1

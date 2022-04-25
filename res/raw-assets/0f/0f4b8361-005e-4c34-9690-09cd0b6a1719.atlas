@@ -1,0 +1,139 @@
+
+peng.png
+size: 2172,1740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+peng_1
+  rotate: false
+  xy: 2, 1304
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_10
+  rotate: false
+  xy: 1304, 1304
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_11
+  rotate: false
+  xy: 1738, 1304
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_12
+  rotate: false
+  xy: 436, 2
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_13
+  rotate: false
+  xy: 870, 436
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_14
+  rotate: false
+  xy: 1304, 870
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_15
+  rotate: false
+  xy: 1738, 870
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_16
+  rotate: false
+  xy: 870, 2
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_17
+  rotate: false
+  xy: 1304, 436
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_18
+  rotate: false
+  xy: 1738, 436
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_19
+  rotate: false
+  xy: 1304, 2
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_2
+  rotate: false
+  xy: 2, 870
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_3
+  rotate: false
+  xy: 436, 1304
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_4
+  rotate: false
+  xy: 2, 436
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_5
+  rotate: false
+  xy: 436, 870
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_6
+  rotate: false
+  xy: 870, 1304
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_7
+  rotate: false
+  xy: 2, 2
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_8
+  rotate: false
+  xy: 436, 436
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+peng_9
+  rotate: false
+  xy: 870, 870
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1

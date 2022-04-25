@@ -1,0 +1,181 @@
+
+meirenyu3.png
+size: 1528,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1464, 139
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1495, 29
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1485, 139
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1495, 15
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1495, 96
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 1495, 119
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1506, 141
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 1495, 52
+  size: 42, 13
+  orig: 42, 13
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: true
+  xy: 553, 128
+  size: 384, 456
+  orig: 384, 456
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: true
+  xy: 1011, 6
+  size: 132, 158
+  orig: 132, 158
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: false
+  xy: 1338, 276
+  size: 170, 236
+  orig: 170, 236
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: true
+  xy: 553, 17
+  size: 109, 146
+  orig: 109, 146
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: true
+  xy: 1328, 133
+  size: 141, 134
+  orig: 141, 134
+  offset: 0, 0
+  index: -1
+qunbai01
+  rotate: false
+  xy: 1011, 140
+  size: 238, 161
+  orig: 238, 161
+  offset: 0, 0
+  index: -1
+qunbai02
+  rotate: true
+  xy: 1325, 13
+  size: 118, 168
+  orig: 118, 168
+  offset: 0, 0
+  index: -1
+qunbai03
+  rotate: false
+  xy: 1251, 159
+  size: 75, 142
+  orig: 75, 142
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 1011, 303
+  size: 209, 325
+  orig: 209, 325
+  offset: 0, 0
+  index: -1
+toubu
+  rotate: false
+  xy: 1251, 71
+  size: 72, 86
+  orig: 72, 86
+  offset: 0, 0
+  index: -1
+youbi01
+  rotate: false
+  xy: 701, 31
+  size: 113, 95
+  orig: 113, 95
+  offset: 0, 0
+  index: -1
+youbi02
+  rotate: false
+  xy: 1171, 2
+  size: 151, 67
+  orig: 151, 67
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 912, 31
+  size: 39, 95
+  orig: 39, 95
+  offset: 0, 0
+  index: -1
+yuwei
+  rotate: true
+  xy: 2, 7
+  size: 505, 549
+  orig: 505, 549
+  offset: 0, 0
+  index: -1
+zuobi01
+  rotate: false
+  xy: 816, 33
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+zuobi02
+  rotate: true
+  xy: 1464, 158
+  size: 116, 60
+  orig: 116, 60
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1171, 77
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1

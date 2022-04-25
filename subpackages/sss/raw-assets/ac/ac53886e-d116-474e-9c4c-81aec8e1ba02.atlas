@@ -1,0 +1,48 @@
+
+wulong.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 2
+  size: 247, 58
+  orig: 247, 58
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 453, 19
+  size: 67, 41
+  orig: 67, 41
+  offset: 0, 0
+  index: -1
+wenzi1
+  rotate: false
+  xy: 600, 27
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+yy1
+  rotate: false
+  xy: 355, 16
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+zy1
+  rotate: false
+  xy: 251, 14
+  size: 102, 46
+  orig: 102, 46
+  offset: 0, 0
+  index: -1
+zy2
+  rotate: false
+  xy: 522, 30
+  size: 76, 30
+  orig: 76, 30
+  offset: 0, 0
+  index: -1

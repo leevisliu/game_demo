@@ -1,0 +1,223 @@
+
+xiongmao.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiqiushang0
+  rotate: false
+  xy: 751, 143
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+qiqiushang1
+  rotate: true
+  xy: 598, 2
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+qiqiushang10
+  rotate: false
+  xy: 915, 109
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+qiqiushang11
+  rotate: true
+  xy: 604, 169
+  size: 85, 177
+  orig: 85, 177
+  offset: 0, 0
+  index: -1
+qiqiushang12
+  rotate: false
+  xy: 551, 57
+  size: 69, 96
+  orig: 69, 96
+  offset: 0, 0
+  index: -1
+qiqiushang13
+  rotate: false
+  xy: 696, 136
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+qiqiushang14
+  rotate: true
+  xy: 429, 3
+  size: 59, 111
+  orig: 59, 111
+  offset: 0, 0
+  index: -1
+qiqiushang17
+  rotate: true
+  xy: 783, 112
+  size: 79, 130
+  orig: 79, 130
+  offset: 0, 0
+  index: -1
+qiqiushang18
+  rotate: false
+  xy: 351, 3
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+qiqiushang19
+  rotate: false
+  xy: 622, 59
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+qiqiushang2
+  rotate: false
+  xy: 622, 130
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+qiqiushang20
+  rotate: false
+  xy: 991, 134
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+qiqiushang21
+  rotate: false
+  xy: 915, 134
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+qiqiushang22
+  rotate: false
+  xy: 940, 109
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+qiqiushang23
+  rotate: false
+  xy: 2, 3
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+qiqiushang24
+  rotate: true
+  xy: 952, 199
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+qiqiushang25
+  rotate: false
+  xy: 271, 108
+  size: 156, 146
+  orig: 156, 146
+  offset: 0, 0
+  index: -1
+qiqiushang28
+  rotate: false
+  xy: 429, 155
+  size: 173, 99
+  orig: 173, 99
+  offset: 0, 0
+  index: -1
+qiqiushang29
+  rotate: true
+  xy: 2, 20
+  size: 234, 267
+  orig: 234, 267
+  offset: 0, 0
+  index: -1
+qiqiushang3
+  rotate: false
+  xy: 622, 90
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+qiqiushang30
+  rotate: false
+  xy: 271, 2
+  size: 78, 104
+  orig: 78, 104
+  offset: 0, 0
+  index: -1
+qiqiushang31
+  rotate: false
+  xy: 542, 3
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+qiqiushang32
+  rotate: false
+  xy: 965, 155
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+qiqiushang33
+  rotate: false
+  xy: 725, 140
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+qiqiushang4
+  rotate: false
+  xy: 429, 64
+  size: 120, 89
+  orig: 120, 89
+  offset: 0, 0
+  index: -1
+qiqiushang5
+  rotate: false
+  xy: 666, 130
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+qiqiushang6
+  rotate: true
+  xy: 598, 29
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+qiqiushang7
+  rotate: false
+  xy: 696, 103
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+qiqiushang8
+  rotate: true
+  xy: 783, 193
+  size: 61, 167
+  orig: 61, 167
+  offset: 0, 0
+  index: -1
+qiqiushang9
+  rotate: false
+  xy: 661, 103
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: true
+  xy: 965, 135
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1

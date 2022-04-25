@@ -1,0 +1,97 @@
+
+langren1.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1146, 893
+  size: 584, 129
+  orig: 584, 129
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 1175, 352
+  size: 242, 242
+  orig: 242, 242
+  offset: 0, 0
+  index: -1
+tu
+  rotate: false
+  xy: 2, 517
+  size: 618, 505
+  orig: 618, 505
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 1732, 965
+  size: 232, 57
+  orig: 232, 57
+  offset: 0, 0
+  index: -1
+y1
+  rotate: true
+  xy: 959, 305
+  size: 283, 214
+  orig: 283, 214
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 622, 590
+  size: 522, 432
+  orig: 522, 432
+  offset: 0, 0
+  index: -1
+y3
+  rotate: true
+  xy: 436, 186
+  size: 329, 233
+  orig: 329, 233
+  offset: 0, 0
+  index: -1
+y4
+  rotate: false
+  xy: 1146, 596
+  size: 334, 295
+  orig: 334, 295
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 436, 42
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+z1
+  rotate: true
+  xy: 1419, 318
+  size: 233, 243
+  orig: 233, 243
+  offset: 0, 0
+  index: -1
+z2
+  rotate: true
+  xy: 2, 2
+  size: 513, 432
+  orig: 513, 432
+  offset: 0, 0
+  index: -1
+z3
+  rotate: false
+  xy: 671, 312
+  size: 286, 276
+  orig: 286, 276
+  offset: 0, 0
+  index: -1
+z4
+  rotate: true
+  xy: 1482, 553
+  size: 338, 264
+  orig: 338, 264
+  offset: 0, 0
+  index: -1

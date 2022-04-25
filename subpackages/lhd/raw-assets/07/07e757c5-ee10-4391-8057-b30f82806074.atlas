@@ -1,0 +1,265 @@
+
+vs.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+123
+  rotate: false
+  xy: 472, 298
+  size: 338, 212
+  orig: 338, 212
+  offset: 0, 0
+  index: -1
+huguang
+  rotate: false
+  xy: 1607, 297
+  size: 154, 125
+  orig: 154, 125
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 828, 223
+  size: 41, 72
+  orig: 41, 72
+  offset: 0, 0
+  index: -1
+long
+  rotate: true
+  xy: 812, 297
+  size: 213, 242
+  orig: 213, 242
+  offset: 0, 0
+  index: -1
+longhudazhan4_baodian_1
+  rotate: false
+  xy: 1056, 310
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+longhudazhan4_hu
+  rotate: false
+  xy: 1829, 405
+  size: 184, 105
+  orig: 184, 105
+  offset: 0, 0
+  index: -1
+longhudazhan4_hubi
+  rotate: false
+  xy: 438, 2
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+longhudazhan4_huoxing
+  rotate: true
+  xy: 1056, 276
+  size: 32, 128
+  orig: 32, 128
+  offset: 0, 0
+  index: -1
+longhudazhan4_hushen
+  rotate: false
+  xy: 2, 86
+  size: 306, 202
+  orig: 306, 202
+  offset: 0, 0
+  index: -1
+longhudazhan4_hutou
+  rotate: true
+  xy: 310, 2
+  size: 100, 126
+  orig: 100, 126
+  offset: 0, 0
+  index: -1
+longhudazhan4_huwei
+  rotate: false
+  xy: 1822, 282
+  size: 131, 121
+  orig: 131, 121
+  offset: 0, 0
+  index: -1
+longhudazhan4_huyan
+  rotate: true
+  xy: 1541, 178
+  size: 107, 41
+  orig: 107, 41
+  offset: 0, 0
+  index: -1
+longhudazhan4_huzhua
+  rotate: false
+  xy: 1258, 235
+  size: 151, 93
+  orig: 151, 93
+  offset: 0, 0
+  index: -1
+longhudazhan4_s
+  rotate: false
+  xy: 1433, 345
+  size: 172, 165
+  orig: 172, 165
+  offset: 0, 0
+  index: -1
+longhudazhan4_shandian_01
+  rotate: false
+  xy: 1584, 175
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+longhudazhan4_shandian_02
+  rotate: false
+  xy: 1706, 160
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+longhudazhan4_shandian_03
+  rotate: false
+  xy: 1828, 160
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+longhudazhan4_shandian_04
+  rotate: false
+  xy: 462, 168
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+longhudazhan4_shandian_05
+  rotate: false
+  xy: 584, 176
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+longhudazhan4_shandian_06
+  rotate: false
+  xy: 706, 175
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+longhudazhan4_v
+  rotate: false
+  xy: 310, 104
+  size: 150, 184
+  orig: 150, 184
+  offset: 0, 0
+  index: -1
+longhudazhan4_vsdi1
+  rotate: false
+  xy: 2, 401
+  size: 468, 109
+  orig: 468, 109
+  offset: 0, 0
+  index: -1
+longhudazhan4_vsdi2
+  rotate: false
+  xy: 2, 290
+  size: 468, 109
+  orig: 468, 109
+  offset: 0, 0
+  index: -1
+longhudazhan4_xiangyun1
+  rotate: false
+  xy: 1433, 287
+  size: 149, 56
+  orig: 149, 56
+  offset: 0, 0
+  index: -1
+longhudazhan4_xiangyun2
+  rotate: false
+  xy: 1607, 424
+  size: 220, 86
+  orig: 220, 86
+  offset: 0, 0
+  index: -1
+longhudazhan4_yanjing1
+  rotate: false
+  xy: 179, 7
+  size: 103, 77
+  orig: 103, 77
+  offset: 0, 0
+  index: -1
+longhudazhan4_yanjing2
+  rotate: false
+  xy: 1186, 278
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+longhudazhan4_yun1
+  rotate: true
+  xy: 2002, 168
+  size: 82, 34
+  orig: 82, 34
+  offset: 0, 0
+  index: -1
+longhudazhan4_yun2
+  rotate: true
+  xy: 1955, 252
+  size: 151, 89
+  orig: 151, 89
+  offset: 0, 0
+  index: -1
+longhudazhan4_yun3
+  rotate: true
+  xy: 1763, 282
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+lpngtou
+  rotate: true
+  xy: 1411, 197
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: false
+  xy: 1258, 330
+  size: 173, 180
+  orig: 173, 180
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: true
+  xy: 2015, 461
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+shoubi1
+  rotate: true
+  xy: 462, 104
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 2, 4
+  size: 80, 175
+  orig: 80, 175
+  offset: 0, 0
+  index: -1
+xu1
+  rotate: false
+  xy: 871, 231
+  size: 37, 64
+  orig: 37, 64
+  offset: 0, 0
+  index: -1
+xu2
+  rotate: true
+  xy: 1950, 135
+  size: 115, 50
+  orig: 115, 50
+  offset: 0, 0
+  index: -1

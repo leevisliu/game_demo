@@ -1,0 +1,76 @@
+
+benchi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+911
+  rotate: false
+  xy: 189, 10
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1
+912
+  rotate: false
+  xy: 314, 62
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+913
+  rotate: false
+  xy: 189, 48
+  size: 123, 42
+  orig: 123, 42
+  offset: 0, 0
+  index: -1
+914
+  rotate: true
+  xy: 2, 2
+  size: 88, 68
+  orig: 88, 68
+  offset: 0, 0
+  index: -1
+915
+  rotate: false
+  xy: 416, 119
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+916
+  rotate: true
+  xy: 432, 169
+  size: 85, 59
+  orig: 85, 59
+  offset: 0, 0
+  index: -1
+917
+  rotate: false
+  xy: 72, 25
+  size: 115, 65
+  orig: 115, 65
+  offset: 0, 0
+  index: -1
+918
+  rotate: false
+  xy: 310, 188
+  size: 120, 66
+  orig: 120, 66
+  offset: 0, 0
+  index: -1
+919
+  rotate: false
+  xy: 310, 114
+  size: 104, 72
+  orig: 104, 72
+  offset: 0, 0
+  index: -1
+che
+  rotate: false
+  xy: 2, 92
+  size: 306, 162
+  orig: 306, 162
+  offset: 0, 0
+  index: -1

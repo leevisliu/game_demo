@@ -1,0 +1,76 @@
+
+35.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish_1108_01
+  rotate: false
+  xy: 2, 31
+  size: 101, 72
+  orig: 101, 72
+  offset: 0, 0
+  index: -1
+fish_1108_02
+  rotate: false
+  xy: 105, 31
+  size: 101, 72
+  orig: 101, 72
+  offset: 0, 0
+  index: -1
+fish_1108_03
+  rotate: false
+  xy: 208, 31
+  size: 101, 72
+  orig: 101, 72
+  offset: 0, 0
+  index: -1
+fish_1108_04
+  rotate: false
+  xy: 311, 31
+  size: 101, 72
+  orig: 101, 72
+  offset: 0, 0
+  index: -1
+fish_1108_05
+  rotate: false
+  xy: 414, 31
+  size: 101, 72
+  orig: 101, 72
+  offset: 0, 0
+  index: -1
+fish_1108_06
+  rotate: false
+  xy: 517, 31
+  size: 101, 72
+  orig: 101, 72
+  offset: 0, 0
+  index: -1
+fish_1108_07
+  rotate: false
+  xy: 620, 31
+  size: 101, 72
+  orig: 101, 72
+  offset: 0, 0
+  index: -1
+fish_1108_08
+  rotate: false
+  xy: 723, 31
+  size: 101, 72
+  orig: 101, 72
+  offset: 0, 0
+  index: -1
+fish_1108_09
+  rotate: false
+  xy: 826, 31
+  size: 101, 72
+  orig: 101, 72
+  offset: 0, 0
+  index: -1
+fish_1108_10
+  rotate: true
+  xy: 929, 2
+  size: 101, 72
+  orig: 101, 72
+  offset: 0, 0
+  index: -1

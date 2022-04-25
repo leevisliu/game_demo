@@ -1,0 +1,153 @@
+
+anniu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 461, 58
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 2, 4
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 70, 4
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 171, 169
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 239, 170
+  size: 84, 66
+  orig: 84, 66
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 274, 86
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 267, 4
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 342, 104
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 403, 38
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 204, 6
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 138, 3
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 443, 121
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 443, 185
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 375, 183
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 307, 178
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 335, 2
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 206, 82
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 138, 57
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 76, 102
+  size: 152, 60
+  orig: 152, 60
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 2, 92
+  size: 162, 72
+  orig: 162, 72
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: true
+  xy: 138, 145
+  size: 109, 31
+  orig: 109, 31
+  offset: 0, 0
+  index: -1

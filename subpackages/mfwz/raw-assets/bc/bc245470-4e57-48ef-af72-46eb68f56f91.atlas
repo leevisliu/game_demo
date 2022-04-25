@@ -1,0 +1,111 @@
+
+equan.png
+size: 528,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houdatui01
+  rotate: false
+  xy: 232, 24
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+houdatui02
+  rotate: true
+  xy: 461, 18
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+houxiaotui01
+  rotate: false
+  xy: 430, 119
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+houxiaotui02
+  rotate: true
+  xy: 396, 8
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+houzhua02
+  rotate: false
+  xy: 281, 8
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+qiandatui01
+  rotate: true
+  xy: 228, 110
+  size: 86, 108
+  orig: 86, 108
+  offset: 0, 0
+  index: -1
+qiandatui02
+  rotate: true
+  xy: 339, 2
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+qianxiaotui01
+  rotate: false
+  xy: 339, 49
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+qianxiaotui02
+  rotate: true
+  xy: 405, 39
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1
+qianzhua01
+  rotate: true
+  xy: 281, 38
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+qianzhua02
+  rotate: false
+  xy: 461, 77
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 90
+  size: 224, 106
+  orig: 224, 106
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 338, 111
+  size: 85, 90
+  orig: 85, 90
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 173, 7
+  size: 81, 57
+  orig: 81, 57
+  offset: 0, 0
+  index: -1
+zongmao02
+  rotate: false
+  xy: 2, 5
+  size: 169, 83
+  orig: 169, 83
+  offset: 0, 0
+  index: -1

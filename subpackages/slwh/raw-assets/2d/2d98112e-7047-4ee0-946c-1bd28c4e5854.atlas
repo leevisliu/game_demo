@@ -1,0 +1,76 @@
+
+xiongmao.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 108, 81
+  size: 85, 45
+  orig: 85, 45
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 33
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+yanzhuyi1
+  rotate: false
+  xy: 142, 59
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+yanzhuyi2
+  rotate: false
+  xy: 227, 107
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+youer
+  rotate: false
+  xy: 195, 101
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 108, 41
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 64, 12
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+zuoer
+  rotate: false
+  xy: 2, 2
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 32, 12
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: true
+  xy: 195, 83
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1

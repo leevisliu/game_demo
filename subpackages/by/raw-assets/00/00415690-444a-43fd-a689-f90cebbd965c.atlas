@@ -1,0 +1,69 @@
+
+34.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+17qiyu_00000
+  rotate: false
+  xy: 2, 2
+  size: 248, 66
+  orig: 248, 66
+  offset: 0, 0
+  index: -1
+17qiyu_00001
+  rotate: false
+  xy: 252, 151
+  size: 248, 66
+  orig: 248, 66
+  offset: 0, 0
+  index: -1
+17qiyu_00002
+  rotate: false
+  xy: 252, 83
+  size: 248, 66
+  orig: 248, 66
+  offset: 0, 0
+  index: -1
+17qiyu_00003
+  rotate: false
+  xy: 502, 151
+  size: 248, 66
+  orig: 248, 66
+  offset: 0, 0
+  index: -1
+17qiyu_00004
+  rotate: false
+  xy: 252, 15
+  size: 248, 66
+  orig: 248, 66
+  offset: 0, 0
+  index: -1
+17qiyu_00005
+  rotate: false
+  xy: 502, 83
+  size: 248, 66
+  orig: 248, 66
+  offset: 0, 0
+  index: -1
+17qiyu_00006
+  rotate: false
+  xy: 752, 151
+  size: 248, 66
+  orig: 248, 66
+  offset: 0, 0
+  index: -1
+17qiyu_00007
+  rotate: false
+  xy: 502, 15
+  size: 248, 66
+  orig: 248, 66
+  offset: 0, 0
+  index: -1
+17qiyu_00010
+  rotate: false
+  xy: 2, 70
+  size: 248, 147
+  orig: 248, 147
+  offset: 0, 0
+  index: -1

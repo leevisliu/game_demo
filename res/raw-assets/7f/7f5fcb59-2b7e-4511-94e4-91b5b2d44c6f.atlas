@@ -1,0 +1,13 @@
+
+vip.png
+size: 64,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_grzy_vip
+  rotate: false
+  xy: 2, 2
+  size: 44, 152
+  orig: 44, 152
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+jinsha.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 39
+  size: 222, 443
+  orig: 222, 443
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 226, 42
+  size: 203, 87
+  orig: 203, 87
+  offset: 0, 0
+  index: -1
+sg-0
+  rotate: false
+  xy: 176, 3
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+sg-1
+  rotate: false
+  xy: 707, 448
+  size: 57, 34
+  orig: 57, 34
+  offset: 0, 0
+  index: -1
+sg-2
+  rotate: false
+  xy: 93, 3
+  size: 81, 34
+  orig: 81, 34
+  offset: 0, 0
+  index: -1
+sg-3
+  rotate: false
+  xy: 622, 447
+  size: 83, 35
+  orig: 83, 35
+  offset: 0, 0
+  index: -1
+sg-4
+  rotate: false
+  xy: 431, 94
+  size: 88, 35
+  orig: 88, 35
+  offset: 0, 0
+  index: -1
+sg-5
+  rotate: false
+  xy: 2, 2
+  size: 89, 35
+  orig: 89, 35
+  offset: 0, 0
+  index: -1
+sg-6
+  rotate: false
+  xy: 523, 379
+  size: 84, 37
+  orig: 84, 37
+  offset: 0, 0
+  index: -1
+sg-7
+  rotate: false
+  xy: 431, 55
+  size: 79, 37
+  orig: 79, 37
+  offset: 0, 0
+  index: -1
+sg-8
+  rotate: false
+  xy: 523, 340
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+sg-9
+  rotate: false
+  xy: 523, 248
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 523, 287
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 523, 418
+  size: 97, 64
+  orig: 97, 64
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 226, 131
+  size: 295, 351
+  orig: 295, 351
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+cai-1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+445
+  rotate: false
+  xy: 2, 75
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+award_star
+  rotate: false
+  xy: 260, 288
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 333
+  size: 615, 585
+  orig: 615, 585
+  offset: 0, 0
+  index: -1
+jinbi1
+  rotate: false
+  xy: 619, 842
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: false
+  xy: 2, 2
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+jinbi3
+  rotate: false
+  xy: 619, 866
+  size: 101, 52
+  orig: 101, 52
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 722, 899
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1

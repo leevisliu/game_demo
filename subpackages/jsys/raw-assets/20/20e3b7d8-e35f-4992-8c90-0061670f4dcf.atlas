@@ -1,0 +1,125 @@
+
+yinsha.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 500
+  size: 540, 522
+  orig: 540, 522
+  offset: 0, 0
+  index: -1
+diguang
+  rotate: false
+  xy: 795, 702
+  size: 79, 84
+  orig: 79, 84
+  offset: 0, 0
+  index: -1
+dizuo
+  rotate: true
+  xy: 427, 75
+  size: 423, 118
+  orig: 423, 118
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 99
+  size: 423, 399
+  orig: 423, 399
+  offset: 0, 0
+  index: -1
+liang
+  rotate: false
+  xy: 544, 512
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 79, 2
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+pai
+  rotate: false
+  xy: 544, 606
+  size: 196, 84
+  orig: 196, 84
+  offset: 0, 0
+  index: -1
+paiguang
+  rotate: false
+  xy: 795, 913
+  size: 223, 109
+  orig: 223, 109
+  offset: 0, 0
+  index: -1
+shang
+  rotate: false
+  xy: 544, 539
+  size: 118, 65
+  orig: 118, 65
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 544, 692
+  size: 249, 330
+  orig: 249, 330
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 2, 10
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: true
+  xy: 246, 64
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: false
+  xy: 742, 639
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 51
+  size: 242, 46
+  orig: 242, 46
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 889, 859
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 664, 579
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 795, 788
+  size: 92, 123
+  orig: 92, 123
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+zhakai.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zd_00
+  rotate: false
+  xy: 786, 1471
+  size: 78, 103
+  orig: 78, 103
+  offset: 0, 0
+  index: -1
+zd_01
+  rotate: true
+  xy: 786, 1371
+  size: 98, 73
+  orig: 98, 73
+  offset: 0, 0
+  index: -1
+zd_02
+  rotate: false
+  xy: 1949, 1844
+  size: 86, 141
+  orig: 86, 141
+  offset: 0, 0
+  index: -1
+zd_03
+  rotate: true
+  xy: 443, 1121
+  size: 122, 171
+  orig: 122, 171
+  offset: 0, 0
+  index: -1
+zd_04
+  rotate: true
+  xy: 616, 1117
+  size: 126, 157
+  orig: 126, 157
+  offset: 0, 0
+  index: -1
+zd_05
+  rotate: false
+  xy: 694, 990
+  size: 114, 125
+  orig: 114, 125
+  offset: 0, 0
+  index: -1
+zd_06
+  rotate: false
+  xy: 1949, 1731
+  size: 94, 111
+  orig: 94, 111
+  offset: 0, 0
+  index: -1
+zd_07
+  rotate: false
+  xy: 694, 885
+  size: 68, 103
+  orig: 68, 103
+  offset: 0, 0
+  index: -1
+zd_08
+  rotate: true
+  xy: 1949, 1665
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+zd_09
+  rotate: true
+  xy: 1211, 1194
+  size: 161, 183
+  orig: 161, 183
+  offset: 0, 0
+  index: -1
+zd_10
+  rotate: false
+  xy: 455, 1245
+  size: 329, 329
+  orig: 329, 329
+  offset: 0, 0
+  index: -1
+zd_11
+  rotate: true
+  xy: 866, 1285
+  size: 341, 343
+  orig: 341, 343
+  offset: 0, 0
+  index: -1
+zd_12
+  rotate: false
+  xy: 455, 1576
+  size: 409, 409
+  orig: 409, 409
+  offset: 0, 0
+  index: -1
+zd_13
+  rotate: false
+  xy: 2, 1534
+  size: 451, 451
+  orig: 451, 451
+  offset: 0, 0
+  index: -1
+zd_14
+  rotate: false
+  xy: 2, 1093
+  size: 439, 439
+  orig: 439, 439
+  offset: 0, 0
+  index: -1
+zd_15
+  rotate: false
+  xy: 866, 1628
+  size: 351, 357
+  orig: 351, 357
+  offset: 0, 0
+  index: -1
+zd_16
+  rotate: false
+  xy: 2, 732
+  size: 359, 359
+  orig: 359, 359
+  offset: 0, 0
+  index: -1
+zd_17
+  rotate: false
+  xy: 1584, 1648
+  size: 363, 337
+  orig: 363, 337
+  offset: 0, 0
+  index: -1
+zd_18
+  rotate: true
+  xy: 2, 2
+  size: 365, 339
+  orig: 365, 339
+  offset: 0, 0
+  index: -1
+zd_19
+  rotate: false
+  xy: 1219, 1642
+  size: 363, 343
+  orig: 363, 343
+  offset: 0, 0
+  index: -1
+zd_20
+  rotate: true
+  xy: 2, 369
+  size: 361, 347
+  orig: 361, 347
+  offset: 0, 0
+  index: -1
+zd_21
+  rotate: false
+  xy: 363, 744
+  size: 329, 347
+  orig: 329, 347
+  offset: 0, 0
+  index: -1
+zd_22
+  rotate: true
+  xy: 1219, 1357
+  size: 283, 325
+  orig: 283, 325
+  offset: 0, 0
+  index: -1
+zd_23
+  rotate: true
+  xy: 1396, 1204
+  size: 151, 127
+  orig: 151, 127
+  offset: 0, 0
+  index: -1

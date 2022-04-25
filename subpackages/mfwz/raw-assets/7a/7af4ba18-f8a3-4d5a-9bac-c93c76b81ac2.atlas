@@ -1,0 +1,69 @@
+
+baozhaf3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 281, 93
+  size: 258, 268
+  orig: 258, 268
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 596, 422
+  size: 257, 285
+  orig: 257, 285
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 316
+  size: 277, 319
+  orig: 277, 319
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 596, 681
+  size: 275, 303
+  orig: 275, 303
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 306, 655
+  size: 288, 301
+  orig: 288, 301
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 2, 2
+  size: 274, 312
+  orig: 274, 312
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 2, 637
+  size: 302, 319
+  orig: 302, 319
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 281, 353
+  size: 261, 282
+  orig: 261, 282
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 551, 159
+  size: 273, 261
+  orig: 273, 261
+  offset: 0, 0
+  index: -1

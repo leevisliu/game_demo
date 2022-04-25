@@ -1,0 +1,20 @@
+
+hongbaoyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongbao
+  rotate: false
+  xy: 0, 0
+  size: 176, 192
+  orig: 176, 192
+  offset: 0, 0
+  index: -1
+yuanbao
+  rotate: false
+  xy: 176, 119
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1

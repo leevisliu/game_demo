@@ -1,0 +1,13 @@
+
+zhongguojie.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhongguojie
+  rotate: false
+  xy: 2, 2
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1

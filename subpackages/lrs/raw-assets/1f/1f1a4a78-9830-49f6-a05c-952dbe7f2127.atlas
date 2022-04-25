@@ -1,0 +1,55 @@
+
+nvwudusha1.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 517, 358
+  size: 584, 129
+  orig: 584, 129
+  offset: 0, 0
+  index: -1
+dianzhui
+  rotate: false
+  xy: 517, 282
+  size: 356, 74
+  orig: 356, 74
+  offset: 0, 0
+  index: -1
+duye
+  rotate: false
+  xy: 2, 29
+  size: 513, 458
+  orig: 513, 458
+  offset: 0, 0
+  index: -1
+kuluo
+  rotate: false
+  xy: 517, 98
+  size: 181, 182
+  orig: 181, 182
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 1103, 430
+  size: 232, 57
+  orig: 232, 57
+  offset: 0, 0
+  index: -1
+yaodi
+  rotate: true
+  xy: 2, 2
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+yaoping
+  rotate: false
+  xy: 700, 158
+  size: 114, 122
+  orig: 114, 122
+  offset: 0, 0
+  index: -1

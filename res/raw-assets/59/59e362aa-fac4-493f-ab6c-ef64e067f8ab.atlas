@@ -1,0 +1,34 @@
+
+shenhe.png
+size: 360,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jlb_tab_dl
+  rotate: true
+  xy: 2, 2
+  size: 66, 126
+  orig: 66, 126
+  offset: 0, 0
+  index: -1
+jlb_tab_dl_select
+  rotate: true
+  xy: 130, 2
+  size: 66, 126
+  orig: 66, 126
+  offset: 0, 0
+  index: -1
+jlb_tab_icon_sh
+  rotate: false
+  xy: 258, 8
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+jlb_tab_icon_sh_select
+  rotate: false
+  xy: 308, 8
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1

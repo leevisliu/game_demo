@@ -1,0 +1,132 @@
+
+meirenyu1.png
+size: 1112,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 830, 15
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+qiqiushang0
+  rotate: false
+  xy: 967, 11
+  size: 40, 16
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+qiqiushang1
+  rotate: true
+  xy: 1047, 21
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+qiqiushang10
+  rotate: false
+  xy: 959, 111
+  size: 73, 131
+  orig: 73, 131
+  offset: 0, 0
+  index: -1
+qiqiushang11
+  rotate: false
+  xy: 1053, 46
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+qiqiushang12
+  rotate: true
+  xy: 328, 16
+  size: 226, 328
+  orig: 226, 328
+  offset: 0, 0
+  index: -1
+qiqiushang13
+  rotate: false
+  xy: 967, 68
+  size: 84, 41
+  orig: 84, 41
+  offset: 0, 0
+  index: -1
+qiqiushang14
+  rotate: true
+  xy: 2, 11
+  size: 231, 324
+  orig: 231, 324
+  offset: 0, 0
+  index: -1
+qiqiushang15
+  rotate: false
+  xy: 1034, 111
+  size: 73, 131
+  orig: 73, 131
+  offset: 0, 0
+  index: -1
+qiqiushang16
+  rotate: false
+  xy: 658, 59
+  size: 105, 183
+  orig: 105, 183
+  offset: 0, 0
+  index: -1
+qiqiushang2
+  rotate: true
+  xy: 765, 2
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+qiqiushang3
+  rotate: false
+  xy: 658, 7
+  size: 99, 50
+  orig: 99, 50
+  offset: 0, 0
+  index: -1
+qiqiushang4
+  rotate: false
+  xy: 1009, 18
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+qiqiushang5
+  rotate: true
+  xy: 869, 21
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+qiqiushang6
+  rotate: true
+  xy: 967, 29
+  size: 37, 78
+  orig: 37, 78
+  offset: 0, 0
+  index: -1
+qiqiushang7
+  rotate: false
+  xy: 869, 109
+  size: 88, 133
+  orig: 88, 133
+  offset: 0, 0
+  index: -1
+qiqiushang8
+  rotate: false
+  xy: 765, 73
+  size: 102, 169
+  orig: 102, 169
+  offset: 0, 0
+  index: -1
+qiqiushang9
+  rotate: true
+  xy: 830, 28
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1

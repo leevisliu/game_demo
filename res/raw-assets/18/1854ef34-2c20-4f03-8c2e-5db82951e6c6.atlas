@@ -1,0 +1,76 @@
+
+putongniu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 197
+  size: 235, 56
+  orig: 235, 56
+  offset: 0, 0
+  index: -1
+hulu
+  rotate: false
+  xy: 131, 20
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+hulu1
+  rotate: false
+  xy: 204, 149
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+niu1
+  rotate: false
+  xy: 2, 158
+  size: 127, 37
+  orig: 127, 37
+  offset: 0, 0
+  index: -1
+niu2
+  rotate: false
+  xy: 2, 119
+  size: 127, 37
+  orig: 127, 37
+  offset: 0, 0
+  index: -1
+niu3
+  rotate: false
+  xy: 2, 80
+  size: 127, 37
+  orig: 127, 37
+  offset: 0, 0
+  index: -1
+niu4
+  rotate: false
+  xy: 2, 41
+  size: 127, 37
+  orig: 127, 37
+  offset: 0, 0
+  index: -1
+niu5
+  rotate: true
+  xy: 131, 68
+  size: 127, 37
+  orig: 127, 37
+  offset: 0, 0
+  index: -1
+niu6
+  rotate: false
+  xy: 2, 2
+  size: 127, 37
+  orig: 127, 37
+  offset: 0, 0
+  index: -1
+yun
+  rotate: true
+  xy: 170, 116
+  size: 79, 32
+  orig: 79, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+wuxiaoniu.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 924, 2
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 924, 55
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 826, 29
+  size: 96, 91
+  orig: 96, 91
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 309, 33
+  size: 131, 87
+  orig: 131, 87
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 172, 36
+  size: 135, 84
+  orig: 135, 84
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 442, 46
+  size: 137, 74
+  orig: 137, 74
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 581, 51
+  size: 137, 69
+  orig: 137, 69
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 720, 52
+  size: 104, 68
+  orig: 104, 68
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 15
+  size: 168, 105
+  orig: 168, 105
+  offset: 0, 0
+  index: -1

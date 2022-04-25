@@ -1,0 +1,370 @@
+
+21dian.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/HKS_BuDai
+  rotate: false
+  xy: 260, 333
+  size: 163, 177
+  orig: 163, 177
+  offset: 0, 0
+  index: -1
+images/HKS_BuDai_Kai
+  rotate: false
+  xy: 2, 63
+  size: 163, 189
+  orig: 163, 189
+  offset: 0, 0
+  index: -1
+images/HKS_Cao_01
+  rotate: false
+  xy: 1310, 358
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+images/HKS_Cao_02
+  rotate: false
+  xy: 361, 2
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+images/HKS_Cao_03
+  rotate: true
+  xy: 334, 2
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+images/HKS_FeiCui_DiaoZhui_Jie
+  rotate: true
+  xy: 427, 27
+  size: 62, 92
+  orig: 62, 92
+  offset: 0, 0
+  index: -1
+images/HKS_FeiCui_Qiu
+  rotate: false
+  xy: 334, 22
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+images/HKS_Mu_HeZi
+  rotate: false
+  xy: 1852, 445
+  size: 194, 65
+  orig: 194, 65
+  offset: 0, 0
+  index: -1
+images/HKS_Mu_HeZi_002
+  rotate: false
+  xy: 425, 417
+  size: 200, 93
+  orig: 200, 93
+  offset: 0, 0
+  index: -1
+images/HKS_Mu_HeZi_03
+  rotate: false
+  xy: 1852, 378
+  size: 194, 65
+  orig: 194, 65
+  offset: 0, 0
+  index: -1
+images/HKS_ShengZi_Jie
+  rotate: false
+  xy: 1614, 340
+  size: 98, 78
+  orig: 98, 78
+  offset: 0, 0
+  index: -1
+images/HKS_ZhenZhu
+  rotate: false
+  xy: 254, 15
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: -1
+images/SoftFlash
+  rotate: false
+  xy: 2, 254
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/a
+  rotate: true
+  xy: 260, 200
+  size: 131, 148
+  orig: 131, 148
+  offset: 0, 0
+  index: -1
+images/baoguang
+  rotate: false
+  xy: 188, 13
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/di
+  rotate: false
+  xy: 1467, 376
+  size: 145, 42
+  orig: 145, 42
+  offset: 0, 0
+  index: -1
+images/dyf_0198
+  rotate: false
+  xy: 600, 314
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/gun
+  rotate: false
+  xy: 533, 92
+  size: 67, 99
+  orig: 67, 99
+  offset: 0, 0
+  index: -1
+images/gun1
+  rotate: true
+  xy: 600, 388
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+images/jinbi
+  rotate: false
+  xy: 1260, 330
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+images/k
+  rotate: true
+  xy: 259, 91
+  size: 107, 142
+  orig: 107, 142
+  offset: 0, 0
+  index: -1
+images/piao
+  rotate: true
+  xy: 2, 5
+  size: 56, 184
+  orig: 56, 184
+  offset: 0, 0
+  index: -1
+images/shengzi_animation000
+  rotate: true
+  xy: 167, 79
+  size: 173, 90
+  orig: 173, 90
+  offset: 0, 0
+  index: -1
+images/shengzi_animation001
+  rotate: false
+  xy: 627, 420
+  size: 173, 90
+  orig: 173, 90
+  offset: 0, 0
+  index: -1
+images/shengzi_animation002
+  rotate: false
+  xy: 802, 420
+  size: 173, 90
+  orig: 173, 90
+  offset: 0, 0
+  index: -1
+images/shengzi_animation003
+  rotate: false
+  xy: 977, 420
+  size: 173, 90
+  orig: 173, 90
+  offset: 0, 0
+  index: -1
+images/shengzi_animation004
+  rotate: false
+  xy: 1152, 420
+  size: 173, 90
+  orig: 173, 90
+  offset: 0, 0
+  index: -1
+images/shengzi_animation005
+  rotate: false
+  xy: 1327, 420
+  size: 173, 90
+  orig: 173, 90
+  offset: 0, 0
+  index: -1
+images/shengzi_animation006
+  rotate: false
+  xy: 1502, 420
+  size: 173, 90
+  orig: 173, 90
+  offset: 0, 0
+  index: -1
+images/shengzi_animation007
+  rotate: false
+  xy: 1677, 420
+  size: 173, 90
+  orig: 173, 90
+  offset: 0, 0
+  index: -1
+images/shengzi_animation008
+  rotate: false
+  xy: 425, 325
+  size: 173, 90
+  orig: 173, 90
+  offset: 0, 0
+  index: -1
+images/shengzi_animation009
+  rotate: false
+  xy: 410, 233
+  size: 173, 90
+  orig: 173, 90
+  offset: 0, 0
+  index: -1
+images/shengzi_animation010
+  rotate: false
+  xy: 410, 233
+  size: 173, 90
+  orig: 173, 90
+  offset: 0, 0
+  index: -1
+images/shengzi_kai000
+  rotate: false
+  xy: 410, 193
+  size: 166, 38
+  orig: 166, 38
+  offset: 0, 0
+  index: -1
+images/shengzi_kai001
+  rotate: false
+  xy: 259, 51
+  size: 166, 38
+  orig: 166, 38
+  offset: 0, 0
+  index: -1
+images/shengzi_kai002
+  rotate: false
+  xy: 627, 380
+  size: 166, 38
+  orig: 166, 38
+  offset: 0, 0
+  index: -1
+images/shengzi_kai003
+  rotate: false
+  xy: 795, 380
+  size: 166, 38
+  orig: 166, 38
+  offset: 0, 0
+  index: -1
+images/shengzi_kai004
+  rotate: false
+  xy: 963, 380
+  size: 166, 38
+  orig: 166, 38
+  offset: 0, 0
+  index: -1
+images/shengzi_kai005
+  rotate: false
+  xy: 1131, 380
+  size: 166, 38
+  orig: 166, 38
+  offset: 0, 0
+  index: -1
+images/shengzi_kai006
+  rotate: false
+  xy: 1299, 380
+  size: 166, 38
+  orig: 166, 38
+  offset: 0, 0
+  index: -1
+images/spark2
+  rotate: false
+  xy: 666, 314
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/timg_baoshi_19
+  rotate: false
+  xy: 1714, 337
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+images/tx_chuiza_wt_09
+  rotate: false
+  xy: 732, 314
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/yan__01
+  rotate: true
+  xy: 1797, 354
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+images/yan__02
+  rotate: false
+  xy: 798, 328
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+images/yan__03
+  rotate: false
+  xy: 864, 328
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+images/yan__04
+  rotate: false
+  xy: 930, 328
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+images/yan__05
+  rotate: false
+  xy: 996, 328
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+images/yan__06
+  rotate: false
+  xy: 1062, 328
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+images/yan__07
+  rotate: false
+  xy: 1128, 328
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+images/yan__08
+  rotate: false
+  xy: 1194, 328
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+images/yan__09
+  rotate: false
+  xy: 403, 91
+  size: 128, 100
+  orig: 128, 100
+  offset: 0, 0
+  index: -1

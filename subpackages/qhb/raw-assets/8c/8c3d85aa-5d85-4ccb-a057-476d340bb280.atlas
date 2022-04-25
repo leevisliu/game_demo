@@ -1,0 +1,34 @@
+
+qiang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 287, 196
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: false
+  xy: 2, 2
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 163, 120
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+yuan1
+  rotate: false
+  xy: 2, 84
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,398 @@
+
+huaban.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fspink_00000
+  rotate: false
+  xy: 2, 1506
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00002
+  rotate: false
+  xy: 2, 964
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00004
+  rotate: true
+  xy: 2, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00006
+  rotate: true
+  xy: 544, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00008
+  rotate: false
+  xy: 964, 1506
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00010
+  rotate: false
+  xy: 964, 964
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00012
+  rotate: true
+  xy: 1086, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+
+huaban2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fspink_00014
+  rotate: false
+  xy: 2, 1506
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00016
+  rotate: false
+  xy: 2, 964
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00018
+  rotate: true
+  xy: 2, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00020
+  rotate: true
+  xy: 544, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00022
+  rotate: false
+  xy: 964, 1506
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00024
+  rotate: false
+  xy: 964, 964
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00026
+  rotate: true
+  xy: 1086, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+
+huaban3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fspink_00028
+  rotate: false
+  xy: 2, 1506
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00030
+  rotate: false
+  xy: 2, 964
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00032
+  rotate: true
+  xy: 2, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00034
+  rotate: true
+  xy: 544, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00036
+  rotate: false
+  xy: 964, 1506
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00038
+  rotate: false
+  xy: 964, 964
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00040
+  rotate: true
+  xy: 1086, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+
+huaban4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fspink_00042
+  rotate: false
+  xy: 2, 1506
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00044
+  rotate: false
+  xy: 2, 964
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00046
+  rotate: true
+  xy: 2, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00048
+  rotate: true
+  xy: 544, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00050
+  rotate: false
+  xy: 964, 1506
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00052
+  rotate: false
+  xy: 964, 964
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00054
+  rotate: true
+  xy: 1086, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+
+huaban5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fspink_00056
+  rotate: false
+  xy: 2, 1506
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00058
+  rotate: false
+  xy: 2, 964
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00060
+  rotate: true
+  xy: 2, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00062
+  rotate: true
+  xy: 544, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00064
+  rotate: false
+  xy: 964, 1506
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00066
+  rotate: false
+  xy: 964, 964
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00068
+  rotate: true
+  xy: 1086, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+
+huaban6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fspink_00070
+  rotate: false
+  xy: 2, 1506
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00072
+  rotate: false
+  xy: 2, 964
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00074
+  rotate: true
+  xy: 2, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00076
+  rotate: true
+  xy: 544, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00078
+  rotate: false
+  xy: 964, 1506
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00080
+  rotate: false
+  xy: 964, 964
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00082
+  rotate: true
+  xy: 1086, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+
+huaban7.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fspink_00084
+  rotate: false
+  xy: 2, 1506
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00086
+  rotate: false
+  xy: 2, 964
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00088
+  rotate: true
+  xy: 2, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00090
+  rotate: true
+  xy: 544, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00092
+  rotate: false
+  xy: 964, 1506
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00094
+  rotate: false
+  xy: 964, 964
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+fspink_00096
+  rotate: true
+  xy: 1086, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+
+huaban8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fspink_00098
+  rotate: false
+  xy: 2, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1

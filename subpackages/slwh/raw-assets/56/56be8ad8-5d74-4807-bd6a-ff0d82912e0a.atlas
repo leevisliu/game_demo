@@ -1,0 +1,41 @@
+
+shu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sdi
+  rotate: false
+  xy: 2, 136
+  size: 541, 105
+  orig: 541, 105
+  offset: 0, 0
+  index: -1
+shuangguang
+  rotate: false
+  xy: 338, 16
+  size: 163, 118
+  orig: 163, 118
+  offset: 0, 0
+  index: -1
+syou
+  rotate: false
+  xy: 2, 2
+  size: 166, 132
+  orig: 166, 132
+  offset: 0, 0
+  index: -1
+szuo
+  rotate: false
+  xy: 170, 2
+  size: 166, 132
+  orig: 166, 132
+  offset: 0, 0
+  index: -1
+wenzi-shu
+  rotate: false
+  xy: 545, 164
+  size: 79, 77
+  orig: 79, 77
+  offset: 0, 0
+  index: -1

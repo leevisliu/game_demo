@@ -1,0 +1,20 @@
+
+guanbi.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanbi
+  rotate: false
+  xy: 2, 18
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+piao
+  rotate: false
+  xy: 74, 2
+  size: 36, 91
+  orig: 36, 91
+  offset: 0, 0
+  index: -1

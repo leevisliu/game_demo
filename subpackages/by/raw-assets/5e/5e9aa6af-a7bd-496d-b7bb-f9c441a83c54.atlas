@@ -1,0 +1,20 @@
+
+26.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dasanyuan_01
+  rotate: false
+  xy: 180, 24
+  size: 158, 155
+  orig: 158, 155
+  offset: 0, 0
+  index: -1
+dasanyuan_02
+  rotate: false
+  xy: 0, 0
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1

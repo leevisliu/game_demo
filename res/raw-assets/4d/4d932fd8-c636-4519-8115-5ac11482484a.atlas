@@ -1,0 +1,90 @@
+
+liuju.png
+size: 2416,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lj_1
+  rotate: false
+  xy: 2, 244
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+lj_10
+  rotate: false
+  xy: 1610, 2
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+lj_11
+  rotate: false
+  xy: 2012, 244
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+lj_12
+  rotate: false
+  xy: 2012, 2
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+lj_2
+  rotate: false
+  xy: 2, 2
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+lj_3
+  rotate: false
+  xy: 404, 244
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+lj_4
+  rotate: false
+  xy: 404, 2
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+lj_5
+  rotate: false
+  xy: 806, 244
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+lj_6
+  rotate: false
+  xy: 806, 2
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+lj_7
+  rotate: false
+  xy: 1208, 244
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+lj_8
+  rotate: false
+  xy: 1208, 2
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+lj_9
+  rotate: false
+  xy: 1610, 244
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1

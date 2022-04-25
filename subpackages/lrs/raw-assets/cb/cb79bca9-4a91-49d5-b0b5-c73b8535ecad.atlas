@@ -1,0 +1,20 @@
+
+guang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_guangxiao
+  rotate: true
+  xy: 2, 2
+  size: 234, 588
+  orig: 234, 588
+  offset: 0, 0
+  index: -1
+img_taiyang
+  rotate: false
+  xy: 592, 69
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1

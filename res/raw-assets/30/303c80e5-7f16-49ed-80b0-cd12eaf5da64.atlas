@@ -1,0 +1,139 @@
+
+qianggang.png
+size: 2560,1976
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qg_1
+  rotate: true
+  xy: 2, 1110
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_10
+  rotate: true
+  xy: 2278, 1110
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_11
+  rotate: false
+  xy: 848, 1412
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_12
+  rotate: false
+  xy: 848, 1130
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_13
+  rotate: false
+  xy: 848, 848
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_14
+  rotate: true
+  xy: 1714, 244
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_15
+  rotate: true
+  xy: 1996, 244
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_16
+  rotate: true
+  xy: 2278, 244
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_17
+  rotate: false
+  xy: 848, 566
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_18
+  rotate: false
+  xy: 848, 284
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_19
+  rotate: false
+  xy: 848, 2
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_2
+  rotate: true
+  xy: 2, 244
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_3
+  rotate: true
+  xy: 284, 1110
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_4
+  rotate: true
+  xy: 284, 244
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_5
+  rotate: true
+  xy: 566, 1110
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_6
+  rotate: true
+  xy: 566, 244
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_7
+  rotate: false
+  xy: 848, 1694
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_8
+  rotate: true
+  xy: 1714, 1110
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1
+qg_9
+  rotate: true
+  xy: 1996, 1110
+  size: 864, 280
+  orig: 864, 280
+  offset: 0, 0
+  index: -1

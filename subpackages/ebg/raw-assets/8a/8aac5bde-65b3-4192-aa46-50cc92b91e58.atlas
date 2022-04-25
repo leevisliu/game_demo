@@ -1,0 +1,167 @@
+
+zhongjifang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 233
+  size: 274, 262
+  orig: 274, 262
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 278, 246
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 2, 90
+  size: 124, 94
+  orig: 124, 94
+  offset: 0, 0
+  index: -1
+jiu
+  rotate: true
+  xy: 418, 302
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+ma
+  rotate: false
+  xy: 278, 319
+  size: 83, 105
+  orig: 83, 105
+  offset: 0, 0
+  index: -1
+ma1
+  rotate: false
+  xy: 2, 2
+  size: 94, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+sg-0
+  rotate: true
+  xy: 184, 102
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+sg-1
+  rotate: true
+  xy: 188, 8
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+sg-10
+  rotate: true
+  xy: 363, 356
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+sg-11
+  rotate: true
+  xy: 363, 291
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+sg-12
+  rotate: false
+  xy: 188, 48
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+sg-13
+  rotate: false
+  xy: 229, 48
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+sg-2
+  rotate: false
+  xy: 351, 239
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+sg-3
+  rotate: false
+  xy: 184, 134
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+sg-4
+  rotate: false
+  xy: 432, 402
+  size: 69, 44
+  orig: 69, 44
+  offset: 0, 0
+  index: -1
+sg-5
+  rotate: true
+  xy: 142, 22
+  size: 75, 44
+  orig: 75, 44
+  offset: 0, 0
+  index: -1
+sg-6
+  rotate: true
+  xy: 98, 12
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+sg-7
+  rotate: false
+  xy: 418, 353
+  size: 67, 47
+  orig: 67, 47
+  offset: 0, 0
+  index: -1
+sg-8
+  rotate: false
+  xy: 432, 448
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+sg-9
+  rotate: false
+  xy: 185, 186
+  size: 76, 45
+  orig: 76, 45
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 278, 426
+  size: 152, 69
+  orig: 152, 69
+  offset: 0, 0
+  index: -1
+wenzidi
+  rotate: false
+  xy: 2, 186
+  size: 181, 45
+  orig: 181, 45
+  offset: 0, 0
+  index: -1
+yuanbao
+  rotate: true
+  xy: 128, 99
+  size: 85, 54
+  orig: 85, 54
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+fanbzp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiao_ico02
+  rotate: false
+  xy: 2, 2
+  size: 219, 219
+  orig: 219, 219
+  offset: 0, 0
+  index: -1
+xiao_icon01
+  rotate: false
+  xy: 223, 85
+  size: 102, 136
+  orig: 102, 136
+  offset: 0, 0
+  index: -1

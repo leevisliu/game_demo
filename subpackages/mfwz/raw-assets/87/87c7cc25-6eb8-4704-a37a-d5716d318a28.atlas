@@ -1,0 +1,153 @@
+
+jiandunzhanshi.png
+size: 708,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jianshi_0
+  rotate: false
+  xy: 2, 174
+  size: 182, 204
+  orig: 182, 204
+  offset: 0, 0
+  index: -1
+jianshi_1
+  rotate: false
+  xy: 402, 3
+  size: 102, 105
+  orig: 102, 105
+  offset: 0, 0
+  index: -1
+jianshi_10
+  rotate: true
+  xy: 584, 220
+  size: 61, 109
+  orig: 61, 109
+  offset: 0, 0
+  index: -1
+jianshi_11
+  rotate: true
+  xy: 395, 251
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1
+jianshi_12
+  rotate: false
+  xy: 236, 39
+  size: 88, 163
+  orig: 88, 163
+  offset: 0, 0
+  index: -1
+jianshi_13
+  rotate: false
+  xy: 306, 227
+  size: 87, 151
+  orig: 87, 151
+  offset: 0, 0
+  index: -1
+jianshi_14
+  rotate: false
+  xy: 326, 2
+  size: 74, 56
+  orig: 74, 56
+  offset: 0, 0
+  index: -1
+jianshi_15
+  rotate: false
+  xy: 326, 60
+  size: 72, 165
+  orig: 72, 165
+  offset: 0, 0
+  index: -1
+jianshi_16
+  rotate: true
+  xy: 648, 304
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+jianshi_17
+  rotate: true
+  xy: 506, 81
+  size: 63, 143
+  orig: 63, 143
+  offset: 0, 0
+  index: -1
+jianshi_18
+  rotate: false
+  xy: 400, 110
+  size: 79, 139
+  orig: 79, 139
+  offset: 0, 0
+  index: -1
+jianshi_19
+  rotate: true
+  xy: 481, 146
+  size: 103, 101
+  orig: 103, 101
+  offset: 0, 0
+  index: -1
+jianshi_2
+  rotate: true
+  xy: 605, 15
+  size: 64, 98
+  orig: 64, 98
+  offset: 0, 0
+  index: -1
+jianshi_20
+  rotate: false
+  xy: 236, 6
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+jianshi_3
+  rotate: false
+  xy: 567, 283
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+jianshi_4
+  rotate: true
+  xy: 186, 181
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+jianshi_5
+  rotate: false
+  xy: 2, 16
+  size: 232, 156
+  orig: 232, 156
+  offset: 0, 0
+  index: -1
+jianshi_6
+  rotate: true
+  xy: 584, 158
+  size: 60, 98
+  orig: 60, 98
+  offset: 0, 0
+  index: -1
+jianshi_7
+  rotate: false
+  xy: 484, 265
+  size: 81, 113
+  orig: 81, 113
+  offset: 0, 0
+  index: -1
+jianshi_8
+  rotate: false
+  xy: 186, 204
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+jianshi_9
+  rotate: true
+  xy: 506, 3
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1

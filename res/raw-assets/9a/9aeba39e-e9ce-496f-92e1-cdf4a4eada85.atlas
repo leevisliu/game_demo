@@ -1,0 +1,13 @@
+
+tingpai.png
+size: 48,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ting
+  rotate: false
+  xy: 2, 2
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1

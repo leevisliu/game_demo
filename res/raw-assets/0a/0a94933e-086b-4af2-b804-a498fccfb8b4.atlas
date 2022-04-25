@@ -1,0 +1,125 @@
+
+tuiguang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+000
+  rotate: false
+  xy: 2, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 2, 156
+  size: 89, 525
+  orig: 89, 525
+  offset: 0, 0
+  index: -1
+jiaocheng
+  rotate: false
+  xy: 533, 47
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+jiaocheng1
+  rotate: false
+  xy: 923, 177
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+mingxi.png
+  rotate: false
+  xy: 701, 47
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+mingxi1
+  rotate: false
+  xy: 617, 47
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+paihang
+  rotate: false
+  xy: 785, 47
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+paihang1
+  rotate: false
+  xy: 923, 107
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+tutorial 00262
+  rotate: false
+  xy: 143, 26
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00263
+  rotate: false
+  xy: 273, 26
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00264
+  rotate: false
+  xy: 403, 26
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00265
+  rotate: false
+  xy: 533, 117
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00266
+  rotate: false
+  xy: 663, 117
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tutorial 00267
+  rotate: false
+  xy: 793, 117
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xinxi.png
+  rotate: true
+  xy: 953, 23
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+xinxi1
+  rotate: false
+  xy: 869, 37
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+xuanzhong
+  rotate: false
+  xy: 2, 21
+  size: 139, 133
+  orig: 139, 133
+  offset: 0, 0
+  index: -1

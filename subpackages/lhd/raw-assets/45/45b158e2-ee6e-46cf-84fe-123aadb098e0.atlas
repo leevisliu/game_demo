@@ -1,0 +1,167 @@
+
+biaotizi.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diban
+  rotate: true
+  xy: 869, 321
+  size: 162, 245
+  orig: 162, 245
+  offset: 0, 0
+  index: -1
+guangxian
+  rotate: false
+  xy: 2, 2
+  size: 261, 112
+  orig: 261, 112
+  offset: 0, 0
+  index: -1
+guangxiao2
+  rotate: false
+  xy: 2, 116
+  size: 416, 367
+  orig: 416, 367
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 420, 251
+  size: 447, 232
+  orig: 447, 232
+  offset: 0, 0
+  index: -1
+shuaguang_00000
+  rotate: false
+  xy: 1116, 326
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+shuaguang_00001
+  rotate: true
+  xy: 650, 167
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+shuaguang_00002
+  rotate: false
+  xy: 1200, 326
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+shuaguang_00003
+  rotate: false
+  xy: 1284, 326
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+shuaguang_00004
+  rotate: false
+  xy: 1368, 326
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+shuaguang_00005
+  rotate: false
+  xy: 1452, 326
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+shuaguang_00006
+  rotate: false
+  xy: 1536, 326
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+shuaguang_00007
+  rotate: false
+  xy: 1620, 326
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+shuaguang_00008
+  rotate: false
+  xy: 1704, 326
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+shuaguang_00009
+  rotate: false
+  xy: 1788, 326
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+shuaguang_00010
+  rotate: false
+  xy: 1872, 326
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+shuaguang_00011
+  rotate: false
+  xy: 1956, 326
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+shuaguang_00012
+  rotate: true
+  xy: 265, 32
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+shuaguang_00013
+  rotate: true
+  xy: 869, 237
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+shuaguang_00014
+  rotate: true
+  xy: 424, 56
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+shuaguang_00015
+  rotate: true
+  xy: 650, 83
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+shuaguang_00016
+  rotate: true
+  xy: 809, 153
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+shuaguang_00017
+  rotate: true
+  xy: 809, 69
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: true
+  xy: 420, 140
+  size: 109, 228
+  orig: 109, 228
+  offset: 0, 0
+  index: -1

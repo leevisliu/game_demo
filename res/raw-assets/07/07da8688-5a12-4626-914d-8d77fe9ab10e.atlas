@@ -1,0 +1,223 @@
+
+sangong.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 577, 58
+  size: 49, 19
+  orig: 49, 19
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 286, 20
+  size: 49, 19
+  orig: 49, 19
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 809, 107
+  size: 49, 19
+  orig: 49, 19
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 628, 58
+  size: 49, 19
+  orig: 49, 19
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 337, 20
+  size: 49, 19
+  orig: 49, 19
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 809, 86
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+S_00000
+  rotate: false
+  xy: 704, 66
+  size: 4, 11
+  orig: 4, 11
+  offset: 0, 0
+  index: -1
+S_00001
+  rotate: true
+  xy: 957, 115
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+S_00002
+  rotate: true
+  xy: 897, 111
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+S_00003
+  rotate: true
+  xy: 286, 2
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+S_00004
+  rotate: true
+  xy: 442, 41
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+S_00005
+  rotate: true
+  xy: 388, 24
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+S_00006
+  rotate: true
+  xy: 930, 111
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+S_00007
+  rotate: true
+  xy: 425, 24
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+S_00008
+  rotate: true
+  xy: 478, 42
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+S_00009
+  rotate: true
+  xy: 507, 42
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+S_00010
+  rotate: false
+  xy: 373, 2
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+beizi1
+  rotate: false
+  xy: 679, 58
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+beizi2
+  rotate: false
+  xy: 404, 4
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+cao
+  rotate: false
+  xy: 860, 108
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+cao1
+  rotate: true
+  xy: 388, 2
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+cao3
+  rotate: false
+  xy: 392, 41
+  size: 48, 15
+  orig: 48, 15
+  offset: 0, 0
+  index: -1
+chahu
+  rotate: false
+  xy: 710, 82
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+denglong
+  rotate: true
+  xy: 577, 79
+  size: 47, 131
+  orig: 47, 131
+  offset: 0, 0
+  index: -1
+gan
+  rotate: true
+  xy: 392, 58
+  size: 68, 183
+  orig: 68, 183
+  offset: 0, 0
+  index: -1
+nvhai
+  rotate: true
+  xy: 220, 41
+  size: 85, 170
+  orig: 85, 170
+  offset: 0, 0
+  index: -1
+图层 1
+  rotate: true
+  xy: 220, 41
+  size: 85, 170
+  orig: 85, 170
+  offset: 0, 0
+  index: -1
+pai
+  rotate: false
+  xy: 220, 7
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 764, 84
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 320, 10
+  size: 51, 8
+  orig: 51, 8
+  offset: 0, 0
+  index: -1
+zhuozi
+  rotate: false
+  xy: 2, 3
+  size: 216, 123
+  orig: 216, 123
+  offset: 0, 0
+  index: -1

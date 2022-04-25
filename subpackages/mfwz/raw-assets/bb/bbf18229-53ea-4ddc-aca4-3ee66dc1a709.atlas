@@ -1,0 +1,125 @@
+
+renmatongling.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+renma_0
+  rotate: false
+  xy: 822, 61
+  size: 70, 132
+  orig: 70, 132
+  offset: 0, 0
+  index: -1
+renma_1
+  rotate: false
+  xy: 2, 175
+  size: 516, 302
+  orig: 516, 302
+  offset: 0, 0
+  index: -1
+renma_10
+  rotate: false
+  xy: 462, 23
+  size: 107, 150
+  orig: 107, 150
+  offset: 0, 0
+  index: -1
+renma_11
+  rotate: false
+  xy: 894, 2
+  size: 59, 129
+  orig: 59, 129
+  offset: 0, 0
+  index: -1
+renma_12
+  rotate: false
+  xy: 520, 315
+  size: 252, 162
+  orig: 252, 162
+  offset: 0, 0
+  index: -1
+renma_13
+  rotate: true
+  xy: 774, 373
+  size: 104, 191
+  orig: 104, 191
+  offset: 0, 0
+  index: -1
+renma_14
+  rotate: false
+  xy: 737, 71
+  size: 83, 122
+  orig: 83, 122
+  offset: 0, 0
+  index: -1
+renma_15
+  rotate: false
+  xy: 707, 205
+  size: 61, 108
+  orig: 61, 108
+  offset: 0, 0
+  index: -1
+renma_16
+  rotate: false
+  xy: 309, 21
+  size: 151, 152
+  orig: 151, 152
+  offset: 0, 0
+  index: -1
+renma_2
+  rotate: true
+  xy: 571, 61
+  size: 139, 93
+  orig: 139, 93
+  offset: 0, 0
+  index: -1
+renma_3
+  rotate: false
+  xy: 770, 195
+  size: 118, 112
+  orig: 118, 112
+  offset: 0, 0
+  index: -1
+renma_4
+  rotate: true
+  xy: 2, 19
+  size: 154, 305
+  orig: 154, 305
+  offset: 0, 0
+  index: -1
+renma_5
+  rotate: true
+  xy: 774, 309
+  size: 62, 141
+  orig: 62, 141
+  offset: 0, 0
+  index: -1
+renma_6
+  rotate: false
+  xy: 917, 254
+  size: 72, 117
+  orig: 72, 117
+  offset: 0, 0
+  index: -1
+renma_7
+  rotate: false
+  xy: 666, 59
+  size: 69, 141
+  orig: 69, 141
+  offset: 0, 0
+  index: -1
+renma_8
+  rotate: false
+  xy: 894, 133
+  size: 69, 119
+  orig: 69, 119
+  offset: 0, 0
+  index: -1
+renma_9
+  rotate: true
+  xy: 520, 202
+  size: 111, 185
+  orig: 111, 185
+  offset: 0, 0
+  index: -1
